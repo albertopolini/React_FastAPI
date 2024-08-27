@@ -1,0 +1,9 @@
+fastapi
+langchain
+numpy
+pandas
+transformers
+torch
+uvicorn
+lxml
+soccerdata

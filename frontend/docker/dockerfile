@@ -1,0 +1,22 @@
+# Usa l'immagine di Node.js come base
+FROM node:latest
+
+# Imposta la directory di lavoro all'interno del container
+WORKDIR /app
+
+
+# Installa le dipendenze
+# RUN npm install
+# RUN npm install react react-router vite tailwindcss
+
+# Copia il resto del codice nell'immagine
+COPY package.json .
+
+# Esegui il comando di build per il frontend
+RUN npm install
+
+# Espone la porta 3000 per il server web
+EXPOSE 3000
+
+# Comando di avvio del server web
+# CMD ["npm", "start"]

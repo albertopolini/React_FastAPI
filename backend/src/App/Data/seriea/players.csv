@@ -1,0 +1,1581 @@
+Season,Team,Player,Nationality,Role,Age,Presences,Gol,Assist,Penalty Goal,Penalty Attempt,Expected Goals,Expected Assists,Progressive Carries,Progressive Passes,Progressive Receptions,Goals per 90 minutes,Assists per 90 minutes,Expected Goals per 90 minutes,Expected Assists per 90 minutes
+2223,Atalanta,Ademola Lookman,NGA,Attaccante,24,31,13,6,10,3,9.1,6.6,73,79,185,0.68,0.31,0.47,0.34
+2223,Atalanta,Berat Djimsiti,ALB,Difensore,29,24,0,1,0,0,0.6,0.2,7,45,9,0.0,0.05,0.03,0.01
+2223,Atalanta,Brandon Soppy,FRA,Difensore,20,15,0,3,0,0,0.3,1.6,23,33,35,0.0,0.42,0.05,0.23
+2223,Atalanta,Caleb Okoli,ITA,Difensore,21,17,0,0,0,0,0.5,0.0,4,19,12,0.0,0.0,0.04,0.0
+2223,Atalanta,Davide Zappacosta,ITA,Difensore,30,21,4,2,4,0,1.5,1.6,48,55,101,0.24,0.12,0.09,0.1
+2223,Atalanta,Duván Zapata,COL,Attaccante,31,25,2,2,2,0,3.9,1.1,35,40,140,0.13,0.13,0.25,0.07
+2223,Atalanta,Francesco Rossi,ITA,Portiere,31,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Atalanta,Giorgio Scalvini,ITA,Difensore,18,32,2,2,2,0,2.0,0.4,22,158,34,0.08,0.08,0.08,0.01
+2223,Atalanta,Hans Hateboer,NED,Difensore,28,17,1,1,1,0,1.3,1.5,16,55,73,0.06,0.06,0.09,0.1
+2223,Atalanta,Jeremie Boga,CIV,,25,23,2,5,2,0,1.9,2.8,64,53,78,0.23,0.58,0.22,0.33
+2223,Atalanta,Joakim Mæhle,DEN,,25,34,3,3,3,0,3.0,2.9,81,137,186,0.12,0.12,0.12,0.12
+2223,Atalanta,José Luis Palomino,ARG,Difensore,32,15,1,0,1,0,0.5,0.3,3,29,3,0.12,0.0,0.06,0.03
+2223,Atalanta,Juan Musso,ARG,Portiere,28,24,0,0,0,0,0.0,0.1,0,0,0,0.0,0.0,0.0,0.0
+2223,Atalanta,Luis Muriel,COL,Attaccante,31,29,3,3,2,1,2.8,3.5,53,71,124,0.25,0.25,0.24,0.3
+2223,Atalanta,Lukáš Vorlický,CZE,,20,3,0,0,0,0,0.0,0.0,2,3,3,0.0,0.0,0.18,0.0
+2223,Atalanta,Marco Sportiello,ITA,Portiere,30,15,0,0,0,0,0.0,0.0,0,2,0,0.0,0.0,0.0,0.0
+2223,Atalanta,Mario Pašalić,CRO,,27,32,5,2,5,0,5.7,2.2,24,82,83,0.25,0.1,0.29,0.11
+2223,Atalanta,Marten de Roon,NED,Centrocampista,31,35,3,1,3,0,1.1,1.8,18,171,23,0.09,0.03,0.03,0.06
+2223,Atalanta,Matteo Ruggeri,ITA,,20,15,0,1,0,0,0.6,0.9,22,55,65,0.0,0.11,0.06,0.1
+2223,Atalanta,Merih Demiral,TUR,Difensore,24,28,1,0,1,0,0.7,0.5,3,26,4,0.06,0.0,0.04,0.03
+2223,Atalanta,Nadir Zortea,ITA,,23,9,1,0,1,0,0.1,0.6,11,9,13,0.41,0.0,0.05,0.23
+2223,Atalanta,Rafael Tolói,ITA,Difensore,31,32,2,1,2,0,2.8,1.2,21,148,29,0.06,0.03,0.09,0.04
+2223,Atalanta,Rasmus Højlund,DEN,Attaccante,19,32,9,2,9,0,9.5,2.4,40,37,224,0.44,0.1,0.47,0.12
+2223,Atalanta,Ruslan Malinovskyi,UKR,,29,15,1,2,1,0,0.6,2.0,19,50,36,0.16,0.33,0.1,0.33
+2223,Atalanta,Teun Koopmeiners,NED,Centrocampista,24,33,10,4,8,2,7.6,6.4,60,186,106,0.31,0.13,0.24,0.2
+2223,Atalanta,Tommaso De Nipoti,ITA,Centrocampista,19,1,0,0,0,0,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0
+2223,Atalanta,Éderson,BRA,Centrocampista,23,35,1,1,1,0,2.0,2.3,37,93,62,0.04,0.04,0.08,0.09
+2223,Bologna,Adama Soumaoro,FRA,Difensore,30,23,0,0,0,0,0.3,0.0,7,50,1,0.0,0.0,0.02,0.0
+2223,Bologna,Andrea Cambiaso,ITA,Difensore,22,32,0,3,0,0,0.9,2.4,64,83,105,0.0,0.12,0.04,0.1
+2223,Bologna,Antonio Raimondo,ITA,Attaccante,18,2,0,0,0,0,0.0,0.0,1,0,3,0.0,0.0,0.0,0.0
+2223,Bologna,Charalambos Lykogiannis,GRE,Difensore,28,21,2,0,2,0,0.8,1.5,32,60,47,0.16,0.0,0.06,0.12
+2223,Bologna,Denso Kasius,NED,Difensore,19,7,0,2,0,0,0.1,0.7,9,9,21,0.0,0.53,0.03,0.18
+2223,Bologna,Emanuel Vignato,ITA,,21,8,0,1,0,0,0.1,0.4,3,9,4,0.0,0.37,0.03,0.14
+2223,Bologna,Francesco Bardi,ITA,Portiere,30,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Bologna,Gary Medel,CHI,,34,29,0,1,0,0,0.1,0.4,1,58,5,0.0,0.06,0.0,0.02
+2223,Bologna,Giorgos Kyriakopoulos,GRE,,26,12,0,2,0,0,0.2,0.8,21,23,50,0.0,0.26,0.03,0.1
+2223,Bologna,Jerdy Schouten,NED,Centrocampista,25,33,0,2,0,0,0.4,1.5,15,139,29,0.0,0.07,0.02,0.05
+2223,Bologna,Jhon Lucumí,COL,Difensore,24,33,0,1,0,0,0.7,0.4,37,84,6,0.0,0.03,0.02,0.01
+2223,Bologna,Joaquin Sosa,URU,Difensore,20,10,0,0,0,0,0.1,0.0,6,13,1,0.0,0.0,0.01,0.0
+2223,Bologna,Joshua Zirkzee,NED,Attaccante,21,19,2,2,2,0,3.1,1.4,10,17,74,0.22,0.22,0.34,0.15
+2223,Bologna,Kevin Bonifazi,ITA,Difensore,26,13,0,0,0,0,0.2,0.0,4,33,0,0.0,0.0,0.02,0.0
+2223,Bologna,Lewis Ferguson,SCO,,22,32,7,0,7,0,4.7,1.0,31,88,114,0.27,0.0,0.18,0.04
+2223,Bologna,Lorenzo De Silvestri,ITA,Difensore,34,15,1,0,1,0,0.6,0.2,18,31,17,0.13,0.0,0.09,0.03
+2223,Bologna,Marko Arnautović,AUT,Attaccante,33,21,10,0,7,3,7.2,1.9,13,36,116,0.59,0.0,0.42,0.11
+2223,Bologna,Michel Aebischer,SUI,Attaccante,25,32,1,0,1,0,1.5,0.6,14,46,85,0.06,0.0,0.08,0.04
+2223,Bologna,Musa Barrow,GAM,Attaccante,23,32,3,8,3,0,3.0,4.7,68,58,141,0.14,0.37,0.14,0.22
+2223,Bologna,Nicola Sansone,ITA,Attaccante,30,18,4,2,4,0,2.8,1.0,17,13,72,0.49,0.24,0.34,0.12
+2223,Bologna,Nicolás Domínguez,ARG,Centrocampista,24,31,3,2,3,0,2.6,2.9,39,147,84,0.12,0.08,0.1,0.11
+2223,Bologna,Niklas Pyyhtiä,FIN,Centrocampista,18,6,0,1,0,0,0.2,0.1,2,1,5,0.0,0.82,0.12,0.12
+2223,Bologna,Nikola Moro,CRO,Centrocampista,24,26,1,5,1,0,0.8,2.2,24,102,35,0.07,0.37,0.06,0.16
+2223,Bologna,Riccardo Orsolini,ITA,Attaccante,25,32,11,4,8,3,10.5,3.1,53,62,212,0.47,0.17,0.44,0.13
+2223,Bologna,Roberto Soriano,ITA,Attaccante,31,27,1,3,1,0,0.6,2.5,30,56,66,0.07,0.2,0.04,0.17
+2223,Bologna,Stefan Posch,AUT,Difensore,25,30,6,2,6,0,3.3,2.0,45,148,65,0.21,0.07,0.12,0.07
+2223,Bologna,Łukasz Skorupski,POL,Portiere,31,37,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Cremonese,Alberto Basso,ITA,Centrocampista,18,1,0,0,0,0,0.0,0.0,0,1,2,0.0,0.0,0.2,0.0
+2223,Cremonese,Alex Ferrari,ITA,Difensore,28,16,0,0,0,0,0.0,0.1,2,27,5,0.0,0.0,0.0,0.01
+2223,Cremonese,Charles Pickel,COD,Centrocampista,25,33,1,0,1,0,1.6,1.2,18,104,61,0.04,0.0,0.06,0.04
+2223,Cremonese,Christian Acella,ITA,Centrocampista,20,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Cremonese,Cristian Buonaiuto,ITA,,29,29,1,0,0,1,3.3,1.8,35,39,89,0.09,0.0,0.3,0.16
+2223,Cremonese,Cyriel Dessers,NGA,Attaccante,27,26,6,1,6,0,7.1,1.6,21,27,110,0.34,0.06,0.4,0.09
+2223,Cremonese,Daniel Ciofani,ITA,Attaccante,37,32,8,0,5,3,5.5,0.7,5,10,36,0.68,0.0,0.47,0.06
+2223,Cremonese,David Okereke,NGA,Attaccante,24,33,7,0,6,1,5.9,1.1,56,70,144,0.28,0.0,0.24,0.04
+2223,Cremonese,Emanuel Aiwum,AUT,Difensore,21,23,0,0,0,0,0.2,0.4,19,46,7,0.0,0.0,0.01,0.02
+2223,Cremonese,Emanuele Valeri,ITA,Difensore,23,37,2,3,2,0,2.2,4.6,111,90,158,0.06,0.1,0.07,0.15
+2223,Cremonese,Felix Afena-Gyan,GHA,Attaccante,19,23,0,0,0,0,1.9,0.1,22,8,54,0.0,0.0,0.21,0.02
+2223,Cremonese,Frank Tsadjout,ITA,Attaccante,23,20,3,1,3,0,2.0,0.5,15,18,63,0.26,0.09,0.17,0.05
+2223,Cremonese,Giacomo Quagliata,ITA,Difensore,22,20,0,1,0,0,0.5,1.0,19,28,45,0.0,0.13,0.06,0.13
+2223,Cremonese,Gonzalo Escalante,ARG,Centrocampista,29,9,0,1,0,0,0.2,0.2,3,30,8,0.0,0.16,0.03,0.04
+2223,Cremonese,Ionuț Radu,ROU,Portiere,25,9,0,0,0,0,0.0,0.4,0,0,0,0.0,0.0,0.0,0.04
+2223,Cremonese,Jack Hendry,SCO,Difensore,27,4,0,0,0,0,0.0,0.0,1,9,0,0.0,0.0,0.0,0.01
+2223,Cremonese,Jaime Báez,URU,Difensore,27,2,0,0,0,0,0.1,0.1,5,4,8,0.0,0.0,0.12,0.12
+2223,Cremonese,Johan Vásquez,MEX,Difensore,23,25,1,0,1,0,0.7,0.3,18,48,12,0.05,0.0,0.04,0.02
+2223,Cremonese,Leonardo Sernicola,ITA,Difensore,25,32,2,2,2,0,1.3,2.3,60,62,95,0.08,0.08,0.05,0.09
+2223,Cremonese,Luca Zanimacchia,ITA,,24,15,0,0,0,0,1.2,0.9,22,26,70,0.0,0.0,0.14,0.1
+2223,Cremonese,Luka Lochoshvili,GEO,Difensore,24,25,1,2,1,0,0.6,1.1,17,70,5,0.05,0.1,0.03,0.05
+2223,Cremonese,Marco Benassi,ITA,Centrocampista,27,15,0,0,0,0,1.3,0.4,10,27,30,0.0,0.0,0.12,0.04
+2223,Cremonese,Marco Carnesecchi,ITA,Portiere,22,27,0,1,0,0,0.0,0.2,0,0,0,0.0,0.04,0.0,0.01
+2223,Cremonese,Matteo Bianchetti,ITA,Difensore,29,25,1,0,1,0,0.8,0.5,6,47,4,0.04,0.0,0.03,0.02
+2223,Cremonese,Michele Castagnetti,ITA,Centrocampista,32,27,0,1,0,0,0.6,1.8,14,120,10,0.0,0.06,0.04,0.12
+2223,Cremonese,Mouhamadou Sarr,SEN,Portiere,25,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Cremonese,Pablo Galdames Millán,CHI,Centrocampista,25,13,1,2,1,0,0.3,1.1,5,33,17,0.12,0.25,0.04,0.13
+2223,Cremonese,Paolo Ghiglione,ITA,Difensore,25,15,1,1,1,0,0.8,0.6,5,19,35,0.13,0.13,0.1,0.08
+2223,Cremonese,Samuel Di Carmine,ITA,Attaccante,33,2,0,0,0,0,0.1,0.0,1,1,2,0.0,0.0,0.28,0.0
+2223,Cremonese,Santiago Ascacíbar,ARG,Centrocampista,25,13,0,0,0,0,0.4,0.4,1,41,6,0.0,0.0,0.05,0.05
+2223,Cremonese,Soualiho Meïté,FRA,Centrocampista,28,31,0,2,0,0,0.5,0.7,26,82,22,0.0,0.08,0.02,0.03
+2223,Cremonese,Tommaso Milanese,ITA,Centrocampista,20,2,0,0,0,0,0.0,0.2,2,2,1,0.0,0.0,0.0,0.63
+2223,Cremonese,Vlad Chiricheș,ROU,Difensore,32,16,0,0,0,0,0.0,0.0,2,18,1,0.0,0.0,0.0,0.0
+2223,Empoli,Alberto Grassi,ITA,Centrocampista,27,25,0,0,0,0,0.6,0.4,5,50,10,0.0,0.0,0.04,0.03
+2223,Empoli,Ardian Ismajli,ALB,Difensore,25,25,0,0,0,0,0.7,0.3,10,42,0,0.0,0.0,0.03,0.01
+2223,Empoli,Duccio Degl'Innocenti,ITA,Centrocampista,19,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Empoli,Emanuel Vignato,ITA,,21,5,1,0,1,0,0.2,0.1,1,7,5,1.58,0.0,0.3,0.19
+2223,Empoli,Emmanuel Ekong,SWE,Attaccante,20,2,0,0,0,0,0.0,0.0,1,0,1,0.0,0.0,0.2,0.0
+2223,Empoli,Fabiano Parisi,ITA,Difensore,21,33,2,0,2,0,1.8,2.0,102,154,68,0.06,0.0,0.06,0.06
+2223,Empoli,Filippo Bandinelli,ITA,Centrocampista,27,35,2,0,2,0,1.7,2.6,40,101,89,0.08,0.0,0.07,0.1
+2223,Empoli,Francesco Caputo,ITA,Attaccante,34,21,5,4,3,2,7.5,2.2,16,21,128,0.26,0.21,0.39,0.12
+2223,Empoli,Guglielmo Vicario,ITA,Portiere,25,31,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Empoli,Herculano Nabian,POR,Centrocampista,18,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Empoli,Jacopo Fazzini,ITA,Centrocampista,19,21,0,0,0,0,1.0,0.9,11,21,40,0.0,0.0,0.11,0.09
+2223,Empoli,Jean-Daniel Akpa-Akpro,CIV,,29,24,1,1,1,0,1.5,1.0,19,39,37,0.07,0.07,0.1,0.06
+2223,Empoli,Koni De Winter,BEL,Difensore,20,14,0,0,0,0,0.0,0.2,2,22,0,0.0,0.0,0.0,0.01
+2223,Empoli,Liam Henderson,SCO,Centrocampista,26,25,0,1,0,0,0.5,1.4,11,38,38,0.0,0.09,0.04,0.12
+2223,Empoli,Liberato Cacace,NZL,Difensore,21,12,0,0,0,0,0.6,0.6,21,41,31,0.0,0.0,0.09,0.1
+2223,Empoli,Lorenzo Tonelli,ITA,Difensore,32,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Empoli,Marko Pjaca,CRO,,27,17,0,0,0,0,0.7,0.4,22,18,33,0.0,0.0,0.11,0.08
+2223,Empoli,Martin Satriano,URU,Attaccante,21,31,2,1,2,0,3.9,1.2,29,22,127,0.11,0.05,0.2,0.07
+2223,Empoli,Mattia Destro,ITA,Attaccante,31,17,1,0,1,0,1.4,0.4,4,4,20,0.16,0.0,0.22,0.06
+2223,Empoli,Nedim Bajrami,ALB,,23,19,1,1,1,0,1.2,1.2,22,29,47,0.1,0.1,0.12,0.11
+2223,Empoli,Nicolas Haas,SUI,Centrocampista,26,24,1,1,1,0,1.2,0.9,10,36,23,0.08,0.08,0.09,0.07
+2223,Empoli,Nicolò Cambiaghi,ITA,Attaccante,21,28,6,1,6,0,3.4,1.1,73,42,99,0.42,0.07,0.23,0.08
+2223,Empoli,Petar Stojanović,SVN,Difensore,26,27,0,1,0,0,0.3,1.0,50,91,51,0.0,0.06,0.02,0.06
+2223,Empoli,Roberto Piccoli,ITA,Attaccante,21,13,2,0,2,0,1.3,0.4,8,4,25,0.35,0.0,0.22,0.07
+2223,Empoli,Răzvan Marin,ROU,Centrocampista,26,33,2,4,2,0,1.4,4.2,35,118,27,0.07,0.14,0.05,0.15
+2223,Empoli,Sam Lammers,NED,Attaccante,25,14,1,1,1,0,2.3,0.7,9,19,67,0.1,0.1,0.23,0.07
+2223,Empoli,Samir Ujkani,KVX,Portiere,34,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Empoli,Samuele Perisan,ITA,Portiere,24,7,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Empoli,Sebastian Walukiewicz,POL,Difensore,22,11,0,0,0,0,0.3,0.1,6,13,0,0.0,0.0,0.05,0.01
+2223,Empoli,Sebastiano Luperto,ITA,Difensore,25,36,2,0,2,0,1.2,0.6,13,72,3,0.06,0.0,0.04,0.02
+2223,Empoli,Tommaso Baldanzi,ITA,Centrocampista,19,26,4,0,4,0,2.4,1.8,57,69,94,0.2,0.0,0.12,0.09
+2223,Empoli,Tyronne Ebuehi,NGA,Difensore,26,26,2,4,2,0,3.1,1.9,31,41,42,0.09,0.19,0.14,0.09
+2223,Fiorentina,Aleksa Terzić,SRB,Difensore,22,22,1,1,1,0,0.4,1.9,49,40,61,0.1,0.1,0.04,0.18
+2223,Fiorentina,Alessandro Bianco,ITA,Centrocampista,19,7,0,0,0,0,0.1,0.0,4,9,2,0.0,0.0,0.04,0.01
+2223,Fiorentina,Alfred Duncan,GHA,Centrocampista,29,25,1,0,1,0,0.5,0.6,18,70,30,0.08,0.0,0.04,0.05
+2223,Fiorentina,Antonín Barák,CZE,Centrocampista,27,30,2,0,2,0,2.6,1.6,45,82,93,0.1,0.0,0.13,0.08
+2223,Fiorentina,Arthur Cabral,BRA,Attaccante,24,28,8,1,6,2,7.9,0.8,11,21,86,0.5,0.06,0.49,0.05
+2223,Fiorentina,Christian Kouamé,CIV,Attaccante,24,28,4,4,4,0,5.3,3.7,50,54,203,0.19,0.19,0.26,0.18
+2223,Fiorentina,Cristiano Biraghi,ITA,Difensore,29,33,2,4,2,0,1.8,5.5,69,161,113,0.07,0.14,0.07,0.19
+2223,Fiorentina,Dodô,BRA,Difensore,23,33,1,3,1,0,0.7,2.2,72,141,104,0.04,0.12,0.03,0.09
+2223,Fiorentina,Gaetano Castrovilli,ITA,Centrocampista,25,15,2,1,2,0,1.2,1.1,12,14,16,0.25,0.13,0.15,0.14
+2223,Fiorentina,Giacomo Bonaventura,ITA,Centrocampista,32,30,5,1,5,0,4.3,3.1,64,102,91,0.24,0.05,0.2,0.15
+2223,Fiorentina,Igor,BRA,Difensore,24,27,0,0,0,0,0.5,0.2,19,76,2,0.0,0.0,0.02,0.01
+2223,Fiorentina,Jonathan Ikone,FRA,Attaccante,24,33,4,4,4,0,4.1,3.7,83,67,178,0.18,0.18,0.18,0.17
+2223,Fiorentina,Josip Brekalo,CRO,Attaccante,24,6,0,0,0,0,0.7,0.5,11,18,31,0.0,0.0,0.26,0.2
+2223,Fiorentina,Lorenzo Venuti,ITA,Difensore,27,17,0,1,0,0,0.4,0.5,24,44,43,0.0,0.1,0.04,0.05
+2223,Fiorentina,Luca Ranieri,ITA,Difensore,23,9,0,0,0,0,0.1,0.1,4,11,0,0.0,0.0,0.01,0.02
+2223,Fiorentina,Lucas Martínez Quarta,ARG,Difensore,26,27,1,1,1,0,2.5,0.6,19,119,6,0.04,0.04,0.1,0.02
+2223,Fiorentina,Luka Jović,SRB,Attaccante,24,31,6,3,6,0,7.9,1.5,8,28,75,0.35,0.18,0.46,0.09
+2223,Fiorentina,Marco Benassi,ITA,Difensore,27,2,0,0,0,0,0.0,0.1,0,9,6,0.0,0.0,0.0,0.09
+2223,Fiorentina,Michele Cerofolini,ITA,Portiere,23,5,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Fiorentina,Nicolás González,ARG,Attaccante,24,24,6,1,4,2,6.7,1.3,37,70,112,0.4,0.07,0.45,0.09
+2223,Fiorentina,Nikola Milenković,SRB,Difensore,24,27,2,1,2,0,1.9,0.5,9,78,3,0.08,0.04,0.08,0.02
+2223,Fiorentina,Pierluigi Gollini,ITA,Portiere,27,3,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Fiorentina,Pietro Terracciano,ITA,Portiere,32,29,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Fiorentina,Riccardo Saponara,ITA,Attaccante,30,29,4,3,4,0,2.8,3.4,56,56,125,0.3,0.22,0.21,0.26
+2223,Fiorentina,Riccardo Sottil,ITA,Attaccante,23,18,0,2,0,0,1.0,1.1,65,27,123,0.0,0.22,0.11,0.12
+2223,Fiorentina,Rolando Mandragora,ITA,Centrocampista,25,29,2,4,2,0,1.5,4.9,18,142,59,0.09,0.18,0.07,0.23
+2223,Fiorentina,Salvatore Sirigu,ITA,Portiere,35,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Fiorentina,Sofyan Amrabat,MAR,Centrocampista,25,29,0,1,0,0,0.5,1.1,36,176,24,0.0,0.05,0.02,0.05
+2223,Fiorentina,Szymon Żurkowski,POL,Centrocampista,24,2,0,1,0,0,0.1,0.0,3,1,4,0.0,2.81,0.33,0.06
+2223,Fiorentina,Youssef Maleh,MAR,Centrocampista,23,7,0,0,0,0,0.6,0.6,3,11,17,0.0,0.0,0.17,0.2
+2223,Hellas Verona,Adolfo Gaich,ARG,Attaccante,23,16,2,0,2,0,2.5,0.4,6,11,33,0.25,0.0,0.31,0.05
+2223,Hellas Verona,Adrien Tameze,CMR,Centrocampista,28,37,0,0,0,0,0.9,0.9,32,103,58,0.0,0.0,0.03,0.03
+2223,Hellas Verona,Ajdin Hrustic,AUS,Centrocampista,26,6,0,0,0,0,0.3,0.6,7,8,12,0.0,0.0,0.13,0.24
+2223,Hellas Verona,Alessandro Cortinovis,ITA,Centrocampista,21,1,0,0,0,0,0.0,0.0,0,2,2,0.0,0.0,0.0,0.0
+2223,Hellas Verona,Antonín Barák,CZE,Centrocampista,27,1,0,0,0,0,0.0,0.0,0,2,1,0.0,0.0,0.0,0.0
+2223,Hellas Verona,Bruno Amione,ARG,Difensore,20,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Hellas Verona,Cyril Ngonge,BEL,,22,14,3,1,3,0,2.0,0.6,18,13,40,0.36,0.12,0.24,0.07
+2223,Hellas Verona,Darko Lazović,SRB,,31,30,4,5,4,0,3.6,6.4,72,81,167,0.16,0.2,0.14,0.26
+2223,Hellas Verona,Davide Faraoni,ITA,Difensore,30,23,2,3,2,0,2.7,1.0,11,54,33,0.12,0.18,0.17,0.06
+2223,Hellas Verona,Deyovaisio Zeefuik,NED,Difensore,24,1,0,0,0,0,0.0,0.0,1,0,1,0.0,0.0,0.0,0.0
+2223,Hellas Verona,Diego Coppola,ITA,Difensore,18,19,0,0,0,0,0.3,0.0,9,42,8,0.0,0.0,0.03,0.0
+2223,Hellas Verona,Fabio Depaoli,ITA,Difensore,25,31,2,2,2,0,1.7,1.2,28,66,76,0.08,0.08,0.07,0.05
+2223,Hellas Verona,Federico Ceccherini,ITA,Difensore,30,22,2,0,2,0,0.8,0.2,25,53,20,0.13,0.0,0.05,0.01
+2223,Hellas Verona,Filippo Terracciano,ITA,,19,20,0,1,0,0,0.2,1.2,16,37,24,0.0,0.11,0.02,0.14
+2223,Hellas Verona,Giangiacomo Magnani,ITA,Difensore,26,24,0,1,0,0,0.5,0.2,5,32,5,0.0,0.06,0.03,0.01
+2223,Hellas Verona,Ibrahim Sulemana,GHA,Centrocampista,19,16,0,0,0,0,0.3,0.2,4,18,5,0.0,0.0,0.05,0.03
+2223,Hellas Verona,Isak Hien,SWE,Difensore,23,32,0,0,0,0,0.3,0.1,17,54,2,0.0,0.0,0.01,0.0
+2223,Hellas Verona,Ivan Ilić,SRB,Centrocampista,21,11,0,1,0,0,0.4,1.0,18,39,20,0.0,0.11,0.04,0.1
+2223,Hellas Verona,Jayden Braaf,NED,,19,6,0,0,0,0,0.8,0.1,10,5,29,0.0,0.0,0.24,0.05
+2223,Hellas Verona,Josh Doig,SCO,Difensore,20,22,2,3,2,0,1.8,1.2,41,27,61,0.13,0.2,0.12,0.08
+2223,Hellas Verona,Juan David Cabal,COL,Difensore,21,11,0,0,0,0,0.0,0.3,4,17,8,0.0,0.0,0.0,0.06
+2223,Hellas Verona,Kevin Lasagna,ITA,Attaccante,29,26,1,2,1,0,6.0,1.7,36,19,105,0.06,0.11,0.35,0.09
+2223,Hellas Verona,Koray Günter,GER,Difensore,27,13,1,0,1,0,0.9,0.9,7,36,3,0.09,0.0,0.08,0.08
+2223,Hellas Verona,Lorenzo Montipò,ITA,Portiere,26,37,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Hellas Verona,Martin Hongla,CMR,Centrocampista,24,9,0,0,0,0,0.2,0.3,6,24,10,0.0,0.0,0.03,0.05
+2223,Hellas Verona,Miguel Veloso,POR,Centrocampista,36,22,0,0,0,0,0.5,2.1,17,84,22,0.0,0.0,0.04,0.16
+2223,Hellas Verona,Milan Đurić,BIH,Attaccante,32,28,1,1,1,0,1.4,1.3,2,29,72,0.07,0.07,0.09,0.08
+2223,Hellas Verona,Oliver Abildgaard,DEN,Centrocampista,26,13,0,0,0,0,0.1,0.4,2,15,8,0.0,0.0,0.02,0.07
+2223,Hellas Verona,Ondrej Duda,SVK,Centrocampista,27,15,0,0,0,0,0.8,0.3,15,44,22,0.0,0.0,0.07,0.03
+2223,Hellas Verona,Panagiotis Retsos,GRE,Difensore,23,2,0,0,0,0,0.1,0.0,2,2,0,0.0,0.0,0.05,0.02
+2223,Hellas Verona,Paweł Dawidowicz,POL,Difensore,27,23,1,1,1,0,1.1,0.8,20,60,17,0.06,0.06,0.06,0.04
+2223,Hellas Verona,Roberto Piccoli,ITA,Attaccante,21,7,0,0,0,0,0.4,0.2,2,0,8,0.0,0.0,0.19,0.08
+2223,Hellas Verona,Simone Perilli,ITA,Portiere,27,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Hellas Verona,Simone Verdi,ITA,,30,24,5,0,4,1,2.6,2.1,34,46,57,0.41,0.0,0.21,0.18
+2223,Hellas Verona,Thomas Henry,FRA,Attaccante,27,16,2,0,2,0,1.7,1.1,3,18,58,0.17,0.0,0.15,0.09
+2223,Hellas Verona,Yayah Kallon,SLE,,21,22,1,1,1,0,1.7,1.5,33,22,64,0.1,0.1,0.17,0.16
+2223,Inter,Alessandro Bastoni,ITA,Difensore,23,29,0,2,0,0,1.0,2.7,47,141,44,0.0,0.08,0.04,0.11
+2223,Inter,Alex Cordaz,ITA,Portiere,39,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Inter,André Onana,CMR,Portiere,26,24,0,0,0,0,0.0,0.1,0,2,0,0.0,0.0,0.0,0.0
+2223,Inter,Danilo D'Ambrosio,ITA,Difensore,33,15,0,2,0,0,0.3,0.7,8,34,17,0.0,0.25,0.03,0.08
+2223,Inter,Denzel Dumfries,NED,Difensore,26,34,1,4,1,0,3.6,4.9,62,59,172,0.04,0.16,0.15,0.2
+2223,Inter,Edin Džeko,BIH,Attaccante,36,33,9,3,9,0,9.7,3.2,32,67,150,0.47,0.16,0.5,0.17
+2223,Inter,Federico Dimarco,ITA,Difensore,24,33,4,3,4,0,3.1,6.9,45,88,189,0.17,0.13,0.13,0.3
+2223,Inter,Francesco Acerbi,ITA,Difensore,34,31,0,2,0,0,1.0,1.1,39,100,32,0.0,0.07,0.04,0.04
+2223,Inter,Hakan Çalhanoğlu,TUR,Centrocampista,28,33,3,6,2,1,3.1,5.0,46,172,68,0.11,0.23,0.12,0.19
+2223,Inter,Henrikh Mkhitaryan,ARM,Centrocampista,33,31,3,2,3,0,2.8,2.1,48,133,74,0.14,0.09,0.13,0.1
+2223,Inter,Joaquín Correa,ARG,Attaccante,27,26,3,1,3,0,3.4,1.3,19,29,61,0.28,0.09,0.33,0.12
+2223,Inter,Kristjan Asllani,ALB,Centrocampista,20,20,0,0,0,0,0.5,0.9,6,29,6,0.0,0.0,0.08,0.14
+2223,Inter,Lautaro Martínez,ARG,Attaccante,24,38,21,6,20,1,18.1,5.4,49,83,172,0.73,0.21,0.63,0.19
+2223,Inter,Marcelo Brozović,CRO,Centrocampista,29,28,3,5,3,0,2.5,2.8,29,114,35,0.15,0.25,0.13,0.14
+2223,Inter,Matteo Darmian,ITA,Difensore,32,31,1,2,1,0,1.0,1.9,22,88,96,0.04,0.09,0.04,0.09
+2223,Inter,Mattia Zanotti,ITA,Difensore,19,2,0,0,0,0,0.0,0.1,1,1,2,0.0,0.0,0.0,0.23
+2223,Inter,Milan Škriniar,SVK,Difensore,27,21,0,0,0,0,0.8,0.3,16,81,10,0.0,0.0,0.04,0.01
+2223,Inter,Nicolò Barella,ITA,Centrocampista,25,35,6,6,6,0,3.2,5.6,76,214,162,0.21,0.21,0.11,0.19
+2223,Inter,Raoul Bellanova,ITA,Difensore,22,18,0,0,0,0,0.6,0.4,25,12,37,0.0,0.0,0.12,0.07
+2223,Inter,Roberto Gagliardini,ITA,Centrocampista,28,19,0,0,0,0,0.9,0.3,20,39,22,0.0,0.0,0.1,0.03
+2223,Inter,Robin Gosens,GER,Difensore,28,32,3,0,3,0,3.0,2.4,29,41,102,0.23,0.0,0.23,0.18
+2223,Inter,Romelu Lukaku,BEL,Attaccante,29,25,10,6,8,2,9.0,4.1,34,41,159,0.54,0.33,0.49,0.22
+2223,Inter,Samir Handanović,SVN,Portiere,38,14,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Inter,Stefan de Vrij,NED,Difensore,30,27,1,0,1,0,2.2,0.2,13,55,0,0.05,0.0,0.1,0.01
+2223,Inter,Valentin Carboni,ARG,,17,5,0,0,0,0,0.0,0.0,2,1,3,0.0,0.0,0.0,0.09
+2223,Juventus,Adrien Rabiot,FRA,Centrocampista,27,32,8,4,8,0,6.2,2.3,72,133,109,0.26,0.13,0.2,0.08
+2223,Juventus,Alex Sandro,BRA,Difensore,31,25,0,1,0,0,0.2,0.9,51,97,25,0.0,0.05,0.01,0.05
+2223,Juventus,Arkadiusz Milik,POL,Attaccante,28,27,7,1,7,0,6.5,2.1,10,34,85,0.4,0.06,0.37,0.12
+2223,Juventus,Daniele Rugani,ITA,Difensore,28,9,0,0,0,0,0.5,0.0,2,5,0,0.0,0.0,0.07,0.0
+2223,Juventus,Danilo,BRA,Difensore,31,37,3,3,3,0,2.8,2.4,39,176,43,0.08,0.08,0.08,0.07
+2223,Juventus,Denis Zakaria,SUI,Centrocampista,25,2,0,0,0,0,0.0,0.0,2,3,3,0.0,0.0,0.0,0.0
+2223,Juventus,Dušan Vlahović,SRB,Attaccante,22,27,10,2,8,2,9.7,2.4,22,40,117,0.47,0.09,0.45,0.11
+2223,Juventus,Enzo Barrenechea,ARG,Centrocampista,21,3,0,0,0,0,0.1,0.0,1,5,2,0.0,0.0,0.04,0.01
+2223,Juventus,Fabio Miretti,ITA,,18,27,0,2,0,0,2.4,1.3,33,60,85,0.0,0.15,0.18,0.1
+2223,Juventus,Federico Chiesa,ITA,,24,21,2,5,2,0,1.5,2.6,46,34,88,0.21,0.53,0.15,0.27
+2223,Juventus,Federico Gatti,ITA,Difensore,24,18,0,0,0,0,0.6,1.5,18,56,13,0.0,0.0,0.03,0.09
+2223,Juventus,Filip Kostić,SRB,,29,37,3,8,3,0,2.4,7.1,101,78,230,0.11,0.28,0.08,0.25
+2223,Juventus,Gleison Bremer,BRA,Difensore,25,30,4,1,4,0,4.9,1.7,8,54,4,0.14,0.03,0.17,0.06
+2223,Juventus,Juan Cuadrado,COL,,34,31,1,3,1,0,1.4,2.7,48,92,125,0.04,0.13,0.06,0.12
+2223,Juventus,Leandro Paredes,ARG,Centrocampista,28,25,1,0,1,0,0.6,1.9,11,72,11,0.09,0.0,0.06,0.18
+2223,Juventus,Leonardo Bonucci,ITA,Difensore,35,16,1,0,1,0,1.1,0.2,2,28,1,0.1,0.0,0.11,0.02
+2223,Juventus,Manuel Locatelli,ITA,Centrocampista,24,32,0,2,0,0,1.5,1.8,25,134,37,0.0,0.07,0.05,0.07
+2223,Juventus,Mattia De Sciglio,ITA,Difensore,29,17,0,0,0,0,0.1,0.5,16,50,40,0.0,0.0,0.01,0.04
+2223,Juventus,Mattia Perin,ITA,Portiere,29,11,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2223,Juventus,Matìas Soulé,ARG,,19,13,1,0,1,0,1.5,0.8,12,15,33,0.21,0.0,0.33,0.18
+2223,Juventus,Moise Kean,ITA,Attaccante,22,28,6,0,6,0,6.3,1.1,30,13,76,0.54,0.0,0.57,0.1
+2223,Juventus,Nicolò Fagioli,ITA,Centrocampista,21,26,3,3,3,0,1.5,1.3,27,56,56,0.18,0.18,0.09,0.08
+2223,Juventus,Nicolò Rovella,ITA,Centrocampista,20,3,0,0,0,0,0.1,0.0,1,1,2,0.0,0.0,0.3,0.0
+2223,Juventus,Paul Pogba,FRA,,29,6,0,0,0,0,0.3,0.2,5,4,15,0.0,0.0,0.27,0.2
+2223,Juventus,Samuel Iling-Junior,ENG,,18,12,1,1,1,0,0.7,0.2,11,18,36,0.28,0.28,0.21,0.07
+2223,Juventus,Tommaso Barbieri,ITA,Difensore,19,3,0,0,0,0,0.0,0.0,5,0,4,0.0,0.0,0.0,0.0
+2223,Juventus,Weston McKennie,USA,,23,15,1,1,1,0,0.9,0.7,19,39,54,0.09,0.09,0.08,0.06
+2223,Juventus,Wojciech Szczęsny,POL,Portiere,32,28,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Juventus,Ángel Di María,ARG,Attaccante,34,26,4,4,3,1,3.1,4.5,56,96,95,0.26,0.26,0.2,0.29
+2223,Lazio,Adam Marušić,MNE,Difensore,29,33,0,2,0,0,0.7,1.1,38,116,43,0.0,0.07,0.02,0.03
+2223,Lazio,Alessio Romagnoli,ITA,Difensore,27,34,2,0,2,0,1.4,0.1,3,62,3,0.06,0.0,0.04,0.0
+2223,Lazio,Ciro Immobile,ITA,Attaccante,32,31,12,5,8,4,14.2,1.9,40,43,174,0.49,0.2,0.57,0.08
+2223,Lazio,Danilo Cataldi,ITA,Centrocampista,27,29,0,1,0,0,0.2,1.1,8,83,14,0.0,0.05,0.01,0.05
+2223,Lazio,Elseid Hysaj,ALB,Difensore,28,34,1,1,1,0,0.2,1.1,36,103,60,0.05,0.05,0.01,0.05
+2223,Lazio,Felipe Anderson,BRA,Attaccante,29,38,9,2,9,0,6.0,4.8,83,114,224,0.27,0.06,0.18,0.15
+2223,Lazio,Ivan Provedel,ITA,Portiere,28,38,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Lazio,Luca Pellegrini,ITA,Difensore,23,7,0,0,0,0,0.1,0.2,7,9,11,0.0,0.0,0.04,0.11
+2223,Lazio,Luis Alberto,ESP,Centrocampista,29,35,6,7,5,1,4.4,7.0,73,248,94,0.22,0.26,0.16,0.26
+2223,Lazio,Luka Romero,ARG,Attaccante,17,6,1,0,1,0,0.9,0.1,4,4,21,0.6,0.0,0.52,0.04
+2223,Lazio,Luís Maximiano,POR,Portiere,23,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Lazio,Manuel Lazzari,ITA,Difensore,28,28,0,0,0,0,0.3,0.7,98,64,74,0.0,0.0,0.02,0.03
+2223,Lazio,Marco Bertini,ITA,Centrocampista,19,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Lazio,Marcos Antônio,BRA,Centrocampista,22,16,1,1,1,0,1.2,0.3,1,25,8,0.15,0.15,0.18,0.04
+2223,Lazio,Mario Gila,ESP,Difensore,21,4,0,0,0,0,0.0,0.0,1,6,2,0.0,0.0,0.0,0.0
+2223,Lazio,Matteo Cancellieri,ITA,Attaccante,20,20,0,0,0,0,0.4,0.4,15,2,33,0.0,0.0,0.14,0.14
+2223,Lazio,Mattia Zaccagni,ITA,Attaccante,27,35,10,6,9,1,6.7,4.5,118,76,282,0.32,0.19,0.22,0.15
+2223,Lazio,Matías Vecino,URU,Centrocampista,30,32,2,0,2,0,2.5,0.5,22,88,17,0.11,0.0,0.13,0.03
+2223,Lazio,Nicolò Casale,ITA,Difensore,24,29,1,1,1,0,0.6,0.3,11,70,3,0.04,0.04,0.02,0.01
+2223,Lazio,Patric,ESP,Difensore,29,18,0,0,0,0,0.1,0.0,0,27,3,0.0,0.0,0.01,0.0
+2223,Lazio,Pedro,ESP,Attaccante,35,36,4,3,4,0,3.4,2.6,64,52,144,0.19,0.14,0.16,0.13
+2223,Lazio,Sergej Milinković-Savić,SRB,Centrocampista,27,36,9,8,9,0,6.8,7.1,47,166,129,0.27,0.24,0.2,0.21
+2223,Lazio,Toma Bašić,CRO,Centrocampista,25,25,1,0,1,0,1.8,0.4,14,22,29,0.18,0.0,0.32,0.07
+2223,Lazio,Ștefan Radu,ROU,Attaccante,35,1,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2223,Lecce,Alessandro Tuia,ITA,Difensore,32,7,0,0,0,0,0.1,0.0,1,20,0,0.0,0.0,0.02,0.01
+2223,Lecce,Alexis Blin,FRA,Centrocampista,25,35,1,0,1,0,2.8,1.1,13,101,32,0.04,0.0,0.11,0.04
+2223,Lecce,Antonino Gallo,ITA,Difensore,22,32,0,1,0,0,0.6,1.9,71,154,65,0.0,0.04,0.02,0.07
+2223,Lecce,Assan Ceesay,GAM,Attaccante,28,34,6,0,5,1,5.1,0.8,21,16,111,0.3,0.0,0.25,0.04
+2223,Lecce,Federico Baschirotto,ITA,Difensore,25,37,3,0,3,0,1.9,0.7,12,107,12,0.08,0.0,0.05,0.02
+2223,Lecce,Federico Di Francesco,ITA,Attaccante,28,36,2,2,2,0,3.3,2.7,50,60,177,0.09,0.09,0.14,0.12
+2223,Lecce,Gabriel Strefezza,BRA,Attaccante,25,35,8,4,6,2,6.2,4.3,72,107,177,0.29,0.15,0.23,0.16
+2223,Lecce,Giuseppe Pezzella,ITA,Difensore,24,16,0,1,0,0,0.1,0.6,28,65,48,0.0,0.1,0.01,0.05
+2223,Lecce,Joan Gonzàlez,ESP,Centrocampista,20,35,1,3,1,0,1.5,1.3,18,71,67,0.04,0.12,0.06,0.05
+2223,Lecce,Joel Voelkerling Persson,SWE,Attaccante,19,9,0,0,0,0,0.0,0.0,1,3,10,0.0,0.0,0.04,0.02
+2223,Lecce,Kastriot Dermaku,ALB,Difensore,30,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Lecce,Kristijan Bistrović,CRO,Centrocampista,24,11,0,0,0,0,0.3,0.4,4,16,8,0.0,0.0,0.07,0.07
+2223,Lecce,Kristoffer Askildsen,NOR,Centrocampista,21,21,0,0,0,0,0.5,0.3,10,24,17,0.0,0.0,0.06,0.04
+2223,Lecce,Lameck Banda,ZAM,Attaccante,21,36,2,1,2,0,3.1,1.3,86,28,160,0.11,0.06,0.17,0.07
+2223,Lecce,Lorenzo Colombo,ITA,Attaccante,20,33,5,2,4,1,6.2,1.4,14,21,119,0.3,0.12,0.37,0.09
+2223,Lecce,Marcin Listkowski,POL,,24,5,0,0,0,0,0.1,0.0,6,1,4,0.0,0.0,0.06,0.0
+2223,Lecce,Marin Pongračić,CRO,Difensore,24,9,0,0,0,0,0.0,0.1,3,19,1,0.0,0.0,0.0,0.01
+2223,Lecce,Morten Hjulmand,DEN,Centrocampista,23,35,0,4,0,0,0.6,2.1,9,159,16,0.0,0.12,0.02,0.06
+2223,Lecce,Pablo Rodríguez,ESP,Attaccante,20,4,0,0,0,0,0.0,0.0,2,3,7,0.0,0.0,0.0,0.04
+2223,Lecce,Pietro Ceccaroni,ITA,Difensore,26,2,0,0,0,0,0.1,0.2,0,0,1,0.0,0.0,0.24,0.33
+2223,Lecce,Remi Oudin,FRA,Attaccante,25,31,3,0,3,0,2.0,2.3,24,63,54,0.2,0.0,0.14,0.16
+2223,Lecce,Samuel Umtiti,FRA,Difensore,28,25,0,0,0,0,0.8,0.1,12,56,2,0.0,0.0,0.03,0.0
+2223,Lecce,Simone Romagnoli,ITA,Difensore,32,7,0,0,0,0,0.0,0.0,0,5,0,0.0,0.0,0.01,0.0
+2223,Lecce,Tommaso Cassandro,ITA,Difensore,22,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Lecce,Valentin Gendrey,FRA,Difensore,22,37,0,2,0,0,0.6,2.9,47,112,107,0.0,0.06,0.02,0.08
+2223,Lecce,Wladimiro Falcone,ITA,Portiere,27,38,0,0,0,0,0.0,0.2,0,0,0,0.0,0.0,0.0,0.01
+2223,Lecce,Youssef Maleh,MAR,Centrocampista,23,17,0,1,0,0,0.3,0.3,9,19,19,0.0,0.13,0.04,0.04
+2223,Lecce,Yıldırım Mert Çetin,TUR,Difensore,25,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Lecce,Þórir Jóhann Helgason,ISL,Centrocampista,21,12,0,0,0,0,0.1,0.4,2,2,5,0.0,0.0,0.02,0.16
+2223,Milan,Alessandro Florenzi,ITA,Difensore,31,6,0,0,0,0,0.8,0.5,1,10,19,0.0,0.0,0.34,0.21
+2223,Milan,Alexis Saelemaekers,BEL,,23,30,2,3,2,0,2.5,4.1,52,52,143,0.13,0.19,0.16,0.27
+2223,Milan,Ante Rebić,CRO,Attaccante,28,23,3,2,3,0,3.5,2.0,17,29,92,0.28,0.18,0.32,0.19
+2223,Milan,Antonio Mirante,ITA,Portiere,39,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Milan,Aster Vranckx,BEL,Centrocampista,19,9,0,0,0,0,0.1,0.3,2,4,5,0.0,0.0,0.02,0.11
+2223,Milan,Brahim Díaz,MAR,,22,33,6,7,6,0,6.0,5.6,80,121,116,0.28,0.33,0.28,0.26
+2223,Milan,Charles De Ketelaere,BEL,,21,32,0,1,0,0,2.0,2.0,45,59,69,0.0,0.08,0.16,0.16
+2223,Milan,Ciprian Tătărușanu,ROU,Portiere,36,16,0,1,0,0,0.0,0.5,0,0,0,0.0,0.06,0.0,0.03
+2223,Milan,Davide Calabria,ITA,Difensore,25,25,1,4,1,0,1.2,1.7,26,108,80,0.05,0.21,0.06,0.09
+2223,Milan,Divock Origi,BEL,Attaccante,27,27,2,1,2,0,2.1,1.2,24,18,79,0.18,0.09,0.19,0.1
+2223,Milan,Fikayo Tomori,ENG,Difensore,24,33,1,1,1,0,1.3,0.8,26,122,10,0.03,0.03,0.04,0.03
+2223,Milan,Fodé Ballo-Touré,SEN,Difensore,25,10,1,0,1,0,0.6,0.2,11,25,31,0.17,0.0,0.11,0.04
+2223,Milan,Ismaël Bennacer,ALG,Centrocampista,24,28,2,2,2,0,1.0,3.3,30,132,52,0.09,0.09,0.04,0.15
+2223,Milan,Junior Messias,BRA,,31,25,5,2,5,0,2.3,0.8,45,54,137,0.3,0.12,0.14,0.05
+2223,Milan,Malick Thiaw,GER,Difensore,20,20,0,0,0,0,0.8,0.2,6,67,2,0.0,0.0,0.06,0.01
+2223,Milan,Marko Lazetić,SRB,Attaccante,18,1,0,0,0,0,0.1,0.0,0,0,3,0.0,0.0,0.63,0.0
+2223,Milan,Matteo Gabbia,ITA,Difensore,22,12,0,0,0,0,0.0,0.0,1,15,1,0.0,0.0,0.01,0.0
+2223,Milan,Mike Maignan,FRA,Portiere,27,22,0,1,0,0,0.0,0.0,0,1,0,0.0,0.05,0.0,0.0
+2223,Milan,Olivier Giroud,FRA,Attaccante,35,33,13,5,10,3,12.7,4.0,12,36,152,0.55,0.21,0.53,0.17
+2223,Milan,Pierre Kalulu,FRA,Difensore,22,34,1,0,1,0,1.5,1.2,52,138,43,0.04,0.0,0.05,0.04
+2223,Milan,Rade Krunić,BIH,Centrocampista,28,23,0,1,0,0,1.1,1.1,31,73,21,0.0,0.05,0.06,0.06
+2223,Milan,Rafael Leão,POR,Attaccante,23,35,15,8,15,0,10.8,7.0,136,122,235,0.56,0.3,0.4,0.26
+2223,Milan,Sandro Tonali,ITA,Centrocampista,22,34,2,7,2,0,2.4,5.7,61,159,86,0.07,0.23,0.08,0.19
+2223,Milan,Sergiño Dest,USA,Difensore,21,8,0,0,0,0,0.3,0.3,11,14,12,0.0,0.0,0.08,0.09
+2223,Milan,Simon Kjær,DEN,Difensore,33,17,0,0,0,0,0.0,0.0,3,45,1,0.0,0.0,0.0,0.0
+2223,Milan,Theo Hernández,FRA,Difensore,24,32,4,3,3,1,4.1,3.3,108,128,146,0.13,0.1,0.13,0.11
+2223,Milan,Tiemoué Bakayoko,FRA,Centrocampista,27,3,0,0,0,0,0.0,0.0,0,2,1,0.0,0.0,0.0,0.0
+2223,Milan,Tommaso Pobega,ITA,Centrocampista,23,19,2,0,2,0,1.4,0.3,8,36,22,0.2,0.0,0.15,0.03
+2223,Milan,Yacine Adli,FRA,,22,6,0,0,0,0,0.1,0.3,7,10,8,0.0,0.0,0.05,0.16
+2223,Milan,Zlatan Ibrahimović,SWE,Attaccante,40,4,1,0,0,1,1.2,0.2,0,4,10,0.62,0.0,0.72,0.11
+2223,Monza,Alessio Cragno,ITA,Portiere,28,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Monza,Andrea Barberis,ITA,Centrocampista,28,9,0,1,0,0,0.1,0.4,3,14,0,0.0,0.27,0.03,0.1
+2223,Monza,Andrea Carboni,ITA,Difensore,21,4,0,0,0,0,0.1,0.1,4,9,2,0.0,0.0,0.03,0.07
+2223,Monza,Andrea Colpani,ITA,Centrocampista,23,27,4,1,4,0,2.1,1.9,31,51,69,0.38,0.09,0.2,0.18
+2223,Monza,Andrea Petagna,ITA,Attaccante,27,31,4,5,3,1,5.7,4.4,23,34,132,0.22,0.27,0.31,0.24
+2223,Monza,Andrea Ranocchia,ITA,Difensore,34,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Monza,Armando Izzo,ITA,Difensore,30,30,1,0,1,0,2.1,0.9,22,96,29,0.04,0.0,0.08,0.03
+2223,Monza,Carlos Augusto,BRA,Difensore,23,35,6,5,6,0,4.4,3.7,87,101,151,0.18,0.15,0.13,0.11
+2223,Monza,Christian Gytkjær,DEN,Attaccante,32,22,1,0,1,0,3.9,0.3,1,6,32,0.16,0.0,0.63,0.05
+2223,Monza,Dany Mota,POR,Attaccante,24,29,5,1,5,0,5.1,2.1,66,34,166,0.24,0.05,0.24,0.1
+2223,Monza,Filippo Ranocchia,ITA,Centrocampista,21,14,1,0,1,0,1.2,0.4,13,26,15,0.17,0.0,0.21,0.06
+2223,Monza,Franco Carboni,ITA,,19,3,0,0,0,0,0.1,0.0,7,2,8,0.0,0.0,0.11,0.06
+2223,Monza,Gianluca Caprari,ITA,,29,37,5,2,4,1,5.0,2.5,100,92,188,0.18,0.07,0.18,0.09
+2223,Monza,Giulio Donati,ITA,Difensore,32,8,1,0,1,0,0.4,0.1,4,21,8,0.21,0.0,0.08,0.02
+2223,Monza,Luca Caldirola,ITA,Difensore,31,31,2,0,2,0,1.1,0.5,12,63,13,0.08,0.0,0.04,0.02
+2223,Monza,Luca Marrone,ITA,Difensore,32,2,0,0,0,0,0.1,0.0,0,4,0,0.0,0.0,0.07,0.0
+2223,Monza,Marco D'Alessandro,ITA,,31,8,0,0,0,0,0.3,0.2,14,3,19,0.0,0.0,0.1,0.06
+2223,Monza,Marlon,BRA,Difensore,26,28,0,0,0,0,0.3,0.3,19,63,12,0.0,0.0,0.01,0.02
+2223,Monza,Matteo Pessina,ITA,Centrocampista,25,35,5,3,2,3,5.1,2.1,77,193,88,0.15,0.09,0.16,0.06
+2223,Monza,Mattia Valoti,ITA,,28,16,0,0,0,0,0.2,0.1,7,16,9,0.0,0.0,0.03,0.01
+2223,Monza,Michele Di Gregorio,ITA,Portiere,25,37,0,1,0,0,0.0,0.0,0,0,0,0.0,0.03,0.0,0.0
+2223,Monza,Nicolò Rovella,ITA,Centrocampista,20,25,1,2,1,0,1.2,2.2,26,99,19,0.05,0.1,0.06,0.11
+2223,Monza,Pablo Marí,ESP,Difensore,28,30,1,0,1,0,0.6,0.3,6,57,3,0.04,0.0,0.02,0.01
+2223,Monza,Patrick Ciurria,ITA,,27,36,6,5,6,0,4.8,5.5,67,91,168,0.2,0.16,0.16,0.18
+2223,Monza,Pepín,EQG,Centrocampista,25,25,0,2,0,0,0.5,1.5,19,74,28,0.0,0.16,0.04,0.12
+2223,Monza,Salvatore Molina,ITA,Difensore,30,5,0,0,0,0,0.0,0.1,9,7,22,0.0,0.0,0.02,0.04
+2223,Monza,Samuele Birindelli,ITA,Difensore,23,31,0,1,0,0,1.1,2.2,55,43,121,0.0,0.06,0.07,0.14
+2223,Monza,Samuele Vignato,ITA,,18,5,0,1,0,0,0.1,0.3,4,1,6,0.0,1.45,0.11,0.49
+2223,Monza,Stefano Sensi,ITA,Centrocampista,26,28,3,1,3,0,1.4,2.1,27,143,37,0.17,0.06,0.08,0.12
+2223,Monza,Valentin Antov,BUL,Difensore,21,9,0,0,0,0,0.0,0.0,2,14,3,0.0,0.0,0.0,0.01
+2223,Monza,Warren Bondo,FRA,Centrocampista,18,4,0,0,0,0,0.1,0.0,3,5,2,0.0,0.0,0.09,0.0
+2223,Napoli,Adam Ounas,ALG,Attaccante,25,2,0,0,0,0,0.0,0.0,3,4,1,0.0,0.0,0.23,0.0
+2223,Napoli,Alessandro Zanoli,ITA,Difensore,21,1,0,0,0,0,0.1,0.0,1,0,2,0.0,0.0,0.47,0.0
+2223,Napoli,Alessio Zerbin,ITA,Attaccante,23,10,0,0,0,0,0.3,0.0,5,6,20,0.0,0.0,0.12,0.0
+2223,Napoli,Alex Meret,ITA,Portiere,25,34,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Napoli,Amir Rrahmani,KVX,Difensore,28,29,2,1,2,0,1.8,1.0,23,135,5,0.07,0.04,0.07,0.04
+2223,Napoli,Andre-Frank Zambo Anguissa,CMR,Centrocampista,26,36,3,5,3,0,4.4,2.6,58,181,140,0.09,0.15,0.13,0.08
+2223,Napoli,Bartosz Bereszyński,POL,Difensore,30,3,0,1,0,0,0.0,0.2,8,7,7,0.0,0.54,0.0,0.1
+2223,Napoli,Diego Demme,GER,Centrocampista,30,7,0,0,0,0,0.0,0.0,3,16,1,0.0,0.0,0.0,0.01
+2223,Napoli,Elif Elmas,MKD,Attaccante,22,36,6,3,5,1,4.0,1.9,42,73,103,0.33,0.17,0.22,0.11
+2223,Napoli,Giacomo Raspadori,ITA,Attaccante,22,25,2,2,2,0,3.5,1.3,13,33,88,0.2,0.2,0.35,0.13
+2223,Napoli,Gianluca Gaetano,ITA,Centrocampista,22,8,1,1,1,0,1.1,0.2,4,4,9,1.18,1.18,1.42,0.22
+2223,Napoli,Giovanni Di Lorenzo,ITA,Difensore,28,37,3,4,3,0,2.7,4.7,73,256,182,0.08,0.11,0.07,0.13
+2223,Napoli,Giovanni Simeone,ARG,Attaccante,27,25,4,1,4,0,1.4,1.2,11,9,34,0.89,0.22,0.3,0.26
+2223,Napoli,Hirving Lozano,MEX,Attaccante,27,32,3,3,2,1,5.4,3.3,86,49,190,0.17,0.17,0.3,0.19
+2223,Napoli,Juan Jesus,BRA,Difensore,31,15,1,0,1,0,0.2,0.1,14,55,3,0.1,0.0,0.02,0.01
+2223,Napoli,Karim Zedadka,FRA,Attaccante,22,3,0,0,0,0,0.0,0.0,1,0,4,0.0,0.0,0.0,0.0
+2223,Napoli,Khvicha Kvaratskhelia,GEO,Attaccante,21,34,12,10,10,2,8.2,7.7,139,91,291,0.43,0.36,0.29,0.27
+2223,Napoli,Kim Min-jae,KOR,Difensore,25,35,2,2,2,0,1.0,1.9,42,169,8,0.06,0.06,0.03,0.06
+2223,Napoli,Leo Skiri Østigård,NOR,Difensore,22,7,0,0,0,0,0.1,0.0,5,23,1,0.0,0.0,0.02,0.0
+2223,Napoli,Mathías Olivera,URU,Difensore,24,30,2,2,2,0,0.7,2.1,60,88,68,0.11,0.11,0.04,0.12
+2223,Napoli,Matteo Politano,ITA,Attaccante,28,27,3,3,1,2,4.1,3.6,81,72,138,0.23,0.23,0.32,0.28
+2223,Napoli,Mário Rui,POR,Difensore,31,22,0,6,0,0,0.6,4.0,52,153,97,0.0,0.31,0.03,0.2
+2223,Napoli,Pierluigi Gollini,ITA,Portiere,27,4,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Napoli,Piotr Zieliński,POL,Centrocampista,28,37,3,8,3,0,3.5,7.4,62,128,129,0.12,0.31,0.14,0.29
+2223,Napoli,Stanislav Lobotka,SVK,Centrocampista,27,38,1,1,1,0,0.6,1.0,51,172,39,0.03,0.03,0.02,0.03
+2223,Napoli,Tanguy Ndombele,FRA,Centrocampista,25,30,1,0,1,0,1.0,0.5,27,52,33,0.11,0.0,0.11,0.05
+2223,Napoli,Victor Osimhen,NGA,Attaccante,23,32,26,4,24,2,21.3,2.8,43,28,196,0.91,0.14,0.75,0.1
+2223,Roma,Andrea Belotti,ITA,Attaccante,28,31,0,2,0,0,3.5,1.6,21,13,94,0.0,0.16,0.27,0.13
+2223,Roma,Benjamin Tahirovic,BIH,Centrocampista,19,11,0,0,0,0,0.0,0.2,0,9,3,0.0,0.0,0.0,0.04
+2223,Roma,Bryan Cristante,ITA,,27,36,1,1,1,0,2.6,1.4,16,142,27,0.03,0.03,0.08,0.04
+2223,Roma,Chris Smalling,ENG,Difensore,32,32,3,1,3,0,1.7,0.4,5,51,7,0.1,0.03,0.05,0.01
+2223,Roma,Cristian Volpato,ITA,Centrocampista,18,7,1,1,1,0,0.4,1.2,8,18,24,0.4,0.4,0.14,0.47
+2223,Roma,Diego Llorente,ESP,Difensore,28,9,0,0,0,0,0.4,0.1,2,12,3,0.0,0.0,0.06,0.01
+2223,Roma,Edoardo Bove,ITA,Centrocampista,20,22,1,0,1,0,0.8,0.9,9,33,26,0.09,0.0,0.07,0.08
+2223,Roma,Eldor Shomurodov,UZB,Attaccante,27,6,0,0,0,0,0.6,0.0,3,4,15,0.0,0.0,0.45,0.0
+2223,Roma,Filippo Missori,ITA,Difensore,18,3,0,0,0,0,0.0,0.0,1,0,3,0.0,0.0,0.0,0.0
+2223,Roma,Georginio Wijnaldum,NED,Centrocampista,31,14,2,0,2,0,2.2,0.7,16,18,33,0.23,0.0,0.26,0.08
+2223,Roma,Gianluca Mancini,ITA,Difensore,26,35,1,2,1,0,2.3,1.6,17,93,19,0.03,0.06,0.07,0.05
+2223,Roma,Jordan Majchrzak,POL,Attaccante,17,1,0,0,0,0,0.0,0.0,0,0,1,0.0,0.0,0.0,0.0
+2223,Roma,Leonardo Spinazzola,ITA,Difensore,29,26,1,4,1,0,1.0,2.0,107,63,87,0.05,0.22,0.06,0.11
+2223,Roma,Lorenzo Pellegrini,ITA,Centrocampista,26,32,4,5,2,2,8.0,6.9,58,106,113,0.14,0.18,0.28,0.24
+2223,Roma,Marash Kumbulla,ALB,Difensore,22,7,0,0,0,0,0.0,0.1,2,8,1,0.0,0.0,0.01,0.03
+2223,Roma,Matías Viña,URU,Difensore,24,3,0,0,0,0,0.0,0.1,2,2,4,0.0,0.0,0.0,0.18
+2223,Roma,Mile Svilar,SRB,Portiere,22,3,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Roma,Mohamed Camara,GUI,Centrocampista,25,15,0,0,0,0,0.6,0.4,13,30,14,0.0,0.0,0.08,0.05
+2223,Roma,Nemanja Matić,SRB,Centrocampista,33,35,2,2,2,0,1.0,2.6,50,134,17,0.1,0.1,0.05,0.13
+2223,Roma,Niccolò Pisilli,ITA,Centrocampista,17,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Roma,Nicola Zalewski,POL,Difensore,20,33,2,1,2,0,1.3,1.2,92,85,99,0.08,0.04,0.05,0.05
+2223,Roma,Nicolò Zaniolo,ITA,,23,13,1,0,1,0,2.9,0.9,34,19,69,0.1,0.0,0.29,0.09
+2223,Roma,Ola Solbakken,NOR,,23,14,1,2,1,0,0.6,1.6,5,14,35,0.18,0.36,0.11,0.29
+2223,Roma,Paulo Dybala,ARG,,28,25,12,6,7,5,9.3,6.9,56,75,109,0.62,0.31,0.48,0.36
+2223,Roma,Rick Karsdorp,NED,Difensore,27,13,0,0,0,0,0.3,1.2,16,24,33,0.0,0.0,0.03,0.15
+2223,Roma,Roger Ibanez,BRA,Difensore,23,33,3,0,3,0,3.0,0.6,24,77,9,0.1,0.0,0.1,0.02
+2223,Roma,Rui Patrício,POR,Portiere,34,35,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Roma,Stephan El Shaarawy,ITA,,29,29,7,2,7,0,5.5,1.4,58,66,136,0.41,0.12,0.33,0.08
+2223,Roma,Tammy Abraham,ENG,Attaccante,24,38,8,3,8,0,10.8,3.6,35,54,141,0.33,0.12,0.45,0.15
+2223,Roma,Zeki Çelik,TUR,Difensore,25,24,0,1,0,0,0.3,1.6,34,67,76,0.0,0.06,0.02,0.09
+2223,Salernitana,Antonio Candreva,ITA,,35,35,7,4,7,0,3.7,4.7,71,135,171,0.23,0.13,0.12,0.15
+2223,Salernitana,Antonio Iervolino,ITA,Centrocampista,19,1,0,0,0,0,0.0,0.0,0,2,2,0.0,0.0,0.0,0.0
+2223,Salernitana,Boulaye Dia,SEN,Attaccante,25,33,16,6,15,1,8.8,3.1,48,50,140,0.57,0.21,0.31,0.11
+2223,Salernitana,Diego Valencia,CHI,,22,12,0,0,0,0,0.1,0.1,1,4,21,0.0,0.0,0.05,0.05
+2223,Salernitana,Domagoj Bradarić,CRO,Difensore,22,31,0,3,0,0,0.2,2.3,63,52,107,0.0,0.12,0.01,0.09
+2223,Salernitana,Domen Črnigoj,SVN,Centrocampista,26,7,0,0,0,0,0.1,0.4,2,3,9,0.0,0.0,0.03,0.13
+2223,Salernitana,Dylan Bronn,TUN,Difensore,27,24,0,0,0,0,0.7,0.4,10,70,5,0.0,0.0,0.03,0.02
+2223,Salernitana,Emil Bohinen,NOR,Centrocampista,23,24,0,0,0,0,0.1,0.7,12,31,16,0.0,0.0,0.02,0.07
+2223,Salernitana,Erik Botheim,NOR,,22,28,1,3,1,0,0.6,1.8,11,21,61,0.1,0.31,0.06,0.18
+2223,Salernitana,Federico Bonazzoli,ITA,Attaccante,25,24,2,1,2,0,2.4,1.1,11,43,67,0.16,0.08,0.19,0.09
+2223,Salernitana,Federico Fazio,ARG,Difensore,35,14,1,0,1,0,0.7,0.1,13,40,4,0.08,0.0,0.06,0.01
+2223,Salernitana,Flavius Daniliuc,AUT,Difensore,21,27,0,2,0,0,0.6,0.5,14,70,5,0.0,0.08,0.03,0.02
+2223,Salernitana,Franck Ribéry,FRA,Centrocampista,39,1,0,0,0,0,0.0,0.0,1,1,4,0.0,0.0,0.0,0.0
+2223,Salernitana,Giulio Maggiore,ITA,Centrocampista,24,16,0,0,0,0,0.5,0.5,7,53,13,0.0,0.0,0.05,0.05
+2223,Salernitana,Grigoris Kastanos,CYP,,24,28,2,1,2,0,1.9,0.6,27,57,59,0.14,0.07,0.13,0.05
+2223,Salernitana,Guillermo Ochoa,MEX,Portiere,37,20,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Salernitana,Hans Nicolussi Caviglia,ITA,Centrocampista,22,12,1,0,1,0,0.4,0.0,4,19,2,0.15,0.0,0.07,0.01
+2223,Salernitana,Ivan Radovanović,SRB,,33,10,0,0,0,0,0.2,0.0,2,16,2,0.0,0.0,0.03,0.0
+2223,Salernitana,Julian Kristoffersen,NOR,Attaccante,25,1,0,0,0,0,0.0,0.0,0,0,2,0.0,0.0,0.0,0.0
+2223,Salernitana,Junior Sambia,FRA,Difensore,25,22,0,1,0,0,0.6,1.6,23,27,38,0.0,0.13,0.08,0.21
+2223,Salernitana,Krzysztof Piątek,POL,Attaccante,27,33,4,5,3,1,8.3,2.1,27,33,121,0.17,0.21,0.35,0.09
+2223,Salernitana,Lassana Coulibaly,MLI,Centrocampista,26,35,3,3,3,0,0.8,1.8,52,120,59,0.09,0.09,0.03,0.06
+2223,Salernitana,Lorenzo Pirola,ITA,Difensore,20,26,2,0,2,0,1.5,0.4,13,43,4,0.09,0.0,0.07,0.02
+2223,Salernitana,Luigi Sepe,ITA,Portiere,31,17,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Salernitana,Matteo Lovato,ITA,Difensore,22,17,0,0,0,0,0.0,0.0,1,8,1,0.0,0.0,0.0,0.0
+2223,Salernitana,Norbert Gyömbér,SVK,Difensore,30,27,0,1,0,0,0.7,0.6,5,45,2,0.0,0.05,0.04,0.03
+2223,Salernitana,Pasquale Mazzocchi,ITA,Difensore,27,27,2,3,2,0,1.3,2.6,70,60,102,0.09,0.14,0.06,0.12
+2223,Salernitana,Tonny Vilhena,NED,Centrocampista,27,33,4,1,4,0,2.4,1.7,30,80,59,0.16,0.04,0.1,0.07
+2223,Salernitana,Vincenzo Fiorillo,ITA,Portiere,32,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Salernitana,William Troost-Ekong,NGA,Difensore,28,9,1,0,1,0,0.7,0.0,1,6,0,0.2,0.0,0.14,0.0
+2223,Sampdoria,Abdelhamid Sabiri,MAR,,25,18,2,0,1,1,3.0,1.4,7,49,54,0.17,0.0,0.26,0.12
+2223,Sampdoria,Alessandro Zanoli,ITA,Difensore,21,22,2,3,2,0,2.6,1.2,50,36,60,0.12,0.18,0.15,0.07
+2223,Sampdoria,Alex Ferrari,ITA,Difensore,28,12,0,0,0,0,0.2,0.4,7,25,3,0.0,0.0,0.02,0.04
+2223,Sampdoria,Andrea Conti,ITA,Difensore,28,1,0,0,0,0,0.0,0.0,0,1,2,0.0,0.0,0.0,0.0
+2223,Sampdoria,Bartosz Bereszyński,POL,Difensore,30,15,0,0,0,0,0.1,0.1,20,44,40,0.0,0.0,0.01,0.01
+2223,Sampdoria,Bram Nuytinck,NED,Difensore,32,19,0,1,0,0,0.3,0.3,4,23,3,0.0,0.06,0.02,0.02
+2223,Sampdoria,Bruno Amione,ARG,Difensore,20,26,1,1,1,0,0.9,0.6,11,54,9,0.04,0.04,0.04,0.03
+2223,Sampdoria,Daniele Montevago,ITA,Attaccante,19,6,0,0,0,0,0.5,0.2,1,0,10,0.0,0.0,0.19,0.09
+2223,Sampdoria,Emil Audero,ITA,Portiere,25,25,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Sampdoria,Emirhan İlkhan,TUR,Centrocampista,18,8,0,0,0,0,0.0,0.1,1,5,8,0.0,0.0,0.02,0.05
+2223,Sampdoria,Fabio Depaoli,ITA,,25,3,0,0,0,0,0.2,0.4,2,10,6,0.0,0.0,0.12,0.26
+2223,Sampdoria,Fabio Quagliarella,ITA,Attaccante,39,23,1,1,1,0,2.8,0.7,5,25,72,0.11,0.11,0.31,0.08
+2223,Sampdoria,Filip Đuričić,SRB,,30,32,3,0,3,0,2.7,1.9,39,77,83,0.12,0.0,0.11,0.08
+2223,Sampdoria,Flavio Paoletti,ITA,Centrocampista,19,12,0,0,0,0,0.0,0.0,7,8,8,0.0,0.0,0.0,0.01
+2223,Sampdoria,Francesco Caputo,ITA,Attaccante,34,15,1,0,1,0,1.9,0.5,6,11,76,0.08,0.0,0.15,0.04
+2223,Sampdoria,Gerard Yepes,ESP,Centrocampista,19,5,0,0,0,0,0.1,0.0,3,7,6,0.0,0.0,0.03,0.01
+2223,Sampdoria,Gonzalo Villar,ESP,Centrocampista,24,15,0,0,0,0,0.0,0.0,9,26,2,0.0,0.0,0.0,0.0
+2223,Sampdoria,Harry Winks,ENG,Centrocampista,26,20,0,0,0,0,0.6,1.3,19,117,17,0.0,0.0,0.03,0.07
+2223,Sampdoria,Ignacio Pussetto,ARG,,26,5,0,0,0,0,0.2,0.2,2,1,17,0.0,0.0,0.09,0.11
+2223,Sampdoria,Jeison Murillo,COL,Difensore,30,20,0,0,0,0,0.2,0.0,8,35,3,0.0,0.0,0.02,0.0
+2223,Sampdoria,Jesé,ESP,Attaccante,29,11,1,1,1,0,0.3,0.5,1,1,15,0.43,0.43,0.13,0.2
+2223,Sampdoria,Koray Günter,GER,Difensore,27,10,0,0,0,0,0.1,0.2,4,21,2,0.0,0.0,0.01,0.02
+2223,Sampdoria,Lorenzo Malagrida,ITA,,18,6,0,0,0,0,0.2,0.1,1,4,10,0.0,0.0,0.12,0.09
+2223,Sampdoria,Manolo Gabbiadini,ITA,Attaccante,30,35,7,2,7,0,7.4,4.5,32,55,111,0.27,0.08,0.28,0.17
+2223,Sampdoria,Manuel De Luca,ITA,Attaccante,24,2,0,0,0,0,0.0,0.0,0,0,4,0.0,0.0,0.0,0.0
+2223,Sampdoria,Marios Oikonomou,GRE,Difensore,29,6,0,0,0,0,0.3,0.0,0,2,0,0.0,0.0,0.13,0.0
+2223,Sampdoria,Martin Turk,SVN,Portiere,18,4,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Sampdoria,Mehdi Léris,ALG,,24,32,1,1,1,0,3.4,1.8,56,62,165,0.04,0.04,0.13,0.07
+2223,Sampdoria,Mickaël Cuisance,FRA,Centrocampista,22,12,0,0,0,0,0.5,0.7,11,23,31,0.0,0.0,0.07,0.1
+2223,Sampdoria,Mihailo Ivanović,SRB,Attaccante,17,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Sampdoria,Nicola Murru,ITA,Difensore,27,20,0,0,0,0,0.0,0.1,7,27,13,0.0,0.0,0.0,0.01
+2223,Sampdoria,Nicola Ravaglia,ITA,Portiere,33,9,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Sampdoria,Omar Colley,GAM,Difensore,29,16,1,0,1,0,1.2,0.0,3,33,2,0.07,0.0,0.08,0.0
+2223,Sampdoria,Ronaldo Vieira,ENG,Centrocampista,24,16,0,0,0,0,0.4,0.0,6,39,5,0.0,0.0,0.04,0.0
+2223,Sampdoria,Sam Lammers,NED,Attaccante,25,19,1,1,1,0,2.5,1.2,17,19,65,0.08,0.08,0.2,0.1
+2223,Sampdoria,Samuel Ntanda,BEL,Centrocampista,17,1,0,0,0,0,0.1,0.0,0,0,1,0.0,0.0,3.77,0.0
+2223,Sampdoria,Telasco Segovia,VEN,Centrocampista,19,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Sampdoria,Tommaso Augello,ITA,Difensore,27,37,2,5,2,0,1.0,3.9,84,119,153,0.06,0.15,0.03,0.11
+2223,Sampdoria,Tomás Rincón,VEN,Centrocampista,34,34,0,2,0,0,0.6,1.2,27,122,35,0.0,0.07,0.02,0.04
+2223,Sampdoria,Valerio Verre,ITA,Centrocampista,28,18,0,0,0,0,0.6,1.1,16,45,27,0.0,0.0,0.08,0.14
+2223,Sassuolo,Abdou Harroui,NED,Centrocampista,24,23,2,0,2,0,1.5,0.3,21,36,32,0.28,0.0,0.2,0.05
+2223,Sassuolo,Agustín Álvarez Martínez,URU,Attaccante,21,22,1,1,1,0,1.5,0.4,2,6,19,0.24,0.24,0.36,0.1
+2223,Sassuolo,Alessandro Russo,ITA,Portiere,21,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Sassuolo,Andrea Consigli,ITA,Portiere,35,35,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2223,Sassuolo,Andrea Pinamonti,ITA,Attaccante,23,32,5,0,4,1,7.1,1.5,17,29,166,0.21,0.0,0.3,0.06
+2223,Sassuolo,Armand Lauriente,FRA,Attaccante,23,28,7,6,6,1,4.7,6.2,127,90,263,0.29,0.25,0.19,0.26
+2223,Sassuolo,Davide Frattesi,ITA,Centrocampista,22,36,7,0,7,0,7.8,1.9,73,137,94,0.22,0.0,0.24,0.06
+2223,Sassuolo,Domenico Berardi,ITA,Attaccante,27,26,12,7,5,7,11.4,6.6,57,114,213,0.58,0.34,0.55,0.32
+2223,Sassuolo,Emil Ceide,NOR,Attaccante,20,19,0,1,0,0,0.8,1.3,37,19,47,0.0,0.17,0.15,0.23
+2223,Sassuolo,Filippo Romagna,ITA,Difensore,25,2,0,0,0,0,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0
+2223,Sassuolo,Giacomo Raspadori,ITA,Attaccante,22,1,0,0,0,0,0.0,0.0,0,2,4,0.0,0.0,0.0,0.0
+2223,Sassuolo,Gian Marco Ferrari,ITA,Difensore,30,33,1,0,1,0,1.2,0.4,11,101,4,0.04,0.0,0.05,0.02
+2223,Sassuolo,Gianluca Pegolo,ITA,Portiere,41,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Sassuolo,Giorgos Kyriakopoulos,GRE,,26,12,1,1,1,0,1.1,1.4,17,32,46,0.12,0.12,0.13,0.17
+2223,Sassuolo,Grégoire Defrel,MTQ,Attaccante,31,27,2,1,2,0,3.5,0.5,11,10,75,0.15,0.08,0.27,0.04
+2223,Sassuolo,Hamed Junior Traorè,CIV,,22,11,0,3,0,0,1.0,1.8,14,26,36,0.0,0.46,0.15,0.27
+2223,Sassuolo,Janis Antiste,FRA,Attaccante,19,2,1,0,1,0,0.2,0.0,0,1,2,1.73,0.0,0.31,0.0
+2223,Sassuolo,Jeremy Toljan,GER,Difensore,27,31,0,1,0,0,0.5,2.4,56,142,99,0.0,0.03,0.02,0.08
+2223,Sassuolo,Kaan Ayhan,TUR,Difensore,27,10,0,0,0,0,0.0,0.0,8,15,0,0.0,0.0,0.0,0.0
+2223,Sassuolo,Kristian Thorstvedt,NOR,Centrocampista,23,31,2,1,2,0,2.1,1.1,31,60,54,0.16,0.08,0.17,0.09
+2223,Sassuolo,Luca D'Andrea,ITA,Attaccante,17,5,0,1,0,0,0.3,0.8,11,9,29,0.0,0.28,0.08,0.23
+2223,Sassuolo,Martin Erlic,CRO,Difensore,24,28,0,0,0,0,0.5,0.2,7,65,1,0.0,0.0,0.02,0.01
+2223,Sassuolo,Matheus Henrique,BRA,Centrocampista,24,30,4,1,4,0,2.9,1.8,40,116,68,0.18,0.05,0.13,0.08
+2223,Sassuolo,Maxime Lopez,FRA,Centrocampista,24,30,0,0,0,0,1.0,2.1,54,210,40,0.0,0.0,0.04,0.08
+2223,Sassuolo,Mert Müldür,TUR,,23,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Sassuolo,Nadir Zortea,ITA,Difensore,23,10,0,1,0,0,0.2,0.7,24,38,25,0.0,0.14,0.02,0.09
+2223,Sassuolo,Nedim Bajrami,ALB,Attaccante,23,18,1,0,1,0,1.9,1.5,23,44,96,0.11,0.0,0.21,0.16
+2223,Sassuolo,Pedro Obiang,EQG,Centrocampista,30,17,0,1,0,0,0.4,0.2,0,40,6,0.0,0.1,0.04,0.02
+2223,Sassuolo,Riccardo Marchizza,ITA,Difensore,24,10,0,1,0,0,0.0,0.3,3,15,15,0.0,0.32,0.0,0.1
+2223,Sassuolo,Rogério,BRA,Difensore,24,36,0,3,0,0,0.5,2.7,110,185,115,0.0,0.09,0.02,0.08
+2223,Sassuolo,Ruan,BRA,Difensore,23,23,0,0,0,0,0.5,0.0,6,22,3,0.0,0.0,0.03,0.0
+2223,Spezia,Albin Ekdal,SWE,Centrocampista,33,31,0,2,0,0,2.9,1.6,15,80,35,0.0,0.1,0.15,0.08
+2223,Spezia,Arkadiusz Reca,POL,Difensore,27,30,1,1,1,0,1.0,2.2,82,79,94,0.04,0.04,0.04,0.09
+2223,Spezia,Bartłomiej Drągowski,POL,Portiere,24,34,0,1,0,0,0.0,0.1,0,0,0,0.0,0.03,0.0,0.0
+2223,Spezia,Daniel Maldini,ITA,Attaccante,20,18,2,0,2,0,1.2,0.5,13,10,34,0.29,0.0,0.17,0.07
+2223,Spezia,Daniele Verde,ITA,Attaccante,26,25,3,0,2,1,2.9,1.3,18,42,57,0.27,0.0,0.26,0.12
+2223,Spezia,Dimitris Nikolaou,GRE,Difensore,23,36,1,0,1,0,0.8,0.9,20,105,15,0.03,0.0,0.03,0.03
+2223,Spezia,Dávid Strelec,SVK,Attaccante,21,7,0,0,0,0,0.5,0.1,2,1,14,0.0,0.0,0.28,0.05
+2223,Spezia,Eldor Shomurodov,UZB,Attaccante,27,15,1,1,1,0,2.8,1.4,7,15,53,0.11,0.11,0.31,0.15
+2223,Spezia,Emil Holm,SWE,Difensore,22,20,1,1,1,0,1.2,1.3,41,40,82,0.06,0.06,0.08,0.08
+2223,Spezia,Emmanuel Gyasi,GHA,,28,35,2,0,2,0,4.0,1.9,35,52,154,0.06,0.0,0.13,0.06
+2223,Spezia,Ethan Ampadu,WAL,,21,31,0,1,0,0,1.1,1.1,28,125,10,0.0,0.03,0.04,0.04
+2223,Spezia,Federico Marchetti,ITA,Portiere,39,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Spezia,Jacopo Sala,ITA,Centrocampista,30,6,0,0,0,0,0.0,0.0,2,6,3,0.0,0.0,0.0,0.01
+2223,Spezia,Jakub Kiwior,POL,Difensore,22,17,0,0,0,0,0.6,0.2,13,37,6,0.0,0.0,0.04,0.01
+2223,Spezia,Jeroen Zoet,NED,Portiere,31,5,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Spezia,João Moutinho,POR,,24,4,0,0,0,0,0.0,0.0,0,1,2,0.0,0.0,0.0,0.05
+2223,Spezia,Julius Beck,DEN,Centrocampista,17,1,0,0,0,0,0.0,0.0,0,2,0,0.0,0.0,0.0,0.0
+2223,Spezia,Kelvin Amian,FRA,Difensore,24,30,0,1,0,0,2.7,2.3,53,102,72,0.0,0.04,0.1,0.09
+2223,Spezia,Kevin Agudelo,COL,,23,34,0,1,0,0,1.5,3.0,81,110,100,0.0,0.04,0.06,0.13
+2223,Spezia,Leandro Sanca,GNB,Attaccante,22,4,0,0,0,0,0.0,0.0,1,0,3,0.0,0.0,0.0,0.0
+2223,Spezia,M'Bala Nzola,ANG,Attaccante,25,31,13,2,10,3,11.0,2.5,50,50,215,0.44,0.07,0.37,0.09
+2223,Spezia,Mattia Caldara,ITA,Difensore,28,20,0,0,0,0,0.8,0.0,5,35,4,0.0,0.0,0.06,0.0
+2223,Spezia,Mehdi Bourabia,MAR,Centrocampista,30,37,1,3,1,0,2.1,4.4,37,113,58,0.03,0.1,0.07,0.14
+2223,Spezia,Mikael Ellertsson,ISL,,20,11,0,0,0,0,0.1,0.0,3,3,4,0.0,0.0,0.07,0.01
+2223,Spezia,Petar Zovko,BIH,Portiere,20,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Spezia,Petko Hristov,BUL,Difensore,23,9,0,0,0,0,0.1,0.0,2,8,3,0.0,0.0,0.02,0.0
+2223,Spezia,Przemysław Wiśniewski,POL,Difensore,24,14,1,0,1,0,1.2,0.7,2,24,1,0.09,0.0,0.11,0.06
+2223,Spezia,Raimonds Krollis,LVA,,20,4,0,0,0,0,0.1,0.0,1,2,4,0.0,0.0,0.24,0.06
+2223,Spezia,Salvador Ferrer,ESP,Difensore,24,5,0,0,0,0,0.0,0.0,0,1,2,0.0,0.0,0.0,0.02
+2223,Spezia,Salvatore Esposito,ITA,Centrocampista,21,15,1,0,1,0,0.7,1.5,4,51,11,0.09,0.0,0.06,0.14
+2223,Spezia,Simone Bastoni,ITA,,25,19,2,4,2,0,1.1,1.7,20,32,65,0.15,0.3,0.08,0.13
+2223,Spezia,Szymon Żurkowski,POL,Centrocampista,24,10,0,0,0,0,0.6,0.0,9,10,10,0.0,0.0,0.12,0.0
+2223,Spezia,Tio Cipot,SVN,Attaccante,19,8,0,0,0,0,0.0,0.1,5,5,17,0.0,0.0,0.02,0.08
+2223,Spezia,Viktor Kovalenko,UKR,Centrocampista,26,18,0,0,0,0,1.6,0.6,4,22,28,0.0,0.0,0.26,0.09
+2223,Torino,Aleksei Miranchuk,RUS,Centrocampista,26,29,4,5,4,0,2.9,4.2,47,99,105,0.17,0.22,0.12,0.18
+2223,Torino,Alessandro Buongiorno,ITA,Difensore,23,34,1,2,1,0,2.2,1.3,13,81,19,0.03,0.07,0.07,0.04
+2223,Torino,Andrew Gravillon,GLP,Difensore,24,7,0,0,0,0,0.0,0.0,1,9,0,0.0,0.0,0.0,0.0
+2223,Torino,Antonio Sanabria,PAR,Attaccante,26,33,12,4,11,1,9.3,3.0,17,46,139,0.44,0.15,0.34,0.11
+2223,Torino,Brian Bayeye,COD,Difensore,22,2,0,0,0,0,0.0,0.0,3,3,5,0.0,0.0,0.0,0.03
+2223,Torino,David Zima,CZE,Difensore,21,9,0,0,0,0,0.8,0.1,3,12,5,0.0,0.0,0.17,0.02
+2223,Torino,Demba Seck,SEN,,21,19,0,0,0,0,0.6,0.6,29,17,42,0.0,0.0,0.1,0.1
+2223,Torino,Emirhan İlkhan,TUR,Centrocampista,18,4,0,0,0,0,0.0,0.1,2,8,3,0.0,0.0,0.05,0.1
+2223,Torino,Gvidas Gineitis,LTU,Centrocampista,18,3,0,0,0,0,0.0,0.0,3,6,7,0.0,0.0,0.01,0.0
+2223,Torino,Ivan Ilić,SRB,Centrocampista,21,14,2,2,2,0,0.2,1.1,29,66,28,0.15,0.15,0.02,0.08
+2223,Torino,Jacopo Segre,ITA,Difensore,25,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Torino,Karol Linetty,POL,Centrocampista,27,32,1,0,1,0,1.0,0.9,27,73,32,0.05,0.0,0.05,0.04
+2223,Torino,Koffi Djidji,CIV,Difensore,29,34,1,0,1,0,0.9,0.1,11,83,13,0.04,0.0,0.04,0.0
+2223,Torino,Michel Ndary Adopo,FRA,,22,9,0,0,0,0,0.1,0.0,2,10,4,0.0,0.0,0.02,0.02
+2223,Torino,Mërgim Vojvoda,KVX,Difensore,27,29,0,5,0,0,1.5,3.7,30,125,81,0.0,0.26,0.08,0.19
+2223,Torino,Nemanja Radonjić,SRB,,26,28,2,2,2,0,5.0,1.7,86,42,163,0.12,0.12,0.31,0.1
+2223,Torino,Nikola Vlašić,CRO,,24,34,5,6,5,0,4.3,4.1,85,106,210,0.16,0.2,0.14,0.14
+2223,Torino,Ola Aina,NGA,Difensore,25,19,1,1,1,0,0.8,2.1,35,43,43,0.1,0.1,0.08,0.21
+2223,Torino,Perr Schuurs,NED,Difensore,22,30,0,2,0,0,0.9,0.9,14,56,2,0.0,0.08,0.04,0.03
+2223,Torino,Pietro Pellegri,ITA,Attaccante,21,18,2,0,2,0,1.5,0.5,4,8,50,0.39,0.0,0.29,0.1
+2223,Torino,Ricardo Rodríguez,SUI,Difensore,29,35,0,0,0,0,0.4,1.9,49,133,51,0.0,0.0,0.01,0.07
+2223,Torino,Ronaldo Vieira,ENG,Centrocampista,24,2,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2223,Torino,Samuele Ricci,ITA,Centrocampista,20,28,2,1,2,0,1.7,1.8,43,104,31,0.09,0.04,0.07,0.08
+2223,Torino,Saša Lukić,SRB,Centrocampista,25,16,2,0,1,1,1.7,1.4,26,44,33,0.15,0.0,0.13,0.11
+2223,Torino,Valentino Lazaro,AUT,Difensore,26,23,0,3,0,0,0.4,2.7,44,74,84,0.0,0.2,0.03,0.18
+2223,Torino,Vanja Milinković-Savić,SRB,Portiere,25,38,0,0,0,0,0.0,0.5,0,0,0,0.0,0.0,0.0,0.01
+2223,Torino,Wilfried Singo,CIV,Difensore,21,31,2,1,2,0,2.7,1.9,54,67,93,0.09,0.04,0.12,0.08
+2223,Torino,Yann Karamoh,FRA,,24,21,4,0,4,0,3.3,0.7,27,12,74,0.5,0.0,0.41,0.09
+2223,Udinese,Adam Masina,MAR,Difensore,28,14,2,0,2,0,0.1,0.2,4,24,6,0.23,0.0,0.01,0.02
+2223,Udinese,Axel Guessand,FRA,Difensore,17,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Udinese,Beto,GNB,Attaccante,24,33,10,1,9,1,10.9,2.6,25,13,121,0.42,0.04,0.46,0.11
+2223,Udinese,Bram Nuytinck,NED,Difensore,32,6,0,0,0,0,0.0,0.0,1,4,0,0.0,0.0,0.01,0.0
+2223,Udinese,Brandon Soppy,FRA,Difensore,20,1,0,0,0,0,0.1,0.2,4,4,4,0.0,0.0,0.07,0.19
+2223,Udinese,Destiny Udogie,ITA,Difensore,19,33,3,4,3,0,2.9,4.2,109,106,155,0.1,0.13,0.1,0.14
+2223,Udinese,Enzo Ebosse,CMR,Difensore,23,20,0,0,0,0,0.1,0.0,11,51,20,0.0,0.0,0.01,0.0
+2223,Udinese,Festy Ebosele,IRL,Difensore,19,17,0,1,0,0,0.2,0.9,27,17,22,0.0,0.22,0.04,0.19
+2223,Udinese,Florian Thauvin,FRA,Attaccante,29,16,0,0,0,0,0.7,1.1,19,24,49,0.0,0.0,0.11,0.17
+2223,Udinese,Gerard Deulofeu,ESP,Attaccante,28,16,2,6,2,0,5.1,4.4,72,82,118,0.15,0.45,0.38,0.33
+2223,Udinese,Ilija Nestorovski,MKD,Attaccante,32,21,2,1,2,0,1.6,0.5,1,19,29,0.28,0.14,0.23,0.07
+2223,Udinese,Isaac Success,NGA,Attaccante,26,30,1,6,1,0,3.3,4.0,37,53,200,0.05,0.3,0.17,0.2
+2223,Udinese,Jaka Bijol,SVN,Difensore,23,32,3,2,3,0,2.2,1.6,3,66,7,0.1,0.07,0.07,0.05
+2223,Udinese,James Abankwah,IRL,Difensore,18,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Udinese,Jean-Victor Makengo,FRA,Centrocampista,24,16,0,1,0,0,0.4,0.5,18,36,31,0.0,0.11,0.04,0.05
+2223,Udinese,Kingsley Ehizibue,NED,Difensore,27,27,2,0,2,0,2.0,0.9,29,40,69,0.12,0.0,0.12,0.06
+2223,Udinese,Lazar Samardzic,SRB,Centrocampista,20,37,5,4,5,0,2.4,3.7,34,100,65,0.24,0.19,0.12,0.18
+2223,Udinese,Leonardo Buta,POR,Difensore,20,2,0,0,0,0,0.0,0.0,1,1,1,0.0,0.0,0.0,0.0
+2223,Udinese,Marco Silvestri,ITA,Portiere,31,38,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Udinese,Marvin Zeegelaar,NED,Difensore,31,7,1,0,1,0,0.2,0.2,6,9,11,0.25,0.0,0.05,0.04
+2223,Udinese,Mato Jajalo,BIH,Centrocampista,34,3,0,0,0,0,0.0,0.0,0,4,1,0.0,0.0,0.07,0.07
+2223,Udinese,Nehuén Pérez,ARG,Difensore,22,34,2,0,2,0,1.0,0.5,23,101,26,0.06,0.0,0.03,0.02
+2223,Udinese,Nicolò Cocetta,ITA,Difensore,18,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2223,Udinese,Roberto Pereyra,ARG,,31,34,5,7,5,0,4.7,5.5,66,143,186,0.16,0.22,0.15,0.18
+2223,Udinese,Rodrigo Becão,BRA,Difensore,26,28,2,1,2,0,1.5,0.6,19,98,48,0.07,0.04,0.05,0.02
+2223,Udinese,Sandi Lovrić,SVN,Centrocampista,24,37,5,6,5,0,4.8,3.2,42,105,90,0.19,0.23,0.18,0.12
+2223,Udinese,Simone Pafundi,ITA,,16,8,0,0,0,0,0.1,0.1,3,6,9,0.0,0.0,0.09,0.16
+2223,Udinese,Tolgay Arslan,GER,Centrocampista,31,36,1,0,1,0,2.2,1.6,45,77,37,0.07,0.0,0.16,0.12
+2223,Udinese,Vivaldo Semedo,POR,Attaccante,17,5,0,0,0,0,0.1,0.0,0,1,3,0.0,0.0,0.25,0.0
+2223,Udinese,Walace,BRA,Centrocampista,27,37,0,1,0,0,1.1,1.7,47,170,36,0.0,0.03,0.03,0.05
+2324,Atalanta,Ademola Lookman,NGA,Attaccante,25,31,11,7,11,0,9.1,5.2,72,97,222,0.52,0.33,0.43,0.25
+2324,Atalanta,Aleksei Miranchuk,RUS,,27,27,3,5,3,0,5.4,4.1,41,75,122,0.23,0.38,0.41,0.31
+2324,Atalanta,Berat Djimsiti,ALB,Difensore,30,37,0,1,0,0,0.8,0.7,6,79,10,0.0,0.03,0.03,0.02
+2324,Atalanta,Charles De Ketelaere,BEL,Attaccante,22,35,10,8,9,1,7.1,6.1,88,126,219,0.44,0.36,0.31,0.27
+2324,Atalanta,Davide Zappacosta,ITA,Difensore,31,31,2,1,2,0,2.2,1.4,67,78,132,0.1,0.05,0.11,0.07
+2324,Atalanta,Duván Zapata,COL,Attaccante,32,2,1,0,1,0,0.4,0.1,3,3,13,0.8,0.0,0.33,0.1
+2324,Atalanta,El Bilal Touré,MLI,Attaccante,21,11,2,0,2,0,1.2,0.8,16,11,39,0.46,0.0,0.28,0.18
+2324,Atalanta,Emil Holm,SWE,Difensore,23,22,1,1,1,0,2.7,0.8,28,27,80,0.1,0.1,0.26,0.08
+2324,Atalanta,Francesco Rossi,ITA,Portiere,32,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Atalanta,Gianluca Scamacca,ITA,Attaccante,24,29,12,6,12,0,6.5,3.9,22,41,167,0.74,0.37,0.4,0.24
+2324,Atalanta,Giorgio Scalvini,ITA,Difensore,19,33,1,3,1,0,1.4,1.1,30,116,33,0.04,0.11,0.05,0.04
+2324,Atalanta,Giovanni Bonfanti,ITA,Difensore,20,2,0,0,0,0,0.1,0.0,0,1,2,0.0,0.0,0.09,0.0
+2324,Atalanta,Hans Hateboer,NED,Difensore,29,23,0,1,0,0,0.3,2.0,19,42,71,0.0,0.08,0.03,0.16
+2324,Atalanta,Isak Hien,SWE,Difensore,24,16,0,1,0,0,0.2,0.1,0,24,0,0.0,0.1,0.02,0.01
+2324,Atalanta,José Luis Palomino,ARG,Difensore,33,4,0,0,0,0,0.0,0.0,0,2,0,0.0,0.0,0.0,0.0
+2324,Atalanta,Juan Musso,ARG,Portiere,29,11,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Atalanta,Leonardo Mendicino,ITA,Centrocampista,17,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Atalanta,Luis Muriel,COL,Attaccante,32,18,2,1,2,0,1.5,1.7,19,24,57,0.44,0.22,0.34,0.38
+2324,Atalanta,Marco Carnesecchi,ITA,Portiere,23,27,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Atalanta,Mario Pašalić,CRO,Centrocampista,28,34,6,6,4,2,7.1,4.1,48,129,74,0.26,0.26,0.31,0.18
+2324,Atalanta,Marten de Roon,NED,,32,30,0,5,0,0,0.6,1.2,28,178,22,0.0,0.17,0.02,0.04
+2324,Atalanta,Matteo Ruggeri,ITA,Difensore,21,34,0,4,0,0,0.5,1.8,55,142,132,0.0,0.15,0.02,0.07
+2324,Atalanta,Michel Ndary Adopo,FRA,Centrocampista,23,10,0,1,0,0,0.1,0.1,3,9,16,0.0,0.83,0.06,0.06
+2324,Atalanta,Mitchel Bakker,NED,Difensore,23,14,1,0,1,0,0.2,0.1,12,10,20,0.24,0.0,0.05,0.03
+2324,Atalanta,Nadir Zortea,ITA,Difensore,24,5,1,0,1,0,0.1,0.3,7,10,22,0.6,0.0,0.05,0.16
+2324,Atalanta,Rafael Tolói,ITA,Difensore,32,18,0,0,0,0,0.1,0.1,8,53,10,0.0,0.0,0.0,0.01
+2324,Atalanta,Sead Kolašinac,BIH,Difensore,30,30,1,0,1,0,1.3,1.1,32,94,30,0.04,0.0,0.06,0.04
+2324,Atalanta,Teun Koopmeiners,NED,Centrocampista,25,34,12,5,10,2,6.5,5.9,79,169,190,0.41,0.17,0.22,0.2
+2324,Atalanta,Éderson,BRA,Centrocampista,24,36,6,1,6,0,3.5,1.4,32,214,50,0.19,0.03,0.11,0.04
+2324,Bologna,Alexis Saelemaekers,BEL,Attaccante,24,30,4,2,4,0,2.6,2.8,65,77,180,0.19,0.1,0.13,0.14
+2324,Bologna,Charalambos Lykogiannis,GRE,Difensore,29,22,2,1,2,0,1.3,1.6,36,35,41,0.2,0.1,0.13,0.16
+2324,Bologna,Dan Ndoye,SUI,Attaccante,22,32,1,1,1,0,4.9,1.8,88,36,173,0.05,0.05,0.25,0.09
+2324,Bologna,Federico Ravaglia,ITA,Portiere,23,6,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Bologna,Giovanni Fabbian,ITA,,20,27,5,2,5,0,4.2,1.9,11,17,41,0.43,0.17,0.35,0.16
+2324,Bologna,Jens Odgaard,DEN,Attaccante,24,10,2,0,2,0,1.5,0.1,9,9,30,0.42,0.0,0.31,0.01
+2324,Bologna,Jesper Karlsson,SWE,Attaccante,25,7,0,0,0,0,0.4,0.3,13,16,35,0.0,0.0,0.11,0.08
+2324,Bologna,Jhon Lucumí,COL,Difensore,25,29,0,0,0,0,0.8,0.3,28,93,4,0.0,0.0,0.03,0.01
+2324,Bologna,Joshua Zirkzee,NED,Attaccante,22,34,11,4,9,2,9.0,5.2,53,86,182,0.36,0.13,0.29,0.17
+2324,Bologna,Kacper Urbanski,POL,,18,22,0,1,0,0,1.1,0.8,25,31,78,0.0,0.1,0.1,0.08
+2324,Bologna,Kevin Bonifazi,ITA,Difensore,27,1,0,0,0,0,0.0,0.0,0,1,1,0.0,0.0,0.0,0.0
+2324,Bologna,Lewis Ferguson,SCO,Centrocampista,23,31,6,3,6,0,5.4,2.3,57,142,138,0.2,0.1,0.18,0.08
+2324,Bologna,Lorenzo De Silvestri,ITA,Difensore,35,15,2,0,2,0,0.2,0.0,14,27,12,0.27,0.0,0.03,0.0
+2324,Bologna,Michel Aebischer,SUI,Centrocampista,26,36,0,1,0,0,1.1,1.5,26,125,55,0.0,0.04,0.04,0.06
+2324,Bologna,Nicola Bagnolini,ITA,Portiere,19,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Bologna,Nicolás Domínguez,ARG,Centrocampista,25,2,0,0,0,0,0.0,0.0,1,9,3,0.0,0.0,0.0,0.04
+2324,Bologna,Nikola Moro,CRO,Centrocampista,25,23,1,0,1,0,0.7,0.4,21,58,38,0.11,0.0,0.08,0.04
+2324,Bologna,Oussama El Azzouzi,MAR,Centrocampista,22,18,2,2,2,0,0.5,0.6,4,19,8,0.33,0.33,0.08,0.09
+2324,Bologna,Remo Freuler,SUI,Centrocampista,31,32,1,1,1,0,1.2,1.1,37,165,48,0.03,0.03,0.04,0.04
+2324,Bologna,Riccardo Calafiori,ITA,Difensore,21,30,2,5,2,0,1.4,1.2,28,96,23,0.08,0.19,0.05,0.05
+2324,Bologna,Riccardo Orsolini,ITA,Attaccante,26,33,10,2,8,2,7.4,4.4,51,71,175,0.5,0.1,0.37,0.22
+2324,Bologna,Sam Beukema,NED,Difensore,24,30,1,1,1,0,1.9,0.8,14,76,5,0.04,0.04,0.07,0.03
+2324,Bologna,Santiago Castro,ARG,Attaccante,18,8,1,1,1,0,1.0,0.5,1,1,15,0.37,0.37,0.35,0.2
+2324,Bologna,Stefan Posch,AUT,Difensore,26,31,1,2,1,0,1.2,2.1,44,123,64,0.04,0.07,0.04,0.08
+2324,Bologna,Sydney van Hooijdonk,NED,Attaccante,23,9,0,0,0,0,0.6,0.1,1,2,9,0.0,0.0,0.26,0.05
+2324,Bologna,Tommaso Corazza,ITA,Difensore,19,9,0,0,0,0,0.1,0.1,10,14,9,0.0,0.0,0.04,0.03
+2324,Bologna,Victor Bernth Kristiansen,DEN,Difensore,20,32,0,3,0,0,0.3,2.4,23,123,74,0.0,0.12,0.01,0.09
+2324,Bologna,Łukasz Skorupski,POL,Portiere,32,32,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2324,Cagliari,Adam Obert,SVK,Difensore,20,17,0,0,0,0,0.1,0.9,14,37,5,0.0,0.0,0.01,0.09
+2324,Cagliari,Alberto Dossena,ITA,Difensore,24,35,2,4,2,0,2.2,2.1,9,89,2,0.06,0.12,0.07,0.06
+2324,Cagliari,Alessandro Deiola,ITA,Centrocampista,27,27,1,0,1,0,2.5,0.9,9,64,21,0.06,0.0,0.14,0.05
+2324,Cagliari,Alessandro Di Pardo,ITA,,24,15,0,0,0,0,0.1,0.2,6,11,19,0.0,0.0,0.02,0.05
+2324,Cagliari,Andrea Petagna,ITA,Attaccante,28,18,1,1,1,0,1.6,1.0,11,14,56,0.09,0.09,0.15,0.09
+2324,Cagliari,Antoine Makoumbou,CGO,Centrocampista,25,32,1,0,1,0,0.7,0.9,37,137,52,0.03,0.0,0.02,0.03
+2324,Cagliari,Boris Radunović,SRB,Portiere,27,7,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Cagliari,Edoardo Goldaniga,ITA,Difensore,29,13,0,0,0,0,0.5,0.1,9,50,3,0.0,0.0,0.05,0.01
+2324,Cagliari,Eldor Shomurodov,UZB,Attaccante,28,22,3,3,3,0,3.5,1.7,12,18,52,0.29,0.29,0.34,0.16
+2324,Cagliari,Gabriele Zappa,ITA,Difensore,23,38,1,3,1,0,1.5,3.3,35,99,84,0.04,0.11,0.05,0.12
+2324,Cagliari,Gaetano Oristanio,ITA,Attaccante,20,25,2,1,2,0,1.8,1.1,25,26,76,0.16,0.08,0.14,0.09
+2324,Cagliari,Gianluca Gaetano,ITA,Attaccante,23,11,4,1,3,1,1.3,1.3,17,41,42,0.48,0.12,0.15,0.16
+2324,Cagliari,Gianluca Lapadula,PER,Attaccante,33,23,3,1,2,1,4.8,1.1,8,4,63,0.22,0.07,0.36,0.08
+2324,Cagliari,Ibrahim Sulemana,GHA,Centrocampista,20,21,2,0,2,0,0.8,0.1,15,27,14,0.13,0.0,0.05,0.01
+2324,Cagliari,Jakub Jankto,CZE,,27,18,1,2,1,0,1.5,0.5,12,26,48,0.1,0.21,0.16,0.05
+2324,Cagliari,Kingstone Mutandwa,ZAM,Attaccante,20,5,1,0,1,0,0.1,0.0,1,0,2,2.31,0.0,0.17,0.0
+2324,Cagliari,Leonardo Pavoletti,ITA,Attaccante,34,19,4,1,4,0,2.6,0.3,1,16,40,0.57,0.14,0.37,0.04
+2324,Cagliari,Marco Mancosu,ITA,,34,6,0,0,0,0,1.2,0.2,4,8,11,0.0,0.0,0.71,0.13
+2324,Cagliari,Mateusz Wieteska,POL,Difensore,26,19,0,1,0,0,0.3,0.6,16,33,1,0.0,0.09,0.03,0.05
+2324,Cagliari,Matteo Prati,ITA,Centrocampista,19,26,1,1,1,0,2.0,0.8,8,66,17,0.05,0.05,0.09,0.03
+2324,Cagliari,Nahitan Nández,URU,,27,33,2,3,1,1,3.7,2.5,57,76,89,0.08,0.12,0.14,0.1
+2324,Cagliari,Nicolas Viola,ITA,,33,26,5,2,5,0,3.4,3.9,22,57,68,0.37,0.15,0.25,0.29
+2324,Cagliari,Pantelis Hatzidiakos,GRE,Difensore,26,13,0,0,0,0,0.4,0.0,3,34,7,0.0,0.0,0.04,0.0
+2324,Cagliari,Paulo Azzi,BRA,,29,25,0,0,0,0,1.2,0.7,47,35,42,0.0,0.0,0.12,0.06
+2324,Cagliari,Simone Aresti,ITA,Portiere,37,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Cagliari,Simone Scuffet,ITA,Portiere,27,31,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2324,Cagliari,Tommaso Augello,ITA,Difensore,28,32,1,1,1,0,0.5,2.0,62,96,99,0.04,0.04,0.02,0.07
+2324,Cagliari,Yerry Mina,COL,Difensore,28,14,2,0,1,1,1.3,0.0,4,23,3,0.15,0.0,0.1,0.0
+2324,Cagliari,Zito Luvumbo,ANG,Attaccante,21,30,4,5,4,0,4.0,3.1,85,21,181,0.18,0.23,0.18,0.14
+2324,Empoli,Alberto Cerri,ITA,Attaccante,27,12,1,0,1,0,1.2,0.2,3,9,23,0.17,0.0,0.19,0.04
+2324,Empoli,Alberto Grassi,ITA,Centrocampista,28,27,0,1,0,0,1.1,0.6,13,75,13,0.0,0.05,0.05,0.03
+2324,Empoli,Andrea Sodero,ITA,Centrocampista,18,1,0,0,0,0,0.0,0.0,0,0,1,0.0,0.0,0.0,0.0
+2324,Empoli,Ardian Ismajli,ALB,Difensore,26,26,0,0,0,0,0.3,0.1,9,49,3,0.0,0.0,0.01,0.0
+2324,Empoli,Bartosz Bereszyński,POL,Difensore,31,24,0,1,0,0,0.1,0.3,15,69,18,0.0,0.05,0.0,0.02
+2324,Empoli,Daniel Maldini,ITA,Attaccante,21,7,0,0,0,0,0.3,0.0,7,10,10,0.0,0.0,0.1,0.01
+2324,Empoli,Elia Caprile,ITA,Portiere,21,23,0,0,0,0,0.0,0.3,0,0,0,0.0,0.0,0.0,0.01
+2324,Empoli,Emmanuel Ekong,SWE,Attaccante,21,1,0,0,0,0,0.0,0.0,0,0,1,0.0,0.0,0.0,0.19
+2324,Empoli,Emmanuel Gyasi,GHA,,29,33,1,2,1,0,3.5,1.5,15,41,60,0.05,0.1,0.17,0.07
+2324,Empoli,Etrit Berisha,ALB,Portiere,34,14,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Empoli,Filippo Ranocchia,ITA,,22,9,0,0,0,0,0.2,0.5,5,21,11,0.0,0.0,0.04,0.1
+2324,Empoli,Francesco Caputo,ITA,Attaccante,35,20,3,0,2,1,3.4,0.7,7,18,65,0.21,0.0,0.24,0.05
+2324,Empoli,Giacomo Corona,ITA,Attaccante,19,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Empoli,Giuseppe Pezzella,ITA,Difensore,25,19,0,0,0,0,0.2,0.5,44,44,36,0.0,0.0,0.01,0.04
+2324,Empoli,Jacopo Fazzini,ITA,Centrocampista,20,31,1,1,1,0,1.2,2.3,24,47,51,0.07,0.07,0.09,0.16
+2324,Empoli,Liam Henderson,SCO,Centrocampista,27,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Empoli,Liberato Cacace,NZL,Difensore,22,31,0,1,0,0,0.4,1.7,34,84,55,0.0,0.05,0.02,0.08
+2324,Empoli,M'Baye Niang,SEN,Attaccante,28,14,6,1,2,4,5.4,0.9,13,11,43,0.76,0.13,0.68,0.12
+2324,Empoli,Matteo Cancellieri,ITA,Attaccante,21,36,4,3,4,0,4.7,2.9,48,26,138,0.2,0.15,0.24,0.15
+2324,Empoli,Mattia Destro,ITA,Attaccante,32,15,0,0,0,0,1.2,0.3,4,4,19,0.0,0.0,0.29,0.08
+2324,Empoli,Nicolas Haas,SUI,Centrocampista,27,1,0,0,0,0,0.1,0.0,0,6,4,0.0,0.0,0.1,0.0
+2324,Empoli,Nicolò Cambiaghi,ITA,Attaccante,22,37,1,1,1,0,3.9,2.8,128,63,197,0.04,0.04,0.14,0.1
+2324,Empoli,Roberto Piccoli,ITA,Attaccante,22,2,0,0,0,0,0.1,0.0,0,1,0,0.0,0.0,0.12,0.0
+2324,Empoli,Răzvan Marin,ROU,Centrocampista,27,30,0,3,0,0,1.1,3.0,21,72,24,0.0,0.15,0.05,0.15
+2324,Empoli,Samuele Perisan,ITA,Portiere,25,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Empoli,Sebastian Walukiewicz,POL,Difensore,23,27,0,0,0,0,0.1,0.1,14,45,5,0.0,0.0,0.01,0.0
+2324,Empoli,Sebastiano Luperto,ITA,Difensore,26,38,1,1,1,0,1.7,1.0,13,100,13,0.03,0.03,0.04,0.03
+2324,Empoli,Simone Bastoni,ITA,,26,16,1,0,1,0,0.4,0.5,12,31,26,0.12,0.0,0.05,0.06
+2324,Empoli,Steven Shpendi,ALB,Attaccante,20,12,0,1,0,0,0.4,0.5,3,6,32,0.0,0.22,0.09,0.1
+2324,Empoli,Szymon Żurkowski,POL,Centrocampista,25,13,4,0,4,0,1.0,0.1,17,20,37,0.41,0.0,0.1,0.01
+2324,Empoli,Tommaso Baldanzi,ITA,,20,14,2,0,2,0,2.1,1.0,20,30,40,0.24,0.0,0.25,0.13
+2324,Empoli,Tyronne Ebuehi,NGA,Difensore,27,15,0,1,0,0,0.3,0.9,34,37,35,0.0,0.08,0.02,0.07
+2324,Empoli,Viktor Kovalenko,UKR,Centrocampista,27,17,1,1,1,0,0.9,0.8,4,20,24,0.15,0.15,0.14,0.12
+2324,Empoli,Youssef Maleh,MAR,Centrocampista,24,34,0,1,0,0,1.6,2.4,17,117,65,0.0,0.03,0.05,0.08
+2324,Fiorentina,Alfred Duncan,GHA,Centrocampista,30,30,2,5,2,0,1.5,2.0,23,133,47,0.1,0.24,0.07,0.1
+2324,Fiorentina,Andrea Belotti,ITA,Attaccante,29,15,3,0,3,0,3.7,0.7,10,15,60,0.28,0.0,0.35,0.07
+2324,Fiorentina,Antonín Barák,CZE,,28,21,2,3,2,0,1.5,2.2,17,33,64,0.22,0.33,0.17,0.25
+2324,Fiorentina,Arthur Melo,BRA,Centrocampista,26,33,2,3,1,1,1.0,1.7,21,133,27,0.09,0.14,0.05,0.08
+2324,Fiorentina,Christian Kouamé,CIV,Attaccante,25,23,2,1,2,0,1.9,1.8,12,41,110,0.17,0.08,0.16,0.15
+2324,Fiorentina,Cristiano Biraghi,ITA,Difensore,30,29,2,5,2,0,1.6,3.6,55,129,109,0.08,0.19,0.06,0.14
+2324,Fiorentina,Davide Faraoni,ITA,Difensore,31,8,0,1,0,0,0.1,0.4,7,17,16,0.0,0.23,0.02,0.08
+2324,Fiorentina,Dodô,BRA,Difensore,24,9,0,0,0,0,0.1,0.8,20,39,21,0.0,0.0,0.01,0.13
+2324,Fiorentina,Fabiano Parisi,ITA,Difensore,22,21,0,1,0,0,0.9,2.4,50,78,64,0.0,0.06,0.06,0.15
+2324,Fiorentina,Gaetano Castrovilli,ITA,Attaccante,26,6,1,2,1,0,0.3,0.6,14,12,25,0.25,0.49,0.08,0.15
+2324,Fiorentina,Giacomo Bonaventura,ITA,Centrocampista,33,31,8,3,8,0,5.7,3.6,60,140,107,0.32,0.12,0.22,0.14
+2324,Fiorentina,Gino Infantino,ARG,Centrocampista,20,6,0,0,0,0,0.0,0.0,0,7,4,0.0,0.0,0.02,0.03
+2324,Fiorentina,Jonathan Ikone,FRA,Attaccante,25,28,3,1,3,0,4.6,2.0,51,58,154,0.16,0.05,0.25,0.1
+2324,Fiorentina,Josip Brekalo,CRO,Attaccante,25,11,1,0,1,0,0.4,0.3,14,25,69,0.14,0.0,0.06,0.04
+2324,Fiorentina,Lorenzo Amatucci,ITA,Centrocampista,19,2,0,0,0,0,0.0,0.0,1,2,1,0.0,0.0,0.04,0.0
+2324,Fiorentina,Luca Ranieri,ITA,Difensore,24,26,2,1,2,0,0.9,0.4,17,99,5,0.09,0.04,0.04,0.02
+2324,Fiorentina,Lucas Beltrán,ARG,Attaccante,22,32,6,2,5,1,3.8,1.5,12,49,113,0.32,0.11,0.2,0.08
+2324,Fiorentina,Lucas Martínez Quarta,ARG,Difensore,27,29,5,1,5,0,2.7,1.8,23,177,16,0.2,0.04,0.11,0.07
+2324,Fiorentina,M'Bala Nzola,ANG,Attaccante,26,33,3,3,2,1,4.5,1.6,21,29,143,0.17,0.17,0.26,0.09
+2324,Fiorentina,Maxime Lopez,FRA,Centrocampista,25,19,0,0,0,0,0.2,0.6,14,48,11,0.0,0.0,0.02,0.06
+2324,Fiorentina,Michael Kayode,ITA,Difensore,19,26,1,1,1,0,0.5,1.1,45,80,102,0.04,0.04,0.02,0.05
+2324,Fiorentina,Nicolás González,ARG,Attaccante,25,29,12,2,11,1,10.4,1.6,53,100,190,0.56,0.09,0.49,0.07
+2324,Fiorentina,Nikola Milenković,SRB,Difensore,25,34,0,0,0,0,0.4,0.7,8,81,10,0.0,0.0,0.01,0.03
+2324,Fiorentina,Oliver Christensen,DEN,Portiere,24,4,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Fiorentina,Pietro Comuzzo,ITA,,18,4,0,0,0,0,0.0,0.0,0,3,0,0.0,0.0,0.0,0.0
+2324,Fiorentina,Pietro Terracciano,ITA,Portiere,33,33,0,0,0,0,0.0,0.2,0,0,0,0.0,0.0,0.0,0.01
+2324,Fiorentina,Riccardo Sottil,ITA,Attaccante,24,22,2,3,2,0,2.6,2.5,66,33,139,0.16,0.24,0.21,0.2
+2324,Fiorentina,Rolando Mandragora,ITA,Centrocampista,26,33,3,3,3,0,3.5,1.6,7,93,32,0.17,0.17,0.2,0.09
+2324,Fiorentina,Tommaso Martinelli,ITA,Portiere,17,1,0,0,0,0,,,,,,0.0,0.0,,
+2324,Fiorentina,Yerry Mina,COL,,28,4,0,0,0,0,0.1,0.0,0,2,1,0.0,0.0,0.12,0.0
+2324,Frosinone,Abdou Harroui,NED,,25,18,3,3,2,1,3.1,1.2,43,38,56,0.26,0.26,0.27,0.1
+2324,Frosinone,Anthony Oyono,GAB,Difensore,22,16,0,1,0,0,0.1,0.9,35,33,39,0.0,0.08,0.01,0.07
+2324,Frosinone,Arijon Ibrahimović,GER,,17,16,1,1,1,0,0.8,0.7,10,22,54,0.19,0.19,0.15,0.13
+2324,Frosinone,Caleb Okoli,ITA,Difensore,22,34,0,1,0,0,0.6,0.8,22,118,4,0.0,0.03,0.02,0.02
+2324,Frosinone,Demba Seck,SEN,Attaccante,22,11,0,0,0,0,1.1,0.3,11,9,23,0.0,0.0,0.34,0.1
+2324,Frosinone,Emanuele Valeri,ITA,Difensore,24,16,0,1,0,0,0.9,2.4,38,41,61,0.0,0.08,0.07,0.19
+2324,Frosinone,Enzo Barrenechea,ARG,Centrocampista,22,36,0,1,0,0,0.6,1.7,10,155,24,0.0,0.03,0.02,0.05
+2324,Frosinone,Farés Ghedjemis,FRA,Attaccante,20,6,0,0,0,0,0.1,0.1,7,2,19,0.0,0.0,0.06,0.07
+2324,Frosinone,Francesco Gelli,ITA,,26,27,0,0,0,0,0.7,2.4,42,61,87,0.0,0.0,0.04,0.14
+2324,Frosinone,Gennaro Borrelli,ITA,Attaccante,23,1,0,0,0,0,0.0,0.0,1,0,1,0.0,0.0,0.0,0.0
+2324,Frosinone,Giorgi Kvernadze,GEO,,20,5,0,0,0,0,0.0,0.0,0,1,6,0.0,0.0,0.0,0.0
+2324,Frosinone,Giuseppe Caso,ITA,Attaccante,24,14,0,0,0,0,0.3,0.2,15,20,37,0.0,0.0,0.06,0.04
+2324,Frosinone,Ilario Monterisi,ITA,Difensore,21,24,2,2,2,0,1.1,0.4,4,47,18,0.12,0.12,0.07,0.02
+2324,Frosinone,Jaime Báez,URU,Attaccante,28,11,1,0,1,0,0.5,0.5,12,29,39,0.18,0.0,0.08,0.1
+2324,Frosinone,Kaio Jorge,BRA,Attaccante,21,20,3,0,2,1,5.4,0.3,6,11,46,0.33,0.0,0.6,0.03
+2324,Frosinone,Karlo Lulić,CRO,Centrocampista,27,1,0,0,0,0,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0
+2324,Frosinone,Kevin Bonifazi,ITA,Difensore,27,6,0,0,0,0,0.0,0.1,2,7,1,0.0,0.0,0.0,0.02
+2324,Frosinone,Luca Garritano,ITA,,29,12,0,0,0,0,0.7,0.3,6,23,23,0.0,0.0,0.13,0.06
+2324,Frosinone,Luca Mazzitelli,ITA,Centrocampista,27,29,5,0,5,0,2.3,1.1,18,167,53,0.2,0.0,0.09,0.05
+2324,Frosinone,Luigi Canotto,ITA,Attaccante,29,1,0,0,0,0,0.0,0.0,0,0,1,0.0,0.0,0.0,0.0
+2324,Frosinone,Marco Brescianini,ITA,Centrocampista,23,36,4,2,4,0,2.3,1.6,46,70,100,0.16,0.08,0.09,0.06
+2324,Frosinone,Marvin Cuni,ALB,Attaccante,22,22,1,0,1,0,1.3,0.3,6,11,45,0.17,0.0,0.22,0.05
+2324,Frosinone,Mateus Lusuardi,BRA,Difensore,19,4,0,0,0,0,0.1,0.0,2,12,0,0.0,0.0,0.03,0.0
+2324,Frosinone,Matìas Soulé,ARG,Attaccante,20,36,11,3,6,5,10.5,6.6,115,198,211,0.32,0.09,0.3,0.19
+2324,Frosinone,Mehdi Bourabia,MAR,Centrocampista,31,10,0,0,0,0,0.1,0.0,1,7,8,0.0,0.0,0.05,0.0
+2324,Frosinone,Michele Cerofolini,ITA,Portiere,24,8,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Frosinone,Nadir Zortea,ITA,Difensore,24,14,1,5,1,0,0.4,2.8,31,42,71,0.07,0.36,0.03,0.2
+2324,Frosinone,Pol Lirola,ESP,Difensore,25,25,2,1,2,0,1.3,1.1,30,65,59,0.12,0.06,0.08,0.06
+2324,Frosinone,Przemysław Szymiński,POL,Centrocampista,29,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Frosinone,Reinier,BRA,,21,22,2,2,2,0,1.3,1.9,10,32,42,0.17,0.17,0.11,0.16
+2324,Frosinone,Riccardo Marchizza,ITA,Difensore,25,13,0,4,0,0,0.4,0.8,6,36,39,0.0,0.31,0.03,0.06
+2324,Frosinone,Simone Romagnoli,ITA,Difensore,33,33,1,1,1,0,1.2,0.4,2,47,2,0.03,0.03,0.04,0.01
+2324,Frosinone,Stefano Turati,ITA,Portiere,21,31,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Frosinone,Walid Cheddira,MAR,Attaccante,25,36,7,1,6,1,9.0,1.4,31,22,139,0.3,0.04,0.38,0.06
+2324,Genoa,Aarón Martín,ESP,Difensore,26,22,0,1,0,0,0.2,1.7,28,35,72,0.0,0.07,0.01,0.11
+2324,Genoa,Alan Matturro,URU,Difensore,18,6,0,0,0,0,0.1,0.0,0,4,1,0.0,0.0,0.06,0.0
+2324,Genoa,Albert Guðmundsson,ISL,Attaccante,26,35,14,4,10,4,9.9,5.2,82,120,168,0.42,0.12,0.3,0.16
+2324,Genoa,Alessandro Vogliacco,ITA,Difensore,24,20,0,1,0,0,0.4,0.5,8,49,12,0.0,0.08,0.03,0.04
+2324,Genoa,Berkan Kutlu,TUR,Centrocampista,25,6,0,0,0,0,0.2,0.3,4,5,9,0.0,0.0,0.07,0.13
+2324,Genoa,Caleb Ekuban,GHA,Attaccante,29,29,4,1,4,0,2.9,1.4,14,15,93,0.32,0.08,0.23,0.11
+2324,Genoa,Christos Papadopoulos,GRE,Attaccante,18,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Genoa,Daniele Sommariva,ITA,Portiere,26,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Genoa,David Akpan Ankeye,NGA,Attaccante,21,6,0,0,0,0,0.0,0.0,3,1,2,0.0,0.0,0.0,0.0
+2324,Genoa,Davide Biraschi,ITA,Difensore,29,1,1,0,1,0,0.1,0.0,0,5,4,1.0,0.0,0.1,0.0
+2324,Genoa,Djed Spence,ENG,Difensore,22,16,0,0,0,0,0.2,0.3,17,25,31,0.0,0.0,0.02,0.03
+2324,Genoa,Emil Bohinen,NOR,Centrocampista,24,5,0,0,0,0,0.0,0.1,1,3,1,0.0,0.0,0.0,0.17
+2324,Genoa,Filip Jagiełło,POL,Centrocampista,25,2,0,0,0,0,0.0,0.0,1,2,2,0.0,0.0,0.0,0.0
+2324,Genoa,George Pușcaș,ROU,Attaccante,27,8,0,0,0,0,2.1,0.1,5,3,17,0.0,0.0,0.98,0.04
+2324,Genoa,Giorgio Cittadini,ITA,Difensore,21,5,0,0,0,0,0.0,0.0,0,1,1,0.0,0.0,0.0,0.0
+2324,Genoa,Johan Vásquez,MEX,Difensore,24,37,1,1,1,0,1.9,0.8,29,81,61,0.03,0.03,0.06,0.03
+2324,Genoa,Josep Martinez,ESP,Portiere,25,36,0,0,0,0,0.0,0.0,0,2,0,0.0,0.0,0.0,0.0
+2324,Genoa,Junior Messias,BRA,,32,18,1,0,1,0,1.6,1.3,35,29,75,0.09,0.0,0.14,0.11
+2324,Genoa,Kevin Strootman,NED,Centrocampista,33,27,0,2,0,0,0.1,1.3,13,61,22,0.0,0.15,0.01,0.1
+2324,Genoa,Koni De Winter,BEL,Difensore,21,29,0,1,0,0,0.8,1.0,21,76,15,0.0,0.04,0.03,0.04
+2324,Genoa,Mateo Retegui,ITA,Attaccante,24,29,7,2,6,1,5.8,0.7,18,17,112,0.28,0.08,0.24,0.03
+2324,Genoa,Mattia Bani,ITA,Difensore,29,27,2,0,2,0,1.2,0.1,5,37,4,0.08,0.0,0.05,0.0
+2324,Genoa,Milan Badelj,CRO,Centrocampista,34,33,1,3,1,0,1.4,1.1,18,151,36,0.04,0.11,0.05,0.04
+2324,Genoa,Morten Frendrup,DEN,Centrocampista,22,37,2,5,2,0,1.7,1.6,36,105,69,0.06,0.14,0.05,0.05
+2324,Genoa,Morten Thorsby,NOR,Centrocampista,27,24,2,2,2,0,1.8,1.4,6,28,39,0.16,0.16,0.14,0.11
+2324,Genoa,Nicola Leali,ITA,Portiere,30,3,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Genoa,Pablo Galdames Millán,CHI,,26,2,0,0,0,0,0.0,0.0,0,5,1,0.0,0.0,0.25,0.0
+2324,Genoa,Radu Drăgușin,ROU,Difensore,21,19,2,1,2,0,1.0,0.8,6,29,13,0.11,0.05,0.05,0.04
+2324,Genoa,Ridgeciano Haps,SUR,Difensore,30,16,0,1,0,0,0.1,0.7,13,13,42,0.0,0.12,0.01,0.08
+2324,Genoa,Ruslan Malinovskyi,UKR,Centrocampista,30,28,4,1,4,0,1.1,0.6,24,83,31,0.23,0.06,0.06,0.03
+2324,Genoa,Seydou Fini,ITA,,17,3,0,0,0,0,0.1,0.0,1,0,2,0.0,0.0,0.34,0.0
+2324,Genoa,Silvan Hefti,SUI,,25,6,0,0,0,0,0.0,0.0,1,2,4,0.0,0.0,0.0,0.0
+2324,Genoa,Stefano Sabelli,ITA,Difensore,30,32,0,1,0,0,0.8,1.9,69,88,101,0.0,0.04,0.03,0.07
+2324,Genoa,Vitinha,POR,Attaccante,23,9,2,0,2,0,1.1,0.1,10,4,21,0.63,0.0,0.36,0.04
+2324,Hellas Verona,Alphadjo Cissè,ITA,Attaccante,16,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Hellas Verona,Bruno Amione,ARG,Difensore,21,10,0,0,0,0,0.3,0.0,2,17,2,0.0,0.0,0.05,0.01
+2324,Hellas Verona,Charlys,BRA,Centrocampista,19,2,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.15
+2324,Hellas Verona,Cyril Ngonge,BEL,Attaccante,23,19,6,2,6,0,4.2,1.7,53,44,117,0.38,0.13,0.27,0.11
+2324,Hellas Verona,Daniel Bandeira,POR,Centrocampista,23,14,0,0,0,0,0.1,0.2,9,34,8,0.0,0.0,0.01,0.04
+2324,Hellas Verona,Darko Lazović,SRB,Attaccante,32,32,3,2,2,1,2.8,4.4,43,66,139,0.14,0.09,0.13,0.21
+2324,Hellas Verona,Davide Faraoni,ITA,Difensore,31,11,0,1,0,0,0.4,0.4,13,28,31,0.0,0.15,0.06,0.05
+2324,Hellas Verona,Diego Coppola,ITA,Difensore,19,24,2,0,2,0,1.2,0.2,1,40,0,0.11,0.0,0.07,0.01
+2324,Hellas Verona,Elayis Tavsan,NED,,22,3,0,0,0,0,0.1,0.0,2,2,1,0.0,0.0,0.19,0.0
+2324,Hellas Verona,Fabien Centonze,FRA,Difensore,27,10,0,1,0,0,0.0,1.0,16,14,21,0.0,0.13,0.0,0.14
+2324,Hellas Verona,Federico Bonazzoli,ITA,Attaccante,26,24,3,1,3,0,2.9,1.1,13,26,73,0.27,0.09,0.25,0.1
+2324,Hellas Verona,Filippo Terracciano,ITA,Difensore,20,18,0,1,0,0,0.3,1.0,26,51,28,0.0,0.07,0.02,0.07
+2324,Hellas Verona,Giangiacomo Magnani,ITA,Difensore,27,33,0,0,0,0,0.5,0.2,15,79,10,0.0,0.0,0.02,0.01
+2324,Hellas Verona,Isak Hien,SWE,Difensore,24,10,0,0,0,0,0.4,0.0,8,26,1,0.0,0.0,0.04,0.0
+2324,Hellas Verona,Jackson Tchatchoua,CMR,Difensore,21,26,0,2,0,0,0.0,1.3,34,53,66,0.0,0.1,0.0,0.07
+2324,Hellas Verona,Jordi Mboula,ESP,Attaccante,24,11,0,1,0,0,0.2,0.4,10,4,22,0.0,0.29,0.06,0.11
+2324,Hellas Verona,Josh Doig,SCO,Difensore,21,12,0,0,0,0,0.2,0.3,23,15,22,0.0,0.0,0.02,0.04
+2324,Hellas Verona,Juan Cruz,ARG,Attaccante,24,4,0,0,0,0,0.0,0.1,3,4,4,0.0,0.0,0.03,0.09
+2324,Hellas Verona,Juan David Cabal,COL,Difensore,22,22,0,0,0,0,0.5,0.4,26,70,48,0.0,0.0,0.03,0.03
+2324,Hellas Verona,Karol Świderski,POL,Attaccante,26,15,2,0,2,0,1.7,0.4,3,13,19,0.36,0.0,0.31,0.08
+2324,Hellas Verona,Lorenzo Montipò,ITA,Portiere,27,37,0,1,0,0,0.0,0.0,0,0,0,0.0,0.03,0.0,0.0
+2324,Hellas Verona,Martin Hongla,CMR,Centrocampista,25,15,0,0,0,0,0.1,0.3,6,57,6,0.0,0.0,0.01,0.02
+2324,Hellas Verona,Michael Folorunsho,ITA,,25,34,5,1,5,0,4.0,1.4,56,54,110,0.16,0.03,0.13,0.04
+2324,Hellas Verona,Milan Đurić,BIH,Attaccante,33,20,5,1,4,1,4.5,1.2,3,15,33,0.37,0.07,0.34,0.09
+2324,Hellas Verona,Ondrej Duda,SVK,Centrocampista,28,32,1,4,1,0,2.2,3.3,34,117,47,0.04,0.15,0.08,0.12
+2324,Hellas Verona,Paweł Dawidowicz,POL,Difensore,28,28,0,0,0,0,0.5,0.0,11,89,5,0.0,0.0,0.02,0.0
+2324,Hellas Verona,Reda Belahyane,FRA,Centrocampista,19,2,0,0,0,0,0.0,0.0,1,4,2,0.0,0.0,0.03,0.0
+2324,Hellas Verona,Riccardo Saponara,ITA,Attaccante,31,12,0,0,0,0,0.1,0.2,12,14,32,0.0,0.0,0.03,0.04
+2324,Hellas Verona,Rúben Vinagre,POR,,24,12,0,0,0,0,0.0,0.3,6,8,13,0.0,0.0,0.01,0.08
+2324,Hellas Verona,Simone Perilli,ITA,Portiere,28,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Hellas Verona,Stefan Mitrović,SRB,Attaccante,20,10,0,0,0,0,0.4,0.1,13,15,24,0.0,0.0,0.1,0.02
+2324,Hellas Verona,Suat Serdar,GER,Centrocampista,26,25,0,2,0,0,1.0,1.4,20,68,36,0.0,0.11,0.05,0.07
+2324,Hellas Verona,Thomas Henry,FRA,Attaccante,28,18,3,0,3,0,3.3,0.0,2,3,20,0.81,0.0,0.88,0.01
+2324,Hellas Verona,Tijjani Noslin,NED,Attaccante,24,17,5,4,5,0,3.6,2.2,29,26,94,0.34,0.27,0.24,0.14
+2324,Hellas Verona,Tomáš Suslov,SVK,,21,32,3,5,2,1,3.5,3.6,46,64,74,0.13,0.22,0.15,0.15
+2324,Hellas Verona,Yayah Kallon,SLE,Attaccante,22,1,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2324,Inter,Alessandro Bastoni,ITA,Difensore,24,28,1,3,1,0,1.2,3.4,63,142,77,0.04,0.12,0.05,0.13
+2324,Inter,Alexis Sánchez,CHI,Attaccante,34,23,2,5,1,1,3.2,3.1,16,53,58,0.24,0.59,0.38,0.37
+2324,Inter,Benjamin Pavard,FRA,Difensore,27,23,0,2,0,0,0.7,1.4,25,89,47,0.0,0.11,0.04,0.07
+2324,Inter,Carlos Augusto,BRA,Difensore,24,37,0,3,0,0,1.0,2.8,42,54,88,0.0,0.16,0.05,0.15
+2324,Inter,Davide Frattesi,ITA,Centrocampista,23,32,6,3,6,0,7.1,1.9,27,37,40,0.57,0.28,0.67,0.18
+2324,Inter,Davy Klaassen,NED,Centrocampista,30,13,0,0,0,0,0.1,0.2,1,7,5,0.0,0.0,0.04,0.09
+2324,Inter,Denzel Dumfries,NED,Difensore,27,31,4,4,4,0,2.3,4.9,50,51,147,0.22,0.22,0.12,0.27
+2324,Inter,Ebenezer Akinsanmiro,NGA,Centrocampista,18,1,0,0,0,0,0.0,0.0,0,2,0,0.0,0.0,0.0,0.23
+2324,Inter,Emil Audero,ITA,Portiere,26,4,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Inter,Federico Dimarco,ITA,Difensore,25,30,5,6,5,0,2.9,8.5,51,100,198,0.22,0.26,0.13,0.37
+2324,Inter,Francesco Acerbi,ITA,Difensore,35,29,3,1,3,0,1.6,1.8,21,87,24,0.11,0.04,0.06,0.07
+2324,Inter,Hakan Çalhanoğlu,TUR,Centrocampista,29,32,13,3,3,10,10.1,4.7,45,186,34,0.46,0.11,0.36,0.17
+2324,Inter,Henrikh Mkhitaryan,ARM,Centrocampista,34,36,2,8,2,0,3.6,4.5,92,192,127,0.06,0.26,0.12,0.15
+2324,Inter,Juan Cuadrado,COL,Difensore,35,10,0,2,0,0,0.2,1.6,17,11,35,0.0,0.67,0.06,0.52
+2324,Inter,Kristjan Asllani,ALB,Centrocampista,21,23,1,2,1,0,0.6,1.1,5,32,8,0.11,0.23,0.07,0.12
+2324,Inter,Lautaro Martínez,ARG,Attaccante,25,33,24,3,22,2,17.6,3.6,54,80,172,0.81,0.1,0.6,0.12
+2324,Inter,Lucien Agoume,FRA,Centrocampista,21,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Inter,Marcus Thuram,FRA,Attaccante,25,35,13,7,13,0,14.3,3.7,68,47,192,0.44,0.23,0.48,0.12
+2324,Inter,Marko Arnautović,AUT,Attaccante,34,27,5,3,5,0,5.0,2.6,12,20,77,0.56,0.34,0.56,0.29
+2324,Inter,Matteo Darmian,ITA,Difensore,33,33,2,1,2,0,1.2,1.8,18,72,82,0.07,0.04,0.04,0.07
+2324,Inter,Nicolò Barella,ITA,Centrocampista,26,37,2,3,2,0,5.1,3.4,68,278,144,0.06,0.09,0.16,0.11
+2324,Inter,Raffaele Di Gennaro,ITA,Portiere,29,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Inter,Stefan de Vrij,NED,Difensore,31,25,1,0,1,0,0.6,0.3,6,43,2,0.06,0.0,0.03,0.02
+2324,Inter,Stefano Sensi,ITA,Centrocampista,27,4,0,1,0,0,0.1,0.1,3,3,4,0.0,1.96,0.16,0.25
+2324,Inter,Tajon Buchanan,CAN,Difensore,24,10,1,0,1,0,0.2,0.3,12,4,22,0.56,0.0,0.11,0.18
+2324,Inter,Yann Aurel Bisseck,GER,Difensore,22,16,2,0,2,0,0.9,0.5,24,30,20,0.2,0.0,0.09,0.05
+2324,Inter,Yann Sommer,SUI,Portiere,34,34,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Juventus,Adrien Rabiot,FRA,Centrocampista,28,31,5,3,5,0,3.5,4.1,72,120,106,0.17,0.1,0.12,0.14
+2324,Juventus,Alex Sandro,BRA,Difensore,32,16,1,0,1,0,0.4,0.9,16,43,9,0.12,0.0,0.05,0.11
+2324,Juventus,Andrea Cambiaso,ITA,,23,34,2,3,2,0,2.2,3.9,87,71,172,0.08,0.11,0.08,0.15
+2324,Juventus,Arkadiusz Milik,POL,Attaccante,29,32,4,1,4,0,5.1,2.6,12,22,49,0.39,0.1,0.5,0.26
+2324,Juventus,Carlo Pinsoglio,ITA,Portiere,33,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Juventus,Carlos Alcaraz,ARG,Centrocampista,20,10,0,1,0,0,0.4,0.1,6,27,9,0.0,0.24,0.09,0.03
+2324,Juventus,Daniele Rugani,ITA,Difensore,29,17,2,0,2,0,1.6,0.4,2,46,2,0.15,0.0,0.12,0.03
+2324,Juventus,Danilo,BRA,Difensore,32,29,1,1,1,0,1.3,0.9,18,161,21,0.04,0.04,0.05,0.03
+2324,Juventus,Dean Huijsen,ESP,Difensore,18,1,0,0,0,0,0.0,0.0,0,2,0,0.0,0.0,0.0,0.0
+2324,Juventus,Dušan Vlahović,SRB,Attaccante,23,33,16,4,14,2,16.6,2.3,36,46,174,0.62,0.16,0.65,0.09
+2324,Juventus,Fabio Miretti,ITA,Centrocampista,19,25,1,1,1,0,1.2,1.1,22,43,62,0.08,0.08,0.1,0.09
+2324,Juventus,Federico Chiesa,ITA,Attaccante,25,33,9,2,8,1,6.4,6.2,111,70,216,0.37,0.08,0.26,0.25
+2324,Juventus,Federico Gatti,ITA,Difensore,25,32,4,0,4,0,5.5,1.5,52,122,43,0.14,0.0,0.19,0.05
+2324,Juventus,Filip Kostić,SRB,Difensore,30,29,0,4,0,0,0.7,5.4,64,88,95,0.0,0.2,0.03,0.27
+2324,Juventus,Gleison Bremer,BRA,Difensore,26,36,3,0,3,0,1.4,0.4,7,120,4,0.08,0.0,0.04,0.01
+2324,Juventus,Hans Nicolussi Caviglia,ITA,Centrocampista,23,8,0,1,0,0,0.1,0.6,0,14,2,0.0,0.34,0.04,0.2
+2324,Juventus,Joseph Nonge,BEL,Centrocampista,18,2,0,0,0,0,0.0,0.0,1,2,2,0.0,0.0,0.0,0.0
+2324,Juventus,Kenan Yıldız,TUR,Attaccante,18,27,2,0,2,0,1.6,1.1,32,40,73,0.19,0.0,0.15,0.1
+2324,Juventus,Leonardo Cerri,ITA,Difensore,20,1,0,0,0,0,0.0,0.0,0,0,2,0.0,0.0,0.0,0.0
+2324,Juventus,Manuel Locatelli,ITA,Centrocampista,25,36,1,4,1,0,1.3,1.4,21,232,26,0.03,0.12,0.04,0.04
+2324,Juventus,Mattia De Sciglio,ITA,Difensore,30,1,0,0,0,0,0.0,0.0,0,3,1,0.0,0.0,0.0,0.0
+2324,Juventus,Mattia Perin,ITA,Portiere,30,3,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Juventus,Moise Kean,ITA,Attaccante,23,19,0,0,0,0,2.1,0.7,12,6,38,0.0,0.0,0.28,0.1
+2324,Juventus,Nicolò Fagioli,ITA,Centrocampista,22,8,0,2,0,0,0.4,0.7,8,23,15,0.0,0.41,0.08,0.15
+2324,Juventus,Nikola Sekulov,ITA,Attaccante,21,1,0,0,0,0,0.0,0.0,0,0,1,0.0,0.0,0.0,0.0
+2324,Juventus,Paul Pogba,FRA,Centrocampista,30,2,0,0,0,0,0.0,0.0,1,5,5,0.0,0.0,0.0,0.02
+2324,Juventus,Samuel Iling-Junior,ENG,,19,24,1,2,1,0,0.7,1.3,29,25,64,0.11,0.22,0.08,0.14
+2324,Juventus,Tiago Djaló,POR,Difensore,23,1,0,0,0,0,0.0,0.0,1,2,0,0.0,0.0,0.0,0.0
+2324,Juventus,Timothy Weah,USA,,23,30,0,1,0,0,1.5,1.1,35,48,84,0.0,0.07,0.11,0.08
+2324,Juventus,Weston McKennie,USA,,24,34,0,7,0,0,3.0,3.9,64,92,176,0.0,0.24,0.1,0.13
+2324,Juventus,Wojciech Szczęsny,POL,Portiere,33,35,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Lazio,Adam Marušić,MNE,Difensore,30,37,1,0,1,0,0.4,0.8,35,118,108,0.03,0.0,0.01,0.02
+2324,Lazio,Alessio Romagnoli,ITA,Difensore,28,29,0,0,0,0,0.6,0.6,7,87,2,0.0,0.0,0.02,0.02
+2324,Lazio,Christos Mandas,GRE,Portiere,21,9,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Lazio,Ciro Immobile,ITA,Attaccante,33,31,7,1,3,4,9.7,2.1,19,39,123,0.38,0.05,0.53,0.11
+2324,Lazio,Daichi Kamada,JPN,Centrocampista,26,29,2,2,2,0,1.8,2.8,40,96,78,0.12,0.12,0.11,0.16
+2324,Lazio,Danilo Cataldi,ITA,Centrocampista,28,28,1,0,1,0,0.4,0.8,9,69,7,0.07,0.0,0.02,0.05
+2324,Lazio,Elseid Hysaj,ALB,Difensore,29,22,0,0,0,0,0.2,0.4,27,51,41,0.0,0.0,0.02,0.03
+2324,Lazio,Felipe Anderson,BRA,Attaccante,30,38,5,6,5,0,4.4,6.3,108,126,226,0.16,0.19,0.14,0.21
+2324,Lazio,Gustav Isaksen,DEN,Attaccante,22,28,3,1,3,0,1.6,2.6,36,21,95,0.25,0.08,0.13,0.22
+2324,Lazio,Ivan Provedel,ITA,Portiere,29,30,0,0,0,0,0.0,0.0,0,3,0,0.0,0.0,0.0,0.0
+2324,Lazio,Luca Pellegrini,ITA,Difensore,24,19,1,0,1,0,0.2,0.3,18,46,30,0.11,0.0,0.03,0.03
+2324,Lazio,Luis Alberto,ESP,Centrocampista,30,33,5,7,5,0,4.7,4.7,83,212,124,0.19,0.27,0.18,0.18
+2324,Lazio,Manuel Lazzari,ITA,Difensore,29,24,0,2,0,0,1.0,1.3,73,62,104,0.0,0.11,0.06,0.07
+2324,Lazio,Mario Gila,ESP,Difensore,22,21,0,0,0,0,0.5,0.5,21,93,12,0.0,0.0,0.03,0.02
+2324,Lazio,Mattia Zaccagni,ITA,Attaccante,28,28,6,1,6,0,4.7,2.9,88,55,209,0.28,0.05,0.22,0.13
+2324,Lazio,Mattéo Guendouzi,FRA,Centrocampista,24,33,2,3,2,0,1.6,2.3,46,119,79,0.08,0.11,0.06,0.09
+2324,Lazio,Matías Vecino,URU,Centrocampista,31,31,6,1,6,0,3.7,0.4,16,74,43,0.47,0.08,0.29,0.03
+2324,Lazio,Nicolò Casale,ITA,Difensore,25,20,0,0,0,0,0.9,0.0,20,49,4,0.0,0.0,0.05,0.0
+2324,Lazio,Nicolò Rovella,ITA,Centrocampista,21,23,0,2,0,0,0.6,0.5,21,56,11,0.0,0.14,0.04,0.03
+2324,Lazio,Patric,ESP,Difensore,30,20,2,0,2,0,1.4,0.2,3,72,12,0.11,0.0,0.08,0.01
+2324,Lazio,Pedro,ESP,Attaccante,36,33,1,1,1,0,1.5,2.1,31,33,81,0.11,0.11,0.17,0.23
+2324,Lazio,Valentín Castellanos,ARG,Attaccante,24,35,4,3,4,0,7.3,1.7,15,47,132,0.21,0.16,0.39,0.09
+2324,Lecce,Ahmed Touba,ALG,Difensore,25,6,0,0,0,0,0.0,0.0,0,2,1,0.0,0.0,0.01,0.0
+2324,Lecce,Alexis Blin,FRA,Centrocampista,26,31,0,2,0,0,1.1,0.7,7,60,11,0.0,0.11,0.06,0.04
+2324,Lecce,Antonino Gallo,ITA,Difensore,23,35,0,3,0,0,0.5,4.5,69,125,101,0.0,0.11,0.02,0.16
+2324,Lecce,Federico Baschirotto,ITA,Difensore,26,37,0,1,0,0,1.7,0.7,28,96,3,0.0,0.03,0.05,0.02
+2324,Lecce,Federico Di Francesco,ITA,Attaccante,29,2,1,0,1,0,0.1,0.0,1,1,3,6.0,0.0,0.53,0.0
+2324,Lecce,Gabriel Strefezza,BRA,Attaccante,26,19,1,0,0,1,2.5,1.2,34,54,81,0.08,0.0,0.2,0.09
+2324,Lecce,Hamza Rafia,TUN,Centrocampista,24,28,1,0,1,0,0.8,0.8,15,46,37,0.07,0.0,0.06,0.06
+2324,Lecce,Jeppe Corfitzen,DEN,Attaccante,18,1,0,0,0,0,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0
+2324,Lecce,Joan Gonzàlez,ESP,Centrocampista,21,29,1,1,1,0,1.2,1.0,25,49,41,0.07,0.07,0.08,0.07
+2324,Lecce,Lameck Banda,ZAM,Attaccante,22,21,2,4,2,0,3.6,1.9,70,22,136,0.13,0.27,0.24,0.13
+2324,Lecce,Lorenzo Venuti,ITA,Difensore,28,14,0,0,0,0,0.1,0.3,7,16,15,0.0,0.0,0.02,0.07
+2324,Lecce,Marcin Listkowski,POL,Attaccante,25,1,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.47,0.0
+2324,Lecce,Marin Pongračić,CRO,Difensore,25,36,0,0,0,0,1.2,0.4,45,134,7,0.0,0.0,0.03,0.01
+2324,Lecce,Medon Berisha,ALB,Attaccante,19,6,0,0,0,0,0.2,0.2,3,7,3,0.0,0.0,0.07,0.11
+2324,Lecce,Mohamed Kaba,FRA,Centrocampista,21,23,0,0,0,0,1.2,0.9,14,60,32,0.0,0.0,0.08,0.06
+2324,Lecce,Nicola Sansone,ITA,Attaccante,31,25,2,2,2,0,2.8,1.3,15,36,75,0.23,0.23,0.33,0.15
+2324,Lecce,Nikola Krstović,MNE,Attaccante,23,35,7,1,6,1,11.6,3.0,32,52,126,0.27,0.04,0.44,0.11
+2324,Lecce,Patrick Dorgu,DEN,,18,32,2,0,2,0,2.0,1.6,37,49,86,0.12,0.0,0.11,0.09
+2324,Lecce,Pontus Almqvist,SWE,Attaccante,24,30,2,1,2,0,2.3,2.7,72,32,137,0.09,0.04,0.1,0.12
+2324,Lecce,Rareș-Cătălin Burnete,ROU,Attaccante,19,1,0,1,0,0,0.0,0.1,0,0,2,0.0,11.25,0.0,0.71
+2324,Lecce,Remi Oudin,FRA,,26,31,3,2,3,0,1.8,5.7,19,79,82,0.15,0.1,0.09,0.28
+2324,Lecce,Roberto Piccoli,ITA,Attaccante,22,35,5,0,4,1,6.4,0.9,25,19,72,0.33,0.0,0.42,0.06
+2324,Lecce,Santiago Pierotti,ARG,,22,11,0,2,0,0,0.5,1.0,4,5,20,0.0,0.9,0.22,0.47
+2324,Lecce,Valentin Gendrey,FRA,Difensore,23,37,2,3,2,0,1.6,1.6,76,116,86,0.06,0.09,0.05,0.05
+2324,Lecce,Wladimiro Falcone,ITA,Portiere,28,38,0,0,0,0,0.0,0.2,0,1,0,0.0,0.0,0.0,0.0
+2324,Lecce,Ylber Ramadani,ALB,Centrocampista,27,34,1,0,1,0,1.0,0.5,36,121,14,0.03,0.0,0.03,0.02
+2324,Milan,Alejandro Jiménez,ESP,Difensore,18,3,0,0,0,0,0.0,0.1,2,2,3,0.0,0.0,0.0,0.07
+2324,Milan,Alessandro Florenzi,ITA,Difensore,32,31,1,4,1,0,1.7,3.4,29,106,50,0.05,0.21,0.09,0.18
+2324,Milan,Antonio Mirante,ITA,Portiere,40,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Milan,Chaka Traorè,CIV,Attaccante,18,2,1,0,1,0,0.1,0.0,2,0,2,4.5,0.0,0.35,0.0
+2324,Milan,Christian Pulisic,USA,Attaccante,24,36,12,8,12,0,8.0,4.8,131,87,293,0.42,0.28,0.28,0.16
+2324,Milan,Davide Bartesaghi,ITA,,17,6,0,0,0,0,0.0,0.0,1,3,4,0.0,0.0,0.0,0.0
+2324,Milan,Davide Calabria,ITA,Difensore,26,29,1,3,1,0,1.3,1.2,31,140,66,0.04,0.12,0.05,0.05
+2324,Milan,Fikayo Tomori,ENG,Difensore,25,26,4,0,4,0,3.7,0.2,16,63,2,0.17,0.0,0.16,0.01
+2324,Milan,Filippo Terracciano,ITA,,20,3,0,0,0,0,0.0,0.0,0,1,1,0.0,0.0,0.0,0.0
+2324,Milan,Francesco Camarda,ITA,Attaccante,15,2,0,0,0,0,0.0,0.0,0,0,1,0.0,0.0,0.0,0.0
+2324,Milan,Ismaël Bennacer,ALG,Centrocampista,25,20,2,2,1,1,1.7,2.5,24,68,33,0.16,0.16,0.13,0.19
+2324,Milan,Jan-Carlo Simic,SRB,Difensore,18,4,1,0,1,0,0.6,0.0,0,6,0,0.62,0.0,0.38,0.0
+2324,Milan,Kevin Zeroli,ITA,Centrocampista,18,3,0,0,0,0,0.0,0.0,0,1,2,0.0,0.0,0.0,0.0
+2324,Milan,Lapo Nava,ITA,Portiere,19,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Milan,Luka Jović,SRB,Attaccante,25,23,6,1,6,0,4.9,0.8,6,22,47,0.62,0.1,0.5,0.09
+2324,Milan,Luka Romero,ARG,Attaccante,18,4,0,0,0,0,0.1,0.0,4,3,7,0.0,0.0,0.09,0.0
+2324,Milan,Malick Thiaw,GER,Difensore,21,21,0,1,0,0,0.6,0.1,15,70,1,0.0,0.06,0.03,0.01
+2324,Milan,Marco Pellegrino,,Difensore,,1,0,0,0,0,0.0,0.0,1,3,0,0.0,0.0,0.03,0.0
+2324,Milan,Marco Sportiello,ITA,Portiere,31,7,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Milan,Matteo Gabbia,ITA,Difensore,23,18,2,1,2,0,1.6,0.3,11,42,2,0.14,0.07,0.11,0.02
+2324,Milan,Mattia Caldara,ITA,Difensore,29,1,0,0,0,0,0.2,0.0,0,2,0,0.0,0.0,0.58,0.0
+2324,Milan,Mike Maignan,FRA,Portiere,28,29,0,1,0,0,0.0,0.3,0,0,0,0.0,0.03,0.0,0.01
+2324,Milan,Noah Okafor,SUI,Attaccante,23,28,6,2,6,0,3.8,1.2,29,15,66,0.61,0.2,0.38,0.12
+2324,Milan,Olivier Giroud,FRA,Attaccante,36,35,15,8,11,4,14.2,4.7,9,28,95,0.57,0.3,0.54,0.18
+2324,Milan,Pierre Kalulu,FRA,Difensore,23,9,0,0,0,0,0.1,0.1,6,19,11,0.0,0.0,0.01,0.02
+2324,Milan,Rade Krunić,BIH,Centrocampista,29,10,0,0,0,0,0.1,0.5,5,24,3,0.0,0.0,0.02,0.07
+2324,Milan,Rafael Leão,POR,Attaccante,24,34,9,9,9,0,10.0,9.1,160,117,293,0.32,0.32,0.36,0.32
+2324,Milan,Ruben Loftus-Cheek,ENG,Centrocampista,27,29,6,1,6,0,3.7,2.4,73,74,113,0.26,0.04,0.16,0.1
+2324,Milan,Samuel Chukwueze,NGA,Attaccante,24,24,1,3,1,0,1.7,2.3,52,51,135,0.09,0.27,0.15,0.2
+2324,Milan,Simon Kjær,DEN,Difensore,34,20,0,1,0,0,0.5,0.8,4,52,0,0.0,0.08,0.04,0.06
+2324,Milan,Theo Hernández,FRA,Difensore,25,32,5,4,4,1,4.9,4.3,115,166,124,0.16,0.13,0.16,0.14
+2324,Milan,Tijjani Reijnders,NED,Centrocampista,25,36,3,3,3,0,3.2,3.7,88,204,90,0.1,0.1,0.1,0.12
+2324,Milan,Tommaso Pobega,ITA,Centrocampista,24,11,0,0,0,0,0.2,0.2,6,11,10,0.0,0.0,0.06,0.06
+2324,Milan,Yacine Adli,FRA,Centrocampista,23,24,1,2,1,0,0.3,2.2,30,125,26,0.06,0.13,0.02,0.14
+2324,Milan,Yunus Musah,USA,,20,30,0,2,0,0,0.6,1.2,48,64,77,0.0,0.12,0.04,0.08
+2324,Monza,Alessandro Sorrentino,ITA,Portiere,21,7,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Monza,Alessio Zerbin,ITA,,24,13,0,1,0,0,0.4,0.8,17,20,46,0.0,0.13,0.05,0.11
+2324,Monza,Andrea Carboni,ITA,Difensore,22,21,1,0,1,0,1.2,0.5,13,46,22,0.06,0.0,0.07,0.03
+2324,Monza,Andrea Colpani,ITA,,24,38,8,4,8,0,4.8,5.0,90,120,193,0.27,0.14,0.16,0.17
+2324,Monza,Andrea Ferraris,ITA,Centrocampista,20,1,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2324,Monza,Armando Izzo,ITA,Difensore,31,23,0,0,0,0,0.7,0.5,15,59,7,0.0,0.0,0.04,0.03
+2324,Monza,Daniel Maldini,ITA,,21,11,4,1,4,0,1.3,1.2,15,10,22,1.08,0.27,0.34,0.31
+2324,Monza,Danilo D'Ambrosio,ITA,Difensore,34,24,0,0,0,0,0.7,0.2,12,61,25,0.0,0.0,0.04,0.01
+2324,Monza,Dany Mota,POR,Attaccante,25,34,4,3,4,0,3.6,3.0,112,57,152,0.18,0.13,0.16,0.13
+2324,Monza,Davide Bettella,ITA,Centrocampista,23,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Monza,Gianluca Caprari,ITA,,30,6,0,0,0,0,0.7,0.7,11,15,16,0.0,0.0,0.22,0.23
+2324,Monza,Giorgio Cittadini,ITA,Difensore,21,1,0,0,0,0,0.0,0.0,1,1,1,0.0,0.0,0.0,0.0
+2324,Monza,Giorgos Kyriakopoulos,GRE,Difensore,27,28,0,3,0,0,1.2,1.4,64,70,94,0.0,0.16,0.06,0.07
+2324,Monza,Giulio Donati,ITA,Difensore,33,4,0,0,0,0,0.0,0.2,0,3,5,0.0,0.0,0.05,0.46
+2324,Monza,Jean-Daniel Akpa-Akpro,CIV,Centrocampista,30,19,0,0,0,0,0.5,0.1,11,10,12,0.0,0.0,0.07,0.01
+2324,Monza,Lorenzo Colombo,ITA,Attaccante,21,25,4,1,4,0,3.6,0.6,16,24,75,0.26,0.07,0.24,0.04
+2324,Monza,Luca Caldirola,ITA,Difensore,32,29,1,1,1,0,0.5,0.6,10,56,9,0.04,0.04,0.02,0.03
+2324,Monza,Matteo Pessina,ITA,Centrocampista,26,37,6,3,2,4,6.3,1.1,69,190,53,0.17,0.08,0.18,0.03
+2324,Monza,Michele Di Gregorio,ITA,Portiere,26,33,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2324,Monza,Milan Đurić,BIH,Attaccante,33,17,4,1,4,0,3.0,0.7,2,8,31,0.29,0.07,0.21,0.05
+2324,Monza,Mirko Marić,CRO,Attaccante,28,10,1,0,1,0,0.9,0.5,2,4,30,0.31,0.0,0.27,0.15
+2324,Monza,Pablo Marí,ESP,Difensore,29,34,0,0,0,0,0.4,0.3,2,62,1,0.0,0.0,0.01,0.01
+2324,Monza,Papu Gómez,ARG,,35,2,0,0,0,0,0.0,0.2,2,3,1,0.0,0.0,0.0,0.43
+2324,Monza,Patrick Ciurria,ITA,,28,22,0,1,0,0,1.5,2.6,41,68,94,0.0,0.06,0.09,0.15
+2324,Monza,Pedro Pereira,POR,Difensore,25,23,0,2,0,0,0.2,1.2,20,43,69,0.0,0.21,0.02,0.12
+2324,Monza,Pepín,EQG,,26,10,0,0,0,0,0.2,0.1,1,13,12,0.0,0.0,0.06,0.02
+2324,Monza,Roberto Gagliardini,ITA,,29,33,1,2,1,0,2.9,1.7,38,120,36,0.04,0.08,0.11,0.06
+2324,Monza,Samuele Birindelli,ITA,Difensore,24,35,0,2,0,0,1.1,2.9,63,70,122,0.0,0.09,0.05,0.13
+2324,Monza,Samuele Vignato,ITA,,19,10,1,0,1,0,1.7,0.2,13,13,20,0.26,0.0,0.44,0.04
+2324,Monza,Valentin Carboni,ARG,,18,31,2,3,2,0,2.3,1.7,52,57,75,0.15,0.23,0.18,0.13
+2324,Monza,Warren Bondo,FRA,Centrocampista,19,25,1,1,1,0,0.9,0.3,31,43,13,0.06,0.06,0.06,0.02
+2324,Napoli,Alessandro Zanoli,ITA,,22,4,0,0,0,0,0.0,0.0,2,4,3,0.0,0.0,0.0,0.0
+2324,Napoli,Alessio Zerbin,ITA,,24,7,0,0,0,0,0.2,0.6,6,3,18,0.0,0.0,0.15,0.37
+2324,Napoli,Alex Meret,ITA,Portiere,26,31,0,0,0,0,0.0,0.1,0,0,0,0.0,0.0,0.0,0.0
+2324,Napoli,Amir Rrahmani,KVX,Difensore,29,30,3,0,3,0,2.2,0.9,19,113,4,0.1,0.0,0.08,0.03
+2324,Napoli,Andre-Frank Zambo Anguissa,CMR,Centrocampista,27,34,0,2,0,0,3.4,3.0,43,163,139,0.0,0.06,0.11,0.1
+2324,Napoli,Cyril Ngonge,BEL,Attaccante,23,13,1,0,1,0,1.0,0.8,18,11,43,0.29,0.0,0.29,0.22
+2324,Napoli,Diego Demme,GER,Centrocampista,31,2,0,0,0,0,0.0,0.0,3,5,0,0.0,0.0,0.0,0.0
+2324,Napoli,Elif Elmas,MKD,Attaccante,23,11,2,0,2,0,0.5,0.2,14,16,26,0.53,0.0,0.13,0.06
+2324,Napoli,Giacomo Raspadori,ITA,Attaccante,23,37,5,3,5,0,5.9,4.0,29,54,139,0.28,0.17,0.33,0.23
+2324,Napoli,Gianluca Gaetano,ITA,Centrocampista,23,9,1,0,1,0,0.6,0.5,6,6,5,0.56,0.0,0.35,0.27
+2324,Napoli,Giovanni Di Lorenzo,ITA,Difensore,29,36,1,6,1,0,3.1,4.9,95,304,250,0.03,0.17,0.09,0.14
+2324,Napoli,Giovanni Simeone,ARG,Attaccante,28,28,1,0,1,0,3.4,0.6,11,13,76,0.11,0.0,0.38,0.06
+2324,Napoli,Hamed Junior Traorè,CIV,Centrocampista,23,9,0,0,0,0,0.9,0.7,12,21,19,0.0,0.0,0.2,0.17
+2324,Napoli,Jens Cajuste,SWE,Centrocampista,23,26,0,2,0,0,1.5,1.1,19,37,53,0.0,0.18,0.13,0.09
+2324,Napoli,Jesper Lindstrøm,DEN,Attaccante,23,22,0,0,0,0,0.7,1.0,16,16,34,0.0,0.0,0.14,0.22
+2324,Napoli,Juan Jesus,BRA,Difensore,32,24,1,0,1,0,1.3,0.3,6,82,2,0.04,0.0,0.06,0.01
+2324,Napoli,Khvicha Kvaratskhelia,GEO,Attaccante,22,34,11,6,11,0,11.1,6.8,184,89,266,0.36,0.2,0.37,0.23
+2324,Napoli,Leander Dendoncker,BEL,Centrocampista,28,3,0,0,0,0,0.0,0.0,0,2,0,0.0,0.0,0.12,0.0
+2324,Napoli,Leo Skiri Østigård,NOR,Difensore,23,25,1,0,1,0,0.6,0.1,13,76,3,0.06,0.0,0.03,0.0
+2324,Napoli,Mathías Olivera,URU,Difensore,25,23,1,1,1,0,0.5,0.9,31,89,93,0.06,0.06,0.03,0.05
+2324,Napoli,Matteo Politano,ITA,Attaccante,29,37,8,7,6,2,7.1,6.6,113,164,216,0.31,0.27,0.27,0.25
+2324,Napoli,Mário Rui,POR,Difensore,32,21,0,2,0,0,0.1,1.9,33,90,59,0.0,0.15,0.01,0.14
+2324,Napoli,Natan,BRA,Difensore,22,14,0,0,0,0,0.4,0.1,15,34,11,0.0,0.0,0.04,0.01
+2324,Napoli,Nikita Contini Baranovsky,ITA,Portiere,27,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Napoli,Pasquale Mazzocchi,ITA,Difensore,28,10,0,1,0,0,0.2,0.2,14,24,22,0.0,0.21,0.03,0.04
+2324,Napoli,Pierluigi Gollini,ITA,Portiere,28,7,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Napoli,Piotr Zieliński,POL,Centrocampista,29,28,3,2,2,1,2.6,3.4,38,131,88,0.14,0.09,0.12,0.16
+2324,Napoli,Stanislav Lobotka,SVK,Centrocampista,28,38,0,1,0,0,0.6,1.3,29,188,34,0.0,0.03,0.02,0.04
+2324,Napoli,Victor Osimhen,NGA,Attaccante,24,25,15,3,12,3,15.4,3.1,34,23,142,0.68,0.14,0.7,0.14
+2324,Roma,Andrea Belotti,ITA,Attaccante,29,14,3,2,3,0,2.4,1.2,15,8,49,0.4,0.27,0.32,0.16
+2324,Roma,Angeliño,ESP,Difensore,26,16,0,1,0,0,0.2,1.6,12,40,55,0.0,0.08,0.01,0.12
+2324,Roma,Bryan Cristante,ITA,,28,37,3,4,3,0,4.0,2.9,47,234,80,0.08,0.11,0.11,0.08
+2324,Roma,Chris Smalling,ENG,Difensore,33,8,0,0,0,0,0.0,0.4,1,13,2,0.0,0.0,0.01,0.08
+2324,Roma,Dean Huijsen,ESP,Difensore,18,13,2,0,2,0,0.4,0.1,4,18,15,0.35,0.0,0.07,0.01
+2324,Roma,Diego Llorente,ESP,Difensore,29,29,1,1,1,0,0.3,0.6,20,75,5,0.04,0.04,0.01,0.02
+2324,Roma,Edoardo Bove,ITA,Centrocampista,21,31,0,2,0,0,2.0,0.7,21,88,47,0.0,0.1,0.1,0.04
+2324,Roma,Gianluca Mancini,ITA,Difensore,27,36,4,1,4,0,1.9,1.1,38,139,13,0.13,0.03,0.06,0.04
+2324,Roma,Houssem Aouar,ALG,,25,16,4,0,4,0,2.3,0.5,17,26,59,0.48,0.0,0.28,0.05
+2324,Roma,João Costa,BRA,,18,3,0,0,0,0,0.0,0.0,0,1,1,0.0,0.0,0.0,0.2
+2324,Roma,Leandro Paredes,ARG,Centrocampista,29,34,3,5,0,3,3.3,2.3,36,214,19,0.1,0.17,0.11,0.08
+2324,Roma,Leonardo Spinazzola,ITA,Difensore,30,24,1,2,1,0,0.2,3.0,108,52,74,0.07,0.14,0.02,0.21
+2324,Roma,Lorenzo Pellegrini,ITA,Centrocampista,27,29,8,3,7,1,4.8,2.4,43,94,97,0.39,0.15,0.23,0.12
+2324,Roma,Mile Svilar,SRB,Portiere,23,15,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Roma,Niccolò Pisilli,ITA,Centrocampista,18,1,0,0,0,0,0.0,0.0,0,0,1,0.0,0.0,0.0,0.0
+2324,Roma,Nicola Zalewski,POL,,21,22,0,1,0,0,0.8,1.6,54,33,62,0.0,0.09,0.08,0.15
+2324,Roma,Obite N'Dicka,CIV,Difensore,23,25,0,3,0,0,1.0,1.0,26,87,11,0.0,0.12,0.04,0.04
+2324,Roma,Ola Solbakken,NOR,Attaccante,24,1,0,0,0,0,0.0,0.0,1,0,4,0.0,0.0,0.0,0.0
+2324,Roma,Paulo Dybala,ARG,Attaccante,29,28,13,9,6,7,10.6,4.3,79,122,167,0.6,0.41,0.49,0.2
+2324,Roma,Rasmus Kristensen,DEN,Difensore,26,29,1,1,1,0,0.5,0.9,16,40,115,0.05,0.05,0.03,0.05
+2324,Roma,Renato Sanches,POR,Centrocampista,25,7,1,0,1,0,0.1,0.2,5,10,5,0.62,0.0,0.05,0.14
+2324,Roma,Riccardo Pagano,ITA,,18,4,0,0,0,0,0.1,0.0,1,3,2,0.0,0.0,0.1,0.09
+2324,Roma,Rick Karsdorp,NED,Difensore,28,18,0,2,0,0,0.4,2.2,12,33,71,0.0,0.15,0.03,0.17
+2324,Roma,Romelu Lukaku,BEL,Attaccante,30,32,13,3,13,0,9.8,2.4,37,37,234,0.44,0.1,0.33,0.08
+2324,Roma,Rui Patrício,POR,Portiere,35,23,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Roma,Sardar Azmoun,IRN,Attaccante,28,23,3,0,3,0,2.9,1.4,5,14,35,0.46,0.0,0.44,0.21
+2324,Roma,Stephan El Shaarawy,ITA,,30,33,3,4,3,0,2.5,2.3,46,44,131,0.16,0.21,0.13,0.12
+2324,Roma,Tammy Abraham,ENG,Attaccante,25,8,1,0,1,0,0.6,0.1,6,4,15,0.37,0.0,0.22,0.05
+2324,Roma,Tommaso Baldanzi,ITA,Attaccante,20,13,0,0,0,0,0.9,0.7,18,14,54,0.0,0.0,0.15,0.12
+2324,Roma,Zeki Çelik,TUR,Difensore,26,17,0,0,0,0,0.2,0.6,14,26,38,0.0,0.0,0.02,0.08
+2324,Salernitana,Agustín Martegani,ARG,Centrocampista,23,18,1,0,1,0,0.6,0.5,14,28,22,0.12,0.0,0.07,0.06
+2324,Salernitana,Alessandro Zanoli,ITA,Difensore,22,17,0,2,0,0,0.2,1.8,27,28,45,0.0,0.2,0.02,0.17
+2324,Salernitana,Andres Sfait,ROU,,18,2,0,0,0,0,0.0,0.1,1,1,2,0.0,0.0,0.0,0.26
+2324,Salernitana,Antonio Candreva,ITA,,36,34,6,6,5,1,4.9,5.0,67,149,182,0.2,0.2,0.16,0.16
+2324,Salernitana,Benoît Costil,FRA,Portiere,36,13,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Salernitana,Boulaye Dia,SEN,Attaccante,26,17,4,0,3,1,3.9,0.5,18,22,57,0.31,0.0,0.31,0.04
+2324,Salernitana,Chukwubuikem Ikwuemesi,NGA,Attaccante,21,25,1,1,1,0,2.4,0.7,11,10,70,0.08,0.08,0.21,0.06
+2324,Salernitana,Domagoj Bradarić,CRO,Difensore,23,34,0,3,0,0,0.8,1.8,57,76,120,0.0,0.1,0.03,0.06
+2324,Salernitana,Dylan Bronn,TUN,,28,4,0,0,0,0,0.0,0.0,1,1,0,0.0,0.0,0.05,0.0
+2324,Salernitana,Emanuel Vignato,ITA,,22,9,0,1,0,0,0.0,0.3,5,11,14,0.0,0.29,0.01,0.1
+2324,Salernitana,Emil Bohinen,NOR,Centrocampista,24,12,0,0,0,0,0.1,0.2,7,26,10,0.0,0.0,0.01,0.04
+2324,Salernitana,Erik Botheim,NOR,Attaccante,23,7,0,0,0,0,0.1,0.0,3,5,9,0.0,0.0,0.03,0.0
+2324,Salernitana,Federico Fazio,ARG,Difensore,36,17,1,0,1,0,0.4,0.1,2,27,2,0.07,0.0,0.03,0.01
+2324,Salernitana,Flavius Daniliuc,AUT,Difensore,22,14,0,0,0,0,0.2,0.2,8,37,2,0.0,0.0,0.03,0.03
+2324,Salernitana,Gerardo Fusco,ITA,Attaccante,18,1,0,0,0,0,0.0,0.0,0,0,1,0.0,0.0,0.0,0.22
+2324,Salernitana,Giulio Maggiore,ITA,Centrocampista,25,27,4,2,4,0,2.3,1.1,8,64,25,0.2,0.1,0.11,0.06
+2324,Salernitana,Grigoris Kastanos,CYP,,25,26,3,3,3,0,2.9,2.8,28,78,69,0.18,0.18,0.17,0.17
+2324,Salernitana,Guillermo Ochoa,MEX,Portiere,38,21,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Salernitana,Iron Gomis,FRA,Centrocampista,23,5,0,0,0,0,0.6,0.2,3,4,15,0.0,0.0,0.38,0.11
+2324,Salernitana,Jovane Cabral,CPV,,25,12,1,0,1,0,1.2,0.4,22,40,39,0.13,0.0,0.15,0.06
+2324,Salernitana,Junior Sambia,FRA,,26,18,1,2,1,0,0.5,0.9,23,41,37,0.09,0.17,0.05,0.07
+2324,Salernitana,Jérôme Boateng,GER,Difensore,34,7,0,0,0,0,0.0,0.1,0,9,1,0.0,0.0,0.0,0.05
+2324,Salernitana,Kostas Manolas,GRE,Difensore,32,8,0,0,0,0,0.1,0.1,0,10,2,0.0,0.0,0.03,0.01
+2324,Salernitana,Lassana Coulibaly,MLI,Centrocampista,27,28,0,1,0,0,0.6,0.8,29,88,38,0.0,0.04,0.03,0.04
+2324,Salernitana,Lorenzo Pirola,ITA,Difensore,21,27,1,0,1,0,0.9,0.0,13,57,7,0.05,0.0,0.04,0.0
+2324,Salernitana,Loum Tchaouna,FRA,Attaccante,19,33,4,3,4,0,2.6,1.5,72,59,151,0.17,0.13,0.11,0.06
+2324,Salernitana,Mamadou Coulibaly,SEN,Difensore,24,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Salernitana,Marco Pellegrino,,Difensore,,10,0,0,0,0,0.0,0.0,0,7,1,0.0,0.0,0.01,0.01
+2324,Salernitana,Mateusz Łęgowski,POL,Centrocampista,20,29,0,0,0,0,0.2,0.2,16,37,17,0.0,0.0,0.02,0.02
+2324,Salernitana,Matteo Lovato,ITA,Difensore,23,13,0,0,0,0,0.0,0.2,1,29,1,0.0,0.0,0.0,0.02
+2324,Salernitana,Niccolò Pierozzi,ITA,Difensore,21,12,1,0,1,0,0.2,0.0,3,16,20,0.1,0.0,0.03,0.01
+2324,Salernitana,Norbert Gyömbér,SVK,Difensore,31,22,0,0,0,0,0.2,0.2,4,42,2,0.0,0.0,0.01,0.01
+2324,Salernitana,Pasquale Mazzocchi,ITA,Difensore,28,18,0,1,0,0,0.3,1.3,36,36,62,0.0,0.07,0.02,0.09
+2324,Salernitana,Shon Weissman,ISR,,27,11,1,0,1,0,1.0,0.1,0,4,22,0.18,0.0,0.19,0.02
+2324,Salernitana,Simeon Nwankwo,NGA,Attaccante,31,15,3,0,3,0,2.7,0.6,6,7,39,0.39,0.0,0.35,0.07
+2324,Salernitana,Toma Bašić,CRO,Centrocampista,26,15,0,0,0,0,0.6,0.5,11,53,16,0.0,0.0,0.05,0.04
+2324,Salernitana,Triantafyllos Pasaridīs,GRE,Difensore,27,8,0,0,0,0,0.0,0.0,1,17,0,0.0,0.0,0.0,0.01
+2324,Salernitana,Trivante Stewart,JAM,Attaccante,23,4,0,0,0,0,0.1,0.1,2,0,6,0.0,0.0,0.06,0.05
+2324,Salernitana,Vincenzo Fiorillo,ITA,Portiere,33,4,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Sassuolo,Alessio Cragno,ITA,Portiere,29,3,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Sassuolo,Andrea Consigli,ITA,Portiere,36,35,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2324,Sassuolo,Andrea Pinamonti,ITA,Attaccante,24,38,11,1,9,2,8.9,1.9,17,45,165,0.32,0.03,0.26,0.05
+2324,Sassuolo,Armand Lauriente,FRA,Attaccante,24,37,5,4,5,0,5.7,4.0,125,99,268,0.15,0.12,0.18,0.12
+2324,Sassuolo,Cristian Volpato,ITA,,19,22,1,0,1,0,0.5,1.4,34,53,49,0.14,0.0,0.07,0.19
+2324,Sassuolo,Daniel Boloca,ROU,Centrocampista,24,30,1,0,1,0,0.5,0.4,27,109,17,0.04,0.0,0.02,0.02
+2324,Sassuolo,Domenico Berardi,ITA,Attaccante,28,17,9,3,4,5,6.5,3.0,38,83,123,0.57,0.19,0.41,0.19
+2324,Sassuolo,Emil Ceide,NOR,Attaccante,21,11,0,0,0,0,0.1,0.2,12,3,16,0.0,0.0,0.05,0.12
+2324,Sassuolo,Filippo Missori,ITA,Difensore,19,8,0,0,0,0,0.3,0.0,5,8,7,0.0,0.0,0.1,0.02
+2324,Sassuolo,Gian Marco Ferrari,ITA,Difensore,31,31,1,0,1,0,1.6,0.3,32,148,7,0.04,0.0,0.06,0.01
+2324,Sassuolo,Grégoire Defrel,MTQ,Attaccante,32,20,1,2,1,0,1.0,1.2,7,17,42,0.12,0.24,0.12,0.14
+2324,Sassuolo,Jeremy Toljan,GER,Difensore,28,25,0,5,0,0,0.6,1.6,35,79,85,0.0,0.22,0.02,0.07
+2324,Sassuolo,Josh Doig,SCO,Difensore,21,16,0,2,0,0,0.2,1.1,30,33,45,0.0,0.13,0.01,0.08
+2324,Sassuolo,Justin Kumi,ITA,Attaccante,19,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Sassuolo,Kevin Miranda,ITA,Difensore,20,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Sassuolo,Kristian Thorstvedt,NOR,Centrocampista,24,34,6,1,6,0,4.4,1.6,30,130,94,0.23,0.04,0.16,0.06
+2324,Sassuolo,Luca Lipani,ITA,Centrocampista,18,8,0,0,0,0,0.1,0.2,6,20,3,0.0,0.0,0.02,0.05
+2324,Sassuolo,Marash Kumbulla,ALB,Difensore,23,7,0,0,0,0,0.0,0.0,2,3,0,0.0,0.0,0.0,0.0
+2324,Sassuolo,Marcus Pedersen,NOR,Difensore,23,28,0,2,0,0,0.1,1.1,43,31,90,0.0,0.11,0.01,0.06
+2324,Sassuolo,Martin Erlic,CRO,Difensore,25,32,1,0,1,0,1.0,0.0,19,78,11,0.03,0.0,0.03,0.0
+2324,Sassuolo,Matheus Henrique,BRA,Centrocampista,25,31,2,2,2,0,2.3,1.6,43,94,44,0.07,0.07,0.08,0.06
+2324,Sassuolo,Mattia Viti,ITA,Difensore,21,15,1,0,1,0,1.0,0.0,2,36,13,0.09,0.0,0.09,0.0
+2324,Sassuolo,Matías Viña,URU,Difensore,25,15,0,3,0,0,0.3,1.4,24,46,37,0.0,0.27,0.03,0.12
+2324,Sassuolo,Maxime Lopez,FRA,Centrocampista,25,2,0,0,0,0,0.0,0.2,2,18,4,0.0,0.0,0.0,0.11
+2324,Sassuolo,Nedim Bajrami,ALB,,24,28,2,2,2,0,2.5,2.2,51,49,70,0.14,0.14,0.17,0.15
+2324,Sassuolo,Pedro Obiang,EQG,Centrocampista,31,8,0,0,0,0,0.0,0.7,4,21,2,0.0,0.0,0.01,0.14
+2324,Sassuolo,Ruan,BRA,Difensore,24,26,0,0,0,0,0.5,0.6,8,33,6,0.0,0.0,0.03,0.04
+2324,Sassuolo,Samu Castillejo,ESP,Attaccante,28,17,0,0,0,0,0.3,1.0,27,26,45,0.0,0.0,0.04,0.16
+2324,Sassuolo,Samuele Mulattieri,ITA,Attaccante,22,27,0,0,0,0,1.6,0.3,8,1,38,0.0,0.0,0.31,0.05
+2324,Sassuolo,Uroš Račić,SRB,Centrocampista,25,22,1,1,1,0,0.8,0.3,5,37,11,0.11,0.11,0.09,0.03
+2324,Torino,Adam Masina,MAR,Difensore,29,16,0,0,0,0,0.2,0.2,3,42,6,0.0,0.0,0.02,0.02
+2324,Torino,Adrien Tameze,CMR,,29,29,0,2,0,0,0.7,2.2,22,90,39,0.0,0.08,0.03,0.09
+2324,Torino,Alessandro Buongiorno,ITA,Difensore,24,29,3,0,3,0,1.6,0.1,14,62,10,0.11,0.0,0.06,0.0
+2324,Torino,Alessandro Dellavalle,ITA,Difensore,19,1,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2324,Torino,Antonio Sanabria,PAR,Attaccante,27,35,5,0,3,2,9.3,1.4,19,57,109,0.21,0.0,0.39,0.06
+2324,Torino,Brandon Soppy,FRA,Difensore,21,5,0,0,0,0,0.0,0.1,9,6,3,0.0,0.0,0.0,0.04
+2324,Torino,David Okereke,NGA,Attaccante,25,9,0,0,0,0,0.2,0.1,8,7,23,0.0,0.0,0.09,0.04
+2324,Torino,David Zima,CZE,Difensore,22,5,0,0,0,0,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0
+2324,Torino,Demba Seck,SEN,Centrocampista,22,9,0,0,0,0,0.3,0.1,23,12,25,0.0,0.0,0.07,0.03
+2324,Torino,Duván Zapata,COL,Attaccante,32,35,12,4,12,0,10.9,3.0,74,52,242,0.37,0.12,0.34,0.09
+2324,Torino,Gvidas Gineitis,LTU,Centrocampista,19,14,0,0,0,0,0.4,0.5,9,25,12,0.0,0.0,0.07,0.08
+2324,Torino,Ivan Ilić,SRB,Centrocampista,22,31,3,2,3,0,2.1,5.0,49,138,52,0.13,0.09,0.09,0.21
+2324,Torino,Karol Linetty,POL,Centrocampista,28,28,0,0,0,0,0.5,0.8,31,87,25,0.0,0.0,0.02,0.04
+2324,Torino,Koffi Djidji,CIV,Difensore,30,13,0,0,0,0,0.1,0.0,4,19,3,0.0,0.0,0.01,0.0
+2324,Torino,Luca Gemello,ITA,Portiere,23,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Torino,Matteo Lovato,ITA,Difensore,23,13,0,0,0,0,0.0,0.0,0,4,0,0.0,0.0,0.01,0.0
+2324,Torino,Mërgim Vojvoda,KVX,Difensore,28,28,0,3,0,0,0.4,1.4,30,91,72,0.0,0.2,0.02,0.09
+2324,Torino,Nemanja Radonjić,SRB,,27,10,3,0,3,0,1.7,0.2,11,7,24,0.72,0.0,0.41,0.05
+2324,Torino,Nikola Vlašić,CRO,,25,33,3,2,3,0,2.4,2.9,67,150,174,0.1,0.07,0.08,0.1
+2324,Torino,Perr Schuurs,NED,Difensore,23,9,1,0,1,0,0.7,0.0,9,19,4,0.12,0.0,0.08,0.0
+2324,Torino,Pietro Pellegri,ITA,Attaccante,22,24,1,1,1,0,1.0,0.3,14,8,52,0.12,0.12,0.12,0.04
+2324,Torino,Raoul Bellanova,ITA,Difensore,23,37,1,7,1,0,2.0,5.0,141,98,202,0.03,0.21,0.06,0.15
+2324,Torino,Ricardo Rodríguez,SUI,Difensore,30,35,1,2,1,0,0.3,1.4,61,127,40,0.03,0.06,0.01,0.04
+2324,Torino,Saba Sazonov,GEO,Difensore,21,12,0,0,0,0,0.2,0.0,0,8,0,0.0,0.0,0.04,0.01
+2324,Torino,Samuele Ricci,ITA,Centrocampista,21,32,1,2,1,0,1.3,2.3,47,122,73,0.04,0.08,0.05,0.09
+2324,Torino,Simone Verdi,ITA,Attaccante,31,1,0,0,0,0,0.0,0.1,0,0,0,0.0,0.0,0.0,1.5
+2324,Torino,Valentino Lazaro,AUT,,27,35,0,4,0,0,1.7,2.9,53,94,106,0.0,0.18,0.08,0.13
+2324,Torino,Vanja Milinković-Savić,SRB,Portiere,26,36,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Torino,Yann Karamoh,FRA,,25,10,0,0,0,0,0.1,0.1,11,5,12,0.0,0.0,0.08,0.03
+2324,Torino,Zanos Savva,CYP,,17,2,1,0,1,0,0.2,0.0,0,1,1,3.21,0.0,0.51,0.0
+2324,Udinese,Adam Masina,MAR,Difensore,29,4,0,0,0,0,0.1,0.0,0,1,3,0.0,0.0,0.08,0.0
+2324,Udinese,Antonio Tikvić,CRO,Difensore,19,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Udinese,Axel Guessand,FRA,Difensore,18,1,0,0,0,0,0.0,0.0,1,1,1,0.0,0.0,0.02,0.0
+2324,Udinese,Beto,GNB,Attaccante,25,1,0,0,0,0,0.0,0.3,0,2,5,0.0,0.0,0.0,0.32
+2324,Udinese,Brenner,BRA,,23,8,0,0,0,0,0.4,0.0,6,8,10,0.0,0.0,0.18,0.01
+2324,Udinese,Christian Kabasele,BEL,Difensore,32,13,1,1,1,0,1.2,0.5,7,22,1,0.1,0.1,0.12,0.05
+2324,Udinese,Domingos Quina,POR,Centrocampista,23,2,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2324,Udinese,Enzo Ebosse,CMR,Difensore,24,1,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2324,Udinese,Festy Ebosele,IRL,Difensore,20,31,0,0,0,0,0.8,1.8,67,35,98,0.0,0.0,0.04,0.1
+2324,Udinese,Florian Thauvin,FRA,Attaccante,30,29,5,3,4,1,4.7,4.2,71,69,97,0.26,0.16,0.25,0.22
+2324,Udinese,Hassane Kamara,CIV,Difensore,29,35,1,1,1,0,1.9,2.8,61,81,93,0.04,0.04,0.08,0.11
+2324,Udinese,Isaac Success,NGA,Attaccante,27,27,1,1,1,0,2.7,1.1,15,17,51,0.1,0.1,0.28,0.11
+2324,Udinese,Jaka Bijol,SVN,Difensore,24,24,0,0,0,0,1.9,0.2,5,42,1,0.0,0.0,0.08,0.01
+2324,Udinese,Jordan Zemura,ZIM,Difensore,23,27,1,0,1,0,0.8,0.4,23,32,52,0.09,0.0,0.07,0.03
+2324,Udinese,João Ferreira,POR,Difensore,22,35,0,1,0,0,0.1,0.9,19,61,45,0.0,0.05,0.01,0.05
+2324,Udinese,Keinan Davis,ENG,Attaccante,25,8,1,0,1,0,0.5,0.1,2,6,15,0.48,0.0,0.24,0.04
+2324,Udinese,Kingsley Ehizibue,NED,Difensore,28,23,0,1,0,0,1.3,0.7,18,15,44,0.0,0.09,0.12,0.07
+2324,Udinese,Lautaro Gianetti,ARG,Difensore,29,7,1,0,1,0,0.4,0.1,2,4,0,0.14,0.0,0.06,0.01
+2324,Udinese,Lazar Samardzic,SRB,Centrocampista,21,34,6,2,5,1,3.5,5.5,65,83,91,0.23,0.08,0.13,0.21
+2324,Udinese,Lorenzo Lucca,ITA,Attaccante,22,37,8,4,8,0,7.8,1.6,10,18,118,0.28,0.14,0.27,0.06
+2324,Udinese,Maduka Okoye,NGA,Portiere,23,21,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Udinese,Marco Silvestri,ITA,Portiere,32,17,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Udinese,Marley Aké,FRA,Attaccante,22,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2324,Udinese,Martín Payero,ARG,Centrocampista,24,29,2,2,2,0,1.5,1.1,47,71,64,0.1,0.1,0.08,0.06
+2324,Udinese,Nehuén Pérez,ARG,Difensore,23,36,0,0,0,0,1.3,0.2,28,119,24,0.0,0.0,0.04,0.0
+2324,Udinese,Oier Zarraga,ESP,Centrocampista,24,15,2,0,2,0,0.6,0.0,5,8,10,0.45,0.0,0.13,0.01
+2324,Udinese,Roberto Pereyra,ARG,Attaccante,32,27,4,3,3,1,3.5,1.9,39,70,82,0.19,0.15,0.17,0.09
+2324,Udinese,Sandi Lovrić,SVN,Centrocampista,25,29,1,3,1,0,3.5,3.3,52,80,80,0.05,0.14,0.16,0.15
+2324,Udinese,Simone Pafundi,ITA,Centrocampista,17,1,0,0,0,0,0.0,0.0,0,1,1,0.0,0.0,0.0,0.0
+2324,Udinese,Thomas Kristensen,DEN,Difensore,21,26,0,1,0,0,1.1,0.4,20,47,3,0.0,0.04,0.05,0.02
+2324,Udinese,Vivaldo Semedo,POR,Attaccante,18,1,0,0,0,0,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0
+2324,Udinese,Walace,BRA,Centrocampista,28,37,2,0,2,0,0.8,1.1,37,127,22,0.06,0.0,0.02,0.03
+2425,Atalanta,Alberto Manzoni,ITA,Centrocampista,19-063,1,0,0,0,0,0.1,0.0,0,0,0,0.0,0.0,0.94,0.0
+2425,Atalanta,Ben Godfrey,ENG,Difensore,26-225,1,0,0,0,0,0.0,0.0,0,1,1,0.0,0.0,0.0,0.0
+2425,Atalanta,Berat Djimsiti,ALB,Difensore,31-190,2,0,0,0,0,0.2,0.4,3,8,3,0.0,0.0,0.08,0.19
+2425,Atalanta,Charles De Ketelaere,BEL,,23-170,2,0,0,0,0,0.7,0.2,5,12,20,0.0,0.0,0.39,0.11
+2425,Atalanta,Davide Zappacosta,ITA,Difensore,32-077,2,0,1,0,0,0.2,0.5,5,10,12,0.0,0.57,0.12,0.26
+2425,Atalanta,Federico Cassa,ITA,,18-208,2,0,0,0,0,0.0,0.0,1,1,2,0.0,0.0,0.0,0.0
+2425,Atalanta,Ibrahim Sulemana,GHA,Centrocampista,21-097,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Atalanta,Isak Hien,SWE,Difensore,25-227,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Atalanta,Juan Musso,ARG,Portiere,30-113,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Atalanta,Lazar Samardzic,SRB,Centrocampista,22-185,1,0,0,0,0,0.1,0.2,2,1,3,0.0,0.0,0.28,0.46
+2425,Atalanta,Marco Brescianini,ITA,Centrocampista,24-220,2,2,0,2,0,0.2,0.2,3,5,14,1.28,0.0,0.12,0.15
+2425,Atalanta,Marco Carnesecchi,ITA,Portiere,24-057,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Atalanta,Marco Palestra,ITA,Difensore,19-177,2,0,0,0,0,0.0,0.1,1,0,0,0.0,0.0,0.0,0.57
+2425,Atalanta,Mario Pašalić,CRO,Centrocampista,29-200,2,0,1,0,0,1.4,0.3,1,14,6,0.0,0.5,0.72,0.14
+2425,Atalanta,Marten de Roon,NED,Difensore,33-151,2,0,0,0,0,0.0,0.0,1,11,1,0.0,0.0,0.0,0.01
+2425,Atalanta,Mateo Retegui,ITA,Attaccante,25-120,2,3,0,2,1,1.7,0.1,1,1,9,1.79,0.0,1.0,0.07
+2425,Atalanta,Matteo Ruggeri,ITA,Difensore,22-047,2,0,1,0,0,0.0,0.2,8,9,10,0.0,0.5,0.0,0.12
+2425,Atalanta,Mitchel Bakker,NED,Centrocampista,24-068,1,0,0,0,0,0.0,0.0,0,1,1,0.0,0.0,0.0,0.0
+2425,Atalanta,Nicolò Zaniolo,ITA,Attaccante,25-056,1,0,0,0,0,0.2,0.1,1,1,4,0.0,0.0,0.75,0.37
+2425,Atalanta,Éderson,BRA,Centrocampista,25-051,2,0,0,0,0,0.3,0.0,0,14,1,0.0,0.0,0.16,0.02
+2425,Bologna,Charalambos Lykogiannis,GRE,Difensore,30-310,2,0,0,0,0,0.0,0.0,3,13,3,0.0,0.0,0.0,0.0
+2425,Bologna,Dan Ndoye,SUI,Attaccante,23-307,2,0,0,0,0,1.1,0.5,7,7,29,0.0,0.0,0.69,0.31
+2425,Bologna,Giovanni Fabbian,ITA,Centrocampista,21-226,2,0,0,0,0,0.2,0.1,2,2,2,0.0,0.0,0.15,0.09
+2425,Bologna,Jens Odgaard,DEN,Attaccante,25-149,2,0,0,0,0,0.0,0.0,1,1,4,0.0,0.0,0.0,0.0
+2425,Bologna,Jesper Karlsson,SWE,Attaccante,26-033,1,0,0,0,0,0.0,0.0,0,1,4,0.0,0.0,0.0,0.0
+2425,Bologna,Jhon Lucumí,COL,Difensore,26-062,1,0,0,0,0,0.0,0.0,1,3,0,0.0,0.0,0.0,0.0
+2425,Bologna,Juan Miranda,ESP,Difensore,24-221,2,0,0,0,0,0.0,0.0,3,2,2,0.0,0.0,0.08,0.05
+2425,Bologna,Martin Erlic,CRO,Difensore,26-216,2,0,0,0,0,0.0,0.0,0,2,1,0.0,0.0,0.0,0.0
+2425,Bologna,Michel Aebischer,SUI,Centrocampista,27-234,2,0,0,0,0,0.1,0.0,2,7,3,0.0,0.0,0.12,0.03
+2425,Bologna,Nicolò Cambiaghi,ITA,Attaccante,23-243,1,0,0,0,0,0.1,0.0,1,2,4,0.0,0.0,0.37,0.0
+2425,Bologna,Nikola Moro,CRO,Centrocampista,26-168,2,0,0,0,0,0.2,0.0,5,18,8,0.0,0.0,0.09,0.03
+2425,Bologna,Remo Freuler,SUI,Centrocampista,32-134,2,0,0,0,0,0.0,0.2,3,15,3,0.0,0.0,0.0,0.09
+2425,Bologna,Riccardo Orsolini,ITA,Attaccante,27-216,2,1,0,0,1,1.4,0.8,2,5,16,0.66,0.0,0.9,0.5
+2425,Bologna,Sam Beukema,NED,Difensore,25-284,2,0,0,0,0,0.0,0.3,3,10,0,0.0,0.0,0.01,0.14
+2425,Bologna,Santiago Castro,ARG,Attaccante,19-333,2,0,0,0,0,0.9,0.4,1,1,9,0.0,0.0,0.48,0.19
+2425,Bologna,Stefan Posch,AUT,Difensore,27-105,2,0,0,0,0,0.0,0.2,4,9,10,0.0,0.0,0.0,0.09
+2425,Bologna,Thijs Dallinga,NED,Attaccante,24-024,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.42
+2425,Bologna,Łukasz Skorupski,POL,Portiere,33-114,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Cagliari,Adam Obert,SVK,Difensore,22-004,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Cagliari,Alessandro Deiola,ITA,Centrocampista,29-026,2,0,0,0,0,0.1,0.0,1,1,3,0.0,0.0,0.03,0.0
+2425,Cagliari,Gabriele Zappa,ITA,Difensore,24-249,2,0,0,0,0,0.0,0.1,1,6,4,0.0,0.0,0.0,0.04
+2425,Cagliari,Gianluca Lapadula,PER,Attaccante,34-202,2,0,0,0,0,0.1,0.0,2,0,2,0.0,0.0,0.24,0.0
+2425,Cagliari,José Luis Palomino,ARG,Difensore,34-235,1,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2425,Cagliari,Leonardo Pavoletti,ITA,Attaccante,35-275,2,0,0,0,0,0.1,0.0,1,2,0,0.0,0.0,0.22,0.1
+2425,Cagliari,Mateusz Wieteska,POL,Difensore,27-198,1,0,0,0,0,0.2,0.0,0,1,0,0.0,0.0,0.21,0.0
+2425,Cagliari,Matteo Prati,ITA,Centrocampista,20-243,2,0,0,0,0,0.0,0.0,1,6,2,0.0,0.0,0.0,0.03
+2425,Cagliari,Michel Ndary Adopo,FRA,Centrocampista,24-039,2,0,0,0,0,0.0,0.1,1,3,0,0.0,0.0,0.06,0.13
+2425,Cagliari,Paulo Azzi,BRA,Difensore,30-043,2,0,0,0,0,0.1,0.1,12,5,6,0.0,0.0,0.07,0.05
+2425,Cagliari,Roberto Piccoli,ITA,Attaccante,23-213,2,1,0,1,0,0.8,0.0,4,4,11,0.55,0.0,0.45,0.0
+2425,Cagliari,Răzvan Marin,ROU,Centrocampista,28-096,2,0,0,0,0,0.2,0.3,2,5,2,0.0,0.0,0.11,0.16
+2425,Cagliari,Sebastiano Luperto,ITA,Difensore,27-356,2,0,1,0,0,0.0,0.4,1,4,1,0.0,0.5,0.0,0.2
+2425,Cagliari,Simone Scuffet,ITA,Portiere,28-088,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Cagliari,Tommaso Augello,ITA,Difensore,29-363,2,0,0,0,0,0.0,0.1,8,8,6,0.0,0.0,0.03,0.07
+2425,Cagliari,Yerry Mina,COL,Difensore,29-339,1,0,0,0,0,0.0,0.0,0,0,1,0.0,0.0,0.04,0.0
+2425,Cagliari,Zito Luvumbo,ANG,Attaccante,22-171,2,0,0,0,0,0.1,0.2,4,0,7,0.0,0.0,0.08,0.12
+2425,Como,Alberto Cerri,ITA,Attaccante,28-133,2,0,0,0,0,0.8,0.0,0,0,5,0.0,0.0,1.18,0.0
+2425,Como,Alberto Dossena,ITA,Difensore,25-319,1,0,1,0,0,0.1,0.4,0,1,0,0.0,1.02,0.08,0.46
+2425,Como,Alberto Moreno,ESP,Difensore,32-053,2,0,0,0,0,0.0,0.0,0,2,5,0.0,0.0,0.01,0.02
+2425,Como,Alessandro Gabrielloni,ITA,Attaccante,30-048,1,0,0,0,0,0.0,0.0,1,0,1,0.0,0.0,0.06,0.11
+2425,Como,Alessio Iovine,ITA,Difensore,33-208,1,0,0,0,0,0.0,0.0,2,1,0,0.0,0.0,0.0,0.0
+2425,Como,Andrea Belotti,ITA,Attaccante,30-251,2,0,0,0,0,0.1,0.0,0,0,6,0.0,0.0,0.11,0.0
+2425,Como,Daniele Baselli,ITA,Centrocampista,32-168,1,0,0,0,0,0.0,0.0,2,3,0,0.0,0.0,0.0,0.0
+2425,Como,Edoardo Goldaniga,ITA,Difensore,30-299,2,0,0,0,0,0.0,0.0,0,3,0,0.0,0.0,0.0,0.0
+2425,Como,Federico Barba,ITA,Difensore,30-361,2,0,0,0,0,0.0,0.0,2,8,0,0.0,0.0,0.0,0.0
+2425,Como,Gabriel Strefezza,BRA,Centrocampista,27-131,2,0,0,0,0,0.1,0.2,4,6,11,0.0,0.0,0.05,0.1
+2425,Como,Luca Mazzitelli,ITA,Centrocampista,28-286,1,0,0,0,0,0.0,0.0,0,6,1,0.0,0.0,0.0,0.03
+2425,Como,Lucas Da Cunha,FRA,Centrocampista,23-079,2,0,0,0,0,0.0,0.0,0,5,6,0.0,0.0,0.03,0.0
+2425,Como,Marco Sala,ITA,Difensore,25-084,1,0,0,0,0,0.0,0.1,2,6,7,0.0,0.0,0.0,0.11
+2425,Como,Matthias Braunöder,AUT,Centrocampista,22-153,2,0,0,0,0,0.0,0.0,1,8,0,0.0,0.0,0.0,0.0
+2425,Como,Máximo Perrone,ARG,Centrocampista,21-233,1,0,0,0,0,0.0,0.0,0,2,0,0.0,0.0,0.0,0.05
+2425,Como,Nicolás Paz,ARG,Centrocampista,19-354,1,0,0,0,0,0.0,0.5,4,2,1,0.0,0.0,0.05,1.48
+2425,Como,Oliver Abildgaard,DEN,Centrocampista,28-078,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Como,Patrick Cutrone,ITA,Attaccante,26-237,2,1,0,1,0,0.6,0.0,2,2,14,0.59,0.0,0.34,0.02
+2425,Como,Pepe Reina,ESP,Portiere,41-362,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Como,Sergi Roberto,ESP,Centrocampista,32-202,1,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2425,Como,Simone Verdi,ITA,Centrocampista,32-046,1,0,0,0,0,0.0,0.0,0,1,2,0.0,0.0,0.0,0.0
+2425,Como,Yannik Engelhardt,GER,Centrocampista,23-202,1,0,0,0,0,0.0,0.0,1,3,1,0.0,0.0,0.0,0.0
+2425,Empoli,Ardian Ismajli,ALB,Difensore,27-332,2,0,0,0,0,0.0,0.0,0,6,0,0.0,0.0,0.01,0.0
+2425,Empoli,Devis Vásquez,COL,Portiere,26-107,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Empoli,Emmanuel Ekong,SWE,Attaccante,22-063,2,0,0,0,0,0.0,0.1,2,0,1,0.0,0.0,0.15,0.76
+2425,Empoli,Emmanuel Gyasi,GHA,Difensore,30-229,2,1,0,1,0,0.9,0.0,0,2,7,0.5,0.0,0.43,0.0
+2425,Empoli,Francesco Caputo,ITA,Attaccante,37-021,1,0,0,0,0,0.0,0.0,0,0,1,0.0,0.0,0.0,0.0
+2425,Empoli,Giuseppe Pezzella,ITA,Difensore,26-272,2,0,0,0,0,0.0,0.1,2,2,6,0.0,0.0,0.01,0.04
+2425,Empoli,Jacopo Fazzini,ITA,Centrocampista,21-164,2,0,0,0,0,0.2,0.1,5,5,11,0.0,0.0,0.1,0.05
+2425,Empoli,Liam Henderson,SCO,Centrocampista,28-124,2,0,0,0,0,0.0,0.8,0,11,2,0.0,0.0,0.02,0.39
+2425,Empoli,Liberato Cacace,NZL,Difensore,23-335,2,0,0,0,0,0.0,0.1,1,1,2,0.0,0.0,0.15,0.18
+2425,Empoli,Lorenzo Colombo,ITA,Attaccante,22-172,2,1,1,0,1,1.6,0.4,2,1,10,0.53,0.53,0.86,0.22
+2425,Empoli,Mattia Viti,ITA,Difensore,22-216,2,0,0,0,0,0.2,0.0,2,4,1,0.0,0.0,0.12,0.02
+2425,Empoli,Nicolas Haas,SUI,Centrocampista,28-217,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Empoli,Ola Solbakken,NOR,,25-355,2,0,0,0,0,0.1,0.0,2,3,3,0.0,0.0,0.07,0.06
+2425,Empoli,Petar Stojanović,SVN,Centrocampista,28-325,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Empoli,Sebastian Walukiewicz,POL,Difensore,24-144,2,0,0,0,0,0.0,0.1,2,8,3,0.0,0.0,0.0,0.04
+2425,Empoli,Sebastiano Esposito,ITA,Centrocampista,22-056,2,0,0,0,0,0.3,0.0,4,4,1,0.0,0.0,0.25,0.04
+2425,Empoli,Youssef Maleh,MAR,Centrocampista,26-005,2,0,0,0,0,0.0,0.0,0,5,3,0.0,0.0,0.02,0.0
+2425,Fiorentina,Alessandro Bianco,ITA,Centrocampista,21-331,1,0,0,0,0,0.0,0.0,0,0,1,0.0,0.0,0.0,0.0
+2425,Fiorentina,Amir Richardson,MAR,Centrocampista,22-216,1,0,0,0,0,0.2,0.0,0,2,2,0.0,0.0,0.2,0.0
+2425,Fiorentina,Andrea Colpani,ITA,Centrocampista,25-108,2,0,0,0,0,0.3,0.0,5,6,12,0.0,0.0,0.29,0.0
+2425,Fiorentina,Antonín Barák,CZE,Centrocampista,29-268,1,0,0,0,0,0.1,0.3,2,2,5,0.0,0.0,0.13,0.47
+2425,Fiorentina,Christian Kouamé,CIV,Centrocampista,26-265,2,0,0,0,0,0.2,0.3,2,5,8,0.0,0.0,0.1,0.17
+2425,Fiorentina,Cristiano Biraghi,ITA,Difensore,31-361,2,1,0,1,0,0.1,0.0,3,7,11,0.5,0.0,0.06,0.01
+2425,Fiorentina,Dodô,BRA,Difensore,25-284,2,0,0,0,0,0.0,0.0,7,7,12,0.0,0.0,0.02,0.02
+2425,Fiorentina,Fabiano Parisi,ITA,Difensore,23-292,2,0,0,0,0,0.1,0.0,2,5,2,0.0,0.0,0.06,0.0
+2425,Fiorentina,Jonathan Ikone,FRA,Centrocampista,26-117,1,0,0,0,0,0.0,0.0,2,1,3,0.0,0.0,0.04,0.0
+2425,Fiorentina,Luca Ranieri,ITA,Difensore,25-126,1,0,0,0,0,0.0,0.2,0,3,0,0.0,0.0,0.0,0.17
+2425,Fiorentina,Lucas Beltrán,ARG,Attaccante,23-151,1,0,0,0,0,0.0,0.0,1,2,0,0.0,0.0,0.0,0.09
+2425,Fiorentina,Lucas Martínez Quarta,ARG,Difensore,28-109,2,0,0,0,0,0.0,0.0,0,5,1,0.0,0.0,0.01,0.02
+2425,Fiorentina,Marin Pongračić,CRO,Difensore,26-351,1,0,0,0,0,0.0,0.0,0,2,0,0.0,0.0,0.0,0.02
+2425,Fiorentina,Michael Kayode,ITA,Difensore,20-048,1,0,0,0,0,0.1,0.0,2,0,1,0.0,0.0,0.52,0.0
+2425,Fiorentina,Moise Kean,ITA,Attaccante,24-181,2,0,0,0,0,0.4,0.2,3,2,8,0.0,0.0,0.24,0.11
+2425,Fiorentina,Pietro Comuzzo,ITA,Difensore,19-189,2,0,0,0,0,0.0,0.0,2,5,0,0.0,0.0,0.0,0.0
+2425,Fiorentina,Pietro Terracciano,ITA,Portiere,34-172,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Fiorentina,Riccardo Sottil,ITA,Centrocampista,25-085,2,0,0,0,0,0.0,0.0,3,0,4,0.0,0.0,0.03,0.05
+2425,Fiorentina,Rolando Mandragora,ITA,Centrocampista,27-059,2,0,0,0,0,0.1,0.0,2,3,0,0.0,0.0,0.09,0.0
+2425,Fiorentina,Sofyan Amrabat,MAR,Centrocampista,28-006,2,0,0,0,0,0.0,0.1,2,14,1,0.0,0.0,0.0,0.03
+2425,Genoa,Aarón Martín,ESP,Difensore,27-127,2,0,0,0,0,0.0,0.0,6,6,6,0.0,0.0,0.01,0.02
+2425,Genoa,Alessandro Vogliacco,ITA,Difensore,25-348,2,1,0,1,0,0.7,0.0,0,2,0,0.86,0.0,0.59,0.0
+2425,Genoa,Alessandro Zanoli,ITA,Difensore,23-329,2,0,0,0,0,0.0,0.0,1,0,1,0.0,0.0,0.0,0.0
+2425,Genoa,Andrea Pinamonti,ITA,Attaccante,25-100,1,1,0,1,0,0.1,0.0,0,0,0,1.34,0.0,0.12,0.07
+2425,Genoa,Caleb Ekuban,GHA,Attaccante,30-157,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.07,0.13
+2425,Genoa,Jeff Ekhator,ITA,Attaccante,17-290,1,0,0,0,0,0.0,0.0,0,0,1,0.0,0.0,0.0,0.0
+2425,Genoa,Johan Vásquez,MEX,Difensore,25-310,2,0,0,0,0,0.0,0.0,0,1,1,0.0,0.0,0.0,0.0
+2425,Genoa,Junior Messias,BRA,Attaccante,33-106,2,1,0,1,0,1.0,0.2,4,4,5,0.5,0.0,0.51,0.1
+2425,Genoa,Koni De Winter,BEL,Difensore,22-076,2,0,0,0,0,0.0,0.0,2,2,1,0.0,0.0,0.0,0.01
+2425,Genoa,Mattia Bani,ITA,Difensore,30-261,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.01,0.0
+2425,Genoa,Milan Badelj,CRO,Centrocampista,35-184,2,0,0,0,0,0.2,0.1,0,4,0,0.0,0.0,0.1,0.09
+2425,Genoa,Morten Frendrup,DEN,Centrocampista,23-142,2,0,0,0,0,0.1,0.0,1,5,3,0.0,0.0,0.03,0.0
+2425,Genoa,Morten Thorsby,NOR,Centrocampista,28-114,2,0,0,0,0,0.5,0.0,0,2,1,0.0,0.0,0.89,0.0
+2425,Genoa,Pierluigi Gollini,ITA,Portiere,29-162,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Genoa,Ruslan Malinovskyi,UKR,,31-115,2,0,0,0,0,0.0,0.4,1,5,1,0.0,0.0,0.04,0.38
+2425,Genoa,Stefano Sabelli,ITA,,31-227,2,0,1,0,0,0.0,0.1,2,3,3,0.0,1.11,0.03,0.16
+2425,Genoa,Vitinha,POR,Attaccante,24-165,2,0,0,0,0,0.2,0.0,6,1,11,0.0,0.0,0.12,0.0
+2425,Hellas Verona,Abdou Harroui,NED,Attaccante,26-227,2,0,0,0,0,0.2,0.0,3,0,7,0.0,0.0,0.31,0.0
+2425,Hellas Verona,Casper Tengstedt,DEN,Attaccante,24-087,2,0,0,0,0,0.1,0.0,3,0,5,0.0,0.0,0.11,0.0
+2425,Hellas Verona,Dailon Livramento,CPV,Attaccante,23-115,2,1,0,1,0,0.4,0.0,3,0,6,0.7,0.0,0.26,0.0
+2425,Hellas Verona,Daniel Bandeira,POR,Centrocampista,24-138,1,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2425,Hellas Verona,Daniel Mosquera,COL,Attaccante,24-312,2,2,0,2,0,1.3,0.2,1,0,5,2.47,0.0,1.6,0.23
+2425,Hellas Verona,Darko Lazović,SRB,Centrocampista,33-347,2,0,2,0,0,0.2,1.1,2,3,6,0.0,1.18,0.11,0.63
+2425,Hellas Verona,Diego Coppola,ITA,Difensore,20-243,2,0,0,0,0,0.0,0.0,1,2,0,0.0,0.0,0.0,0.0
+2425,Hellas Verona,Faride Alidou,GER,,23-040,1,0,0,0,0,0.0,0.0,1,1,1,0.0,0.0,0.0,0.0
+2425,Hellas Verona,Giangiacomo Magnani,ITA,Difensore,28-328,2,0,0,0,0,0.0,0.0,1,3,3,0.0,0.0,0.04,0.0
+2425,Hellas Verona,Grigoris Kastanos,CYP,Attaccante,26-210,1,0,0,0,0,0.0,0.0,0,3,2,0.0,0.0,0.04,0.05
+2425,Hellas Verona,Jackson Tchatchoua,CMR,Centrocampista,22-348,2,0,0,0,0,0.0,0.3,6,4,13,0.0,0.0,0.02,0.14
+2425,Hellas Verona,Lorenzo Montipò,ITA,Portiere,28-189,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Hellas Verona,Martin Frese,DEN,Difensore,26-236,2,0,0,0,0,0.0,0.0,0,3,1,0.0,0.0,0.0,0.0
+2425,Hellas Verona,Ondrej Duda,SVK,Centrocampista,29-266,2,0,1,0,0,0.0,0.4,1,12,3,0.0,0.52,0.0,0.22
+2425,Hellas Verona,Paweł Dawidowicz,POL,Difensore,29-099,2,0,0,0,0,0.0,0.0,1,8,0,0.0,0.0,0.0,0.0
+2425,Hellas Verona,Reda Belahyane,FRA,Centrocampista,20-087,2,0,0,0,0,0.0,0.0,2,11,1,0.0,0.0,0.0,0.0
+2425,Hellas Verona,Suat Serdar,GER,Centrocampista,27-138,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Hellas Verona,Tomáš Suslov,SVK,Attaccante,22-081,2,0,0,0,0,0.2,0.0,1,3,1,0.0,0.0,0.11,0.03
+2425,Inter,Alessandro Bastoni,ITA,Difensore,25-136,2,0,0,0,0,0.0,0.1,7,15,13,0.0,0.0,0.0,0.05
+2425,Inter,Benjamin Pavard,FRA,Difensore,28-152,1,0,0,0,0,0.0,0.0,1,5,2,0.0,0.0,0.0,0.0
+2425,Inter,Carlos Augusto,BRA,Difensore,25-233,2,0,0,0,0,0.0,0.0,0,0,1,0.0,0.0,0.0,0.0
+2425,Inter,Davide Frattesi,ITA,Centrocampista,24-310,2,0,1,0,0,0.1,0.5,1,2,0,0.0,2.05,0.12,0.97
+2425,Inter,Denzel Dumfries,NED,Difensore,28-131,2,0,0,0,0,0.0,0.0,1,2,2,0.0,0.0,0.0,0.07
+2425,Inter,Federico Dimarco,ITA,Difensore,26-291,2,0,0,0,0,0.5,0.2,1,6,12,0.0,0.0,0.29,0.14
+2425,Inter,Francesco Acerbi,ITA,Difensore,36-199,2,0,0,0,0,0.0,0.0,1,11,0,0.0,0.0,0.0,0.0
+2425,Inter,Hakan Çalhanoğlu,TUR,Centrocampista,30-201,2,1,0,0,1,0.8,0.4,3,16,6,0.58,0.0,0.47,0.22
+2425,Inter,Henrikh Mkhitaryan,ARM,Centrocampista,35-219,2,0,0,0,0,0.1,0.0,2,10,5,0.0,0.0,0.04,0.0
+2425,Inter,Kristjan Asllani,ALB,Centrocampista,22-171,2,0,0,0,0,0.3,0.0,0,0,2,0.0,0.0,1.79,0.0
+2425,Inter,Lautaro Martínez,ARG,Attaccante,27-005,1,0,0,0,0,0.3,0.0,0,2,4,0.0,0.0,0.34,0.0
+2425,Inter,Marcus Thuram,FRA,Attaccante,27-021,2,2,0,2,0,1.2,0.4,5,2,15,1.09,0.0,0.66,0.21
+2425,Inter,Marko Arnautović,AUT,Attaccante,35-130,1,0,0,0,0,0.4,0.0,0,2,2,0.0,0.0,2.25,0.0
+2425,Inter,Matteo Darmian,ITA,Difensore,34-269,2,1,0,1,0,0.4,0.0,1,4,12,0.66,0.0,0.29,0.0
+2425,Inter,Mehdi Taremi,IRN,Attaccante,32-040,2,0,1,0,0,0.1,0.5,0,3,9,0.0,0.85,0.08,0.45
+2425,Inter,Nicolò Barella,ITA,Centrocampista,27-202,2,0,1,0,0,0.1,0.6,0,14,8,0.0,0.56,0.05,0.31
+2425,Inter,Yann Aurel Bisseck,GER,Difensore,23-272,1,0,0,0,0,0.2,0.0,3,8,8,0.0,0.0,0.21,0.0
+2425,Inter,Yann Sommer,SUI,Portiere,35-254,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Juventus,Andrea Cambiaso,ITA,,24-189,2,1,0,1,0,0.1,0.4,5,3,7,0.52,0.0,0.06,0.23
+2425,Juventus,Danilo,BRA,Difensore,33-043,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Juventus,Douglas Luiz,BRA,Centrocampista,26-110,2,0,0,0,0,0.0,0.0,2,2,3,0.0,0.0,0.06,0.0
+2425,Juventus,Dušan Vlahović,SRB,Attaccante,24-212,2,2,0,1,1,1.7,0.0,1,1,6,1.0,0.0,0.85,0.0
+2425,Juventus,Federico Gatti,ITA,Difensore,26-064,2,0,0,0,0,0.0,0.0,0,1,1,0.0,0.0,0.0,0.01
+2425,Juventus,Gleison Bremer,BRA,Difensore,27-162,2,0,0,0,0,0.0,0.0,0,4,0,0.0,0.0,0.0,0.0
+2425,Juventus,Jonas Rouhi,SWE,Difensore,20-233,1,0,0,0,0,0.0,0.0,0,2,0,0.0,0.0,0.0,0.0
+2425,Juventus,Juan David Cabal,COL,Difensore,23-232,2,0,0,0,0,0.1,0.0,5,4,6,0.0,0.0,0.03,0.02
+2425,Juventus,Kenan Yıldız,TUR,,19-115,2,0,2,0,0,0.1,0.6,11,8,7,0.0,1.0,0.06,0.28
+2425,Juventus,Khéphren Thuram,FRA,Centrocampista,23-154,1,0,0,0,0,0.0,0.0,1,3,0,0.0,0.0,0.0,0.0
+2425,Juventus,Lorenzo Anghelè,ITA,Attaccante,19-183,1,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2425,Juventus,Manuel Locatelli,ITA,Centrocampista,26-232,2,0,0,0,0,0.0,0.0,1,11,1,0.0,0.0,0.01,0.02
+2425,Juventus,Michele Di Gregorio,ITA,Portiere,27-031,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Juventus,Nicolò Fagioli,ITA,Centrocampista,23-197,2,0,0,0,0,0.0,0.0,2,4,1,0.0,0.0,0.01,0.02
+2425,Juventus,Nicolò Savona,ITA,Difensore,21-161,2,1,0,1,0,0.1,0.0,2,4,3,0.74,0.0,0.11,0.0
+2425,Juventus,Pierre Kalulu,FRA,Difensore,24-083,1,0,0,0,0,0.0,0.0,0,0,2,0.0,0.0,0.0,0.0
+2425,Juventus,Samuel Mbangula,BEL,Attaccante,20-224,2,1,2,1,0,0.1,0.2,9,4,12,0.57,1.14,0.07,0.14
+2425,Juventus,Timothy Weah,USA,Attaccante,24-187,1,1,0,1,0,0.1,0.0,4,1,2,2.0,0.0,0.23,0.0
+2425,Lazio,Adam Marušić,MNE,Difensore,31-315,2,0,0,0,0,0.0,0.0,1,9,4,0.0,0.0,0.02,0.02
+2425,Lazio,Alessio Romagnoli,ITA,Difensore,29-228,2,0,0,0,0,0.1,0.0,1,4,0,0.0,0.0,0.05,0.0
+2425,Lazio,Boulaye Dia,SEN,Centrocampista,27-285,1,0,0,0,0,0.0,0.1,0,2,1,0.0,0.0,0.1,0.32
+2425,Lazio,Elseid Hysaj,ALB,Difensore,30-189,1,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2425,Lazio,Fisayo Dele-Bashiru,NGA,Centrocampista,23-203,2,0,0,0,0,0.1,0.0,3,3,11,0.0,0.0,0.05,0.02
+2425,Lazio,Gaetano Castrovilli,ITA,Centrocampista,27-192,1,0,0,0,0,0.0,0.7,1,1,0,0.0,0.0,0.0,15.47
+2425,Lazio,Gustav Isaksen,DEN,Attaccante,23-130,2,1,0,1,0,0.6,0.0,1,0,9,2.0,0.0,1.1,0.0
+2425,Lazio,Ivan Provedel,ITA,Portiere,30-163,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.02
+2425,Lazio,Loum Tchaouna,FRA,Attaccante,20-354,2,0,0,0,0,0.7,0.3,5,2,6,0.0,0.0,2.69,1.0
+2425,Lazio,Manuel Lazzari,ITA,Difensore,30-272,2,0,0,0,0,0.0,0.1,11,13,15,0.0,0.0,0.0,0.07
+2425,Lazio,Mattia Zaccagni,ITA,Attaccante,29-072,2,1,0,0,1,1.0,0.4,5,7,10,0.57,0.0,0.58,0.2
+2425,Lazio,Mattéo Guendouzi,FRA,Centrocampista,25-135,2,0,0,0,0,0.0,0.0,4,17,4,0.0,0.0,0.01,0.0
+2425,Lazio,Matías Vecino,URU,Centrocampista,33-003,2,0,0,0,0,0.2,0.0,0,2,0,0.0,0.0,0.14,0.02
+2425,Lazio,Nicolò Casale,ITA,Difensore,26-195,2,0,0,0,0,0.0,0.0,0,6,0,0.0,0.0,0.03,0.0
+2425,Lazio,Nicolò Rovella,ITA,Centrocampista,22-267,1,0,0,0,0,0.0,0.0,1,10,2,0.0,0.0,0.0,0.05
+2425,Lazio,Patric,ESP,Difensore,31-132,1,0,0,0,0,0.0,0.0,1,2,1,0.0,0.0,0.0,0.0
+2425,Lazio,Pedro,ESP,Attaccante,37-030,1,0,0,0,0,0.0,0.0,1,0,1,0.0,0.0,0.0,0.0
+2425,Lazio,Tijjani Noslin,NED,Attaccante,25-051,2,0,0,0,0,0.0,0.2,4,5,11,0.0,0.0,0.03,0.11
+2425,Lazio,Valentín Castellanos,ARG,Attaccante,25-329,2,1,0,1,0,1.0,0.0,5,3,12,0.51,0.0,0.49,0.0
+2425,Lecce,Antonino Gallo,ITA,Difensore,24-235,2,0,0,0,0,0.0,0.5,2,8,6,0.0,0.0,0.02,0.23
+2425,Lecce,Balthazar Pierret,FRA,Centrocampista,24-104,2,0,0,0,0,0.0,0.1,2,7,1,0.0,0.0,0.0,0.04
+2425,Lecce,Federico Baschirotto,ITA,Difensore,27-342,2,0,0,0,0,0.2,0.0,1,4,1,0.0,0.0,0.09,0.01
+2425,Lecce,Filip Marchwiński,POL,Centrocampista,22-230,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Lecce,Gaspar,ANG,Difensore,26-335,2,0,0,0,0,0.1,0.0,1,2,0,0.0,0.0,0.03,0.0
+2425,Lecce,Hamza Rafia,TUN,Centrocampista,25-147,2,0,0,0,0,0.1,0.5,2,9,9,0.0,0.0,0.06,0.3
+2425,Lecce,Lameck Banda,ZAM,Attaccante,23-211,2,0,0,0,0,0.3,0.1,2,2,10,0.0,0.0,0.27,0.05
+2425,Lecce,Lassana Coulibaly,MLI,Centrocampista,28-139,2,0,0,0,0,0.0,0.3,1,2,1,0.0,0.0,0.0,0.53
+2425,Lecce,Medon Berisha,ALB,Attaccante,20-311,2,0,0,0,0,0.1,0.0,1,2,2,0.0,0.0,0.34,0.0
+2425,Lecce,Nikola Krstović,MNE,Attaccante,24-144,2,0,0,0,0,0.4,0.0,1,5,5,0.0,0.0,0.26,0.0
+2425,Lecce,Patrick Dorgu,DEN,Attaccante,19-306,2,0,0,0,0,0.3,0.1,6,1,9,0.0,0.0,0.13,0.03
+2425,Lecce,Santiago Pierotti,ARG,Attaccante,23-146,2,0,0,0,0,0.1,0.0,1,0,3,0.0,0.0,0.16,0.09
+2425,Lecce,Tete Morente,ESP,Attaccante,27-267,2,0,0,0,0,0.0,0.0,3,4,6,0.0,0.0,0.0,0.0
+2425,Lecce,Valentin Gendrey,FRA,Difensore,24-067,2,0,0,0,0,0.2,0.1,7,5,4,0.0,0.0,0.09,0.05
+2425,Lecce,Wladimiro Falcone,ITA,Portiere,29-137,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Lecce,Ylber Ramadani,ALB,Centrocampista,28-137,2,0,0,0,0,0.1,0.0,2,7,1,0.0,0.0,0.07,0.02
+2425,Milan,Alexis Saelemaekers,BEL,,25-061,1,0,0,0,0,0.0,0.1,7,4,13,0.0,0.0,0.0,0.06
+2425,Milan,Christian Pulisic,USA,Attaccante,25-344,2,1,0,1,0,1.4,0.4,13,6,17,0.57,0.0,0.8,0.21
+2425,Milan,Davide Calabria,ITA,Difensore,27-265,2,0,0,0,0,0.0,0.2,5,16,10,0.0,0.0,0.0,0.11
+2425,Milan,Emerson,BRA,Difensore,25-226,1,0,0,0,0,0.0,0.0,1,2,2,0.0,0.0,0.0,0.0
+2425,Milan,Fikayo Tomori,ENG,Difensore,26-252,2,0,0,0,0,0.0,0.0,2,9,0,0.0,0.0,0.01,0.01
+2425,Milan,Ismaël Bennacer,ALG,Centrocampista,26-270,1,0,0,0,0,0.0,0.1,0,4,0,0.0,0.0,0.0,0.14
+2425,Milan,Luka Jović,SRB,Attaccante,26-248,2,0,0,0,0,0.1,0.1,1,3,6,0.0,0.0,0.1,0.07
+2425,Milan,Malick Thiaw,GER,Difensore,23-019,1,0,0,0,0,0.1,0.0,0,7,0,0.0,0.0,0.09,0.0
+2425,Milan,Mike Maignan,FRA,Portiere,29-055,2,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2425,Milan,Noah Okafor,SUI,Attaccante,24-095,2,1,0,1,0,0.6,0.0,1,1,6,0.97,0.0,0.59,0.0
+2425,Milan,Rafael Leão,POR,Attaccante,25-078,2,0,1,0,0,1.2,1.2,15,14,33,0.0,0.5,0.58,0.6
+2425,Milan,Ruben Loftus-Cheek,ENG,Centrocampista,28-217,2,0,0,0,0,0.0,0.5,5,14,11,0.0,0.0,0.0,0.26
+2425,Milan,Samuel Chukwueze,NGA,Attaccante,25-097,2,0,0,0,0,0.1,0.0,1,0,11,0.0,0.0,0.13,0.04
+2425,Milan,Strahinja Pavlović,SRB,Difensore,23-095,1,0,0,0,0,0.2,0.0,2,11,1,0.0,0.0,0.21,0.0
+2425,Milan,Theo Hernández,FRA,Difensore,26-326,2,0,0,0,0,0.1,0.1,6,15,12,0.0,0.0,0.09,0.06
+2425,Milan,Tijjani Reijnders,NED,Centrocampista,26-029,2,0,0,0,0,0.1,0.2,6,11,6,0.0,0.0,0.08,0.13
+2425,Milan,Youssouf Fofana,FRA,Centrocampista,25-230,1,0,0,0,0,0.0,0.0,1,5,0,0.0,0.0,0.0,0.0
+2425,Milan,Yunus Musah,USA,Centrocampista,21-272,2,0,1,0,0,0.2,0.3,5,10,2,0.0,1.07,0.18,0.31
+2425,Milan,Álvaro Morata,ESP,Attaccante,31-309,1,1,0,1,0,0.1,0.0,1,1,3,2.9,0.0,0.24,0.13
+2425,Monza,Andrea Petagna,ITA,Attaccante,29-058,2,0,0,0,0,0.2,0.0,2,1,7,0.0,0.0,0.1,0.0
+2425,Monza,Armando Izzo,ITA,Difensore,32-178,2,0,0,0,0,0.0,0.1,1,6,0,0.0,0.0,0.01,0.05
+2425,Monza,Daniel Maldini,ITA,Centrocampista,22-321,2,0,0,0,0,0.1,0.0,1,6,4,0.0,0.0,0.07,0.0
+2425,Monza,Dany Mota,POR,Centrocampista,26-117,2,0,0,0,0,0.0,0.0,6,3,7,0.0,0.0,0.0,0.04
+2425,Monza,Gianluca Caprari,ITA,Centrocampista,31-028,2,0,0,0,0,0.0,0.1,2,2,9,0.0,0.0,0.0,0.24
+2425,Monza,Giorgos Kyriakopoulos,GRE,Difensore,28-204,2,0,0,0,0,0.1,0.1,3,13,8,0.0,0.0,0.03,0.07
+2425,Monza,Luca Caldirola,ITA,Difensore,33-208,2,0,0,0,0,0.2,0.0,1,6,2,0.0,0.0,0.09,0.0
+2425,Monza,Matteo Pessina,ITA,Centrocampista,27-128,2,0,0,0,0,0.0,0.0,0,5,4,0.0,0.0,0.0,0.0
+2425,Monza,Milan Đurić,BIH,Attaccante,34-097,1,0,0,0,0,0.0,0.0,0,0,3,0.0,0.0,0.11,0.0
+2425,Monza,Pablo Marí,ESP,Difensore,30-362,2,0,0,0,0,0.2,0.1,0,8,0,0.0,0.0,0.08,0.03
+2425,Monza,Pedro Pereira,POR,Difensore,26-218,1,0,0,0,0,0.0,0.0,0,1,1,0.0,0.0,0.0,0.0
+2425,Monza,Roberto Gagliardini,ITA,,30-142,2,0,0,0,0,0.0,0.2,2,6,2,0.0,0.0,0.0,0.25
+2425,Monza,Samuele Birindelli,ITA,Difensore,25-039,2,0,0,0,0,0.0,0.0,0,5,9,0.0,0.0,0.02,0.02
+2425,Monza,Samuele Vignato,ITA,Centrocampista,20-185,2,0,0,0,0,0.0,0.0,0,1,9,0.0,0.0,0.04,0.0
+2425,Monza,Semuel Pizzignacco,ITA,Portiere,22-361,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Monza,Warren Bondo,FRA,Centrocampista,20-347,2,0,0,0,0,0.0,0.0,3,4,2,0.0,0.0,0.0,0.02
+2425,Napoli,Alessandro Buongiorno,ITA,Difensore,25-082,1,0,0,0,0,0.0,0.0,1,3,1,0.0,0.0,0.0,0.0
+2425,Napoli,Alex Meret,ITA,Portiere,27-158,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Napoli,Amir Rrahmani,KVX,Difensore,30-185,2,0,1,0,0,0.2,0.1,1,8,0,0.0,0.5,0.08,0.07
+2425,Napoli,Andre-Frank Zambo Anguissa,CMR,Centrocampista,28-285,2,0,0,0,0,0.3,0.0,2,11,4,0.0,0.0,0.13,0.02
+2425,Napoli,Cyril Ngonge,BEL,Difensore,24-093,1,0,0,0,0,0.1,0.0,1,2,7,0.0,0.0,0.41,0.0
+2425,Napoli,David Neres,BRA,Centrocampista,27-177,1,0,1,0,0,0.0,0.6,1,1,1,0.0,30.0,0.0,18.12
+2425,Napoli,Giacomo Raspadori,ITA,Attaccante,24-191,2,0,0,0,0,0.3,0.2,2,7,7,0.0,0.0,0.23,0.11
+2425,Napoli,Giovanni Di Lorenzo,ITA,Difensore,31-023,2,1,0,1,0,0.8,0.3,3,14,8,0.5,0.0,0.39,0.17
+2425,Napoli,Giovanni Simeone,ARG,Attaccante,29-053,2,1,0,1,0,0.6,0.0,1,2,8,1.06,0.0,0.64,0.04
+2425,Napoli,Juan Jesus,BRA,Difensore,33-078,1,0,0,0,0,0.1,0.0,2,7,2,0.0,0.0,0.12,0.0
+2425,Napoli,Khvicha Kvaratskhelia,GEO,Centrocampista,23-197,2,1,1,1,0,0.3,0.9,9,4,7,0.67,0.67,0.17,0.59
+2425,Napoli,Leonardo Spinazzola,ITA,Difensore,31-155,2,0,0,0,0,0.0,0.0,2,1,2,0.0,0.0,0.05,0.0
+2425,Napoli,Mathías Olivera,URU,Difensore,26-301,2,0,0,0,0,0.0,0.4,1,1,4,0.0,0.0,0.0,0.25
+2425,Napoli,Matteo Politano,ITA,Centrocampista,31-024,2,0,0,0,0,0.6,0.4,7,9,18,0.0,0.0,0.3,0.18
+2425,Napoli,Pasquale Mazzocchi,ITA,Difensore,29-031,2,0,0,0,0,0.1,0.1,6,5,11,0.0,0.0,0.05,0.06
+2425,Napoli,Stanislav Lobotka,SVK,Centrocampista,29-276,2,0,0,0,0,0.2,0.0,3,7,1,0.0,0.0,0.08,0.01
+2425,Napoli,Walid Cheddira,MAR,Attaccante,26-218,1,0,0,0,0,0.0,0.0,0,1,1,0.0,0.0,0.0,0.2
+2425,Parma,Adrian Bernabe,ESP,Centrocampista,23-093,2,0,0,0,0,0.0,0.0,2,4,2,0.0,0.0,0.01,0.01
+2425,Parma,Alessandro Circati,AUS,Difensore,20-322,2,0,0,0,0,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0
+2425,Parma,Ange-Yoan Bonny,FRA,Attaccante,20-307,2,0,1,0,0,0.2,0.5,1,5,8,0.0,0.58,0.1,0.31
+2425,Parma,Antoine Hainaut,FRA,Attaccante,22-191,1,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2425,Parma,Botond Balogh,HUN,Difensore,22-082,2,0,0,0,0,0.0,0.0,1,2,0,0.0,0.0,0.0,0.0
+2425,Parma,Dennis Man,ROU,Attaccante,26-001,2,2,0,2,0,0.8,0.6,2,2,10,1.31,0.0,0.53,0.43
+2425,Parma,Drissa Camara,CIV,Attaccante,22-191,1,0,0,0,0,0.0,0.0,1,2,0,0.0,0.0,0.06,0.0
+2425,Parma,Emanuele Valeri,ITA,Difensore,25-264,2,0,1,0,0,0.0,0.5,3,3,5,0.0,0.5,0.0,0.23
+2425,Parma,Enrico Del Prato,ITA,,24-291,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Parma,Matteo Cancellieri,ITA,,22-197,2,1,0,1,0,0.6,0.0,3,3,6,1.91,0.0,1.22,0.03
+2425,Parma,Nahuel Estévez,ARG,Centrocampista,28-287,2,0,0,0,0,0.0,0.0,0,4,0,0.0,0.0,0.02,0.02
+2425,Parma,Pontus Almqvist,SWE,Attaccante,25-048,2,0,1,0,0,0.0,0.8,2,1,1,0.0,2.09,0.09,1.74
+2425,Parma,Simon Sohm,SUI,Centrocampista,23-138,2,0,0,0,0,0.6,0.0,1,6,2,0.0,0.0,0.39,0.0
+2425,Parma,Valentin Mihaila,ROU,Attaccante,24-207,2,0,0,0,0,1.0,0.1,6,4,8,0.0,0.0,0.71,0.05
+2425,Parma,Woyo Coulibaly,FRA,,25-099,2,0,0,0,0,0.0,0.0,8,7,4,0.0,0.0,0.0,0.02
+2425,Parma,Wylan Cyprien,FRA,Centrocampista,29-212,2,0,0,0,0,0.2,0.0,1,2,0,0.0,0.0,0.63,0.0
+2425,Parma,Zion Suzuki,JPN,Portiere,22-006,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Roma,Angeliño,ESP,Difensore,27-236,2,0,0,0,0,0.0,0.1,4,25,5,0.0,0.0,0.02,0.03
+2425,Roma,Artem Dovbyk,UKR,Attaccante,27-067,2,0,0,0,0,1.0,0.1,1,0,8,0.0,0.0,0.52,0.03
+2425,Roma,Bryan Cristante,ITA,Centrocampista,29-177,2,0,0,0,0,0.0,0.1,2,13,3,0.0,0.0,0.01,0.05
+2425,Roma,Eldor Shomurodov,UZB,Difensore,29-059,1,1,0,1,0,0.6,0.0,1,1,4,6.43,0.0,3.72,0.21
+2425,Roma,Enzo Le Fée,FRA,Centrocampista,24-206,2,0,0,0,0,0.2,0.1,3,5,1,0.0,0.0,0.18,0.1
+2425,Roma,Gianluca Mancini,ITA,Difensore,28-132,2,0,0,0,0,0.1,0.1,6,10,2,0.0,0.0,0.04,0.03
+2425,Roma,Leandro Paredes,ARG,Centrocampista,30-059,1,0,0,0,0,0.0,0.0,0,3,0,0.0,0.0,0.06,0.02
+2425,Roma,Lorenzo Pellegrini,ITA,Centrocampista,28-069,2,0,0,0,0,0.4,0.2,1,4,10,0.0,0.0,0.21,0.08
+2425,Roma,Matìas Soulé,ARG,Attaccante,21-134,2,0,0,0,0,0.1,0.1,10,8,24,0.0,0.0,0.06,0.04
+2425,Roma,Mile Svilar,SRB,Portiere,25-000,2,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.02,0.0
+2425,Roma,Nicola Zalewski,POL,,22-217,2,0,0,0,0,0.1,0.6,10,4,18,0.0,0.0,0.07,0.49
+2425,Roma,Obite N'Dicka,CIV,Difensore,25-007,2,0,0,0,0,0.0,0.0,4,8,1,0.0,0.0,0.0,0.0
+2425,Roma,Paulo Dybala,ARG,,30-286,2,0,0,0,0,0.2,0.7,2,4,10,0.0,0.0,0.18,0.56
+2425,Roma,Stephan El Shaarawy,ITA,Attaccante,31-305,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,3.63,0.0
+2425,Roma,Tammy Abraham,ENG,Attaccante,26-330,1,0,0,0,0,0.0,0.0,0,1,2,0.0,0.0,0.0,0.0
+2425,Roma,Tommaso Baldanzi,ITA,Centrocampista,21-157,2,0,1,0,0,0.2,0.1,5,1,5,0.0,1.55,0.35,0.13
+2425,Roma,Zeki Çelik,TUR,Difensore,27-192,2,0,0,0,0,0.0,0.0,4,10,5,0.0,0.0,0.02,0.0
+2425,Torino,Aaron Ciammaglichella,ITA,Centrocampista,19-214,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Torino,Adam Masina,MAR,Difensore,30-238,2,0,0,0,0,0.0,0.0,1,0,0,0.0,0.0,0.0,0.0
+2425,Torino,Adrien Tameze,CMR,,30-205,2,0,0,0,0,0.0,0.3,0,1,2,0.0,0.0,0.0,0.29
+2425,Torino,Ali Dembélé,FRA,Difensore,20-235,2,0,0,0,0,0.0,0.0,1,1,0,0.0,0.0,0.0,0.0
+2425,Torino,Antonio Sanabria,PAR,Attaccante,28-176,1,0,0,0,0,0.0,0.0,0,1,2,0.0,0.0,0.0,0.07
+2425,Torino,Borna Sosa,CRO,Difensore,26-219,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Torino,Che Adams,SCO,Attaccante,28-045,2,1,1,1,0,0.9,0.6,2,4,6,0.75,0.75,0.67,0.46
+2425,Torino,Duván Zapata,COL,Attaccante,33-148,2,1,0,1,0,1.7,0.2,2,1,6,0.56,0.0,0.95,0.13
+2425,Torino,Ivan Ilić,SRB,Centrocampista,23-163,2,1,0,1,0,0.6,0.2,4,4,8,0.56,0.0,0.35,0.14
+2425,Torino,Karol Linetty,POL,Centrocampista,29-207,2,0,0,0,0,0.0,0.0,3,1,0,0.0,0.0,0.0,0.01
+2425,Torino,Mërgim Vojvoda,KVX,Difensore,29-208,2,0,0,0,0,0.0,0.0,0,7,1,0.0,0.0,0.01,0.0
+2425,Torino,Raoul Bellanova,ITA,Difensore,24-102,1,0,0,0,0,0.0,0.1,4,0,5,0.0,0.0,0.03,0.07
+2425,Torino,Saba Sazonov,GEO,Difensore,22-208,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Torino,Samuele Ricci,ITA,Centrocampista,23-006,2,0,0,0,0,0.0,0.0,0,3,0,0.0,0.0,0.01,0.01
+2425,Torino,Saúl Coco,EQG,Difensore,25-200,2,0,0,0,0,0.0,0.0,0,4,0,0.0,0.0,0.0,0.0
+2425,Torino,Valentino Lazaro,AUT,Difensore,28-156,2,0,1,0,0,0.3,0.8,3,5,3,0.0,0.51,0.16,0.42
+2425,Torino,Vanja Milinković-Savić,SRB,Portiere,27-189,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Torino,Yann Karamoh,FRA,Attaccante,26-050,2,0,0,0,0,0.0,0.2,1,2,1,0.0,0.0,0.0,0.81
+2425,Udinese,Brenner,BRA,Centrocampista,24-224,2,0,1,0,0,0.2,0.1,1,0,3,0.0,0.62,0.13,0.06
+2425,Udinese,Christian Kabasele,BEL,Difensore,33-185,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Udinese,Florian Thauvin,FRA,Centrocampista,31-214,2,1,1,1,0,1.1,0.2,4,4,9,0.6,0.6,0.68,0.15
+2425,Udinese,Hassane Kamara,CIV,Difensore,30-175,2,0,0,0,0,0.0,0.0,0,1,3,0.0,0.0,0.0,0.0
+2425,Udinese,Jaka Bijol,SVN,Difensore,25-204,2,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2425,Udinese,Jesper Karlström,SWE,Centrocampista,29-067,2,0,0,0,0,0.0,0.2,1,3,1,0.0,0.0,0.0,0.15
+2425,Udinese,Jordan Zemura,ZIM,Difensore,24-287,1,0,0,0,0,0.0,0.0,1,0,0,0.0,0.0,0.12,0.0
+2425,Udinese,Jurgen Ekkelenkamp,NED,Centrocampista,24-144,2,0,0,0,0,0.0,0.0,0,0,1,0.0,0.0,0.0,0.0
+2425,Udinese,Keinan Davis,ENG,Attaccante,26-196,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Udinese,Kingsley Ehizibue,NED,Difensore,29-094,2,0,0,0,0,0.0,0.0,5,2,6,0.0,0.0,0.02,0.0
+2425,Udinese,Lautaro Gianetti,ARG,Difensore,30-288,2,1,0,1,0,0.1,0.0,0,4,0,0.55,0.0,0.04,0.0
+2425,Udinese,Lorenzo Lucca,ITA,Attaccante,23-352,2,1,0,1,0,0.2,0.0,0,1,6,0.52,0.0,0.12,0.02
+2425,Udinese,Maduka Okoye,NGA,Portiere,24-365,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Udinese,Martín Payero,ARG,Centrocampista,25-351,2,0,0,0,0,0.1,0.0,1,10,1,0.0,0.0,0.08,0.0
+2425,Udinese,Nehuén Pérez,ARG,Difensore,24-064,2,0,0,0,0,0.0,0.0,2,4,2,0.0,0.0,0.0,0.0
+2425,Udinese,Oier Zarraga,ESP,Centrocampista,25-236,1,0,0,0,0,0.0,0.0,0,0,2,0.0,0.0,0.0,0.0
+2425,Udinese,Sandi Lovrić,SVN,Centrocampista,26-152,2,0,0,0,0,0.0,0.0,1,4,0,0.0,0.0,0.03,0.0
+2425,Venezia,Alfred Duncan,GHA,Centrocampista,31-170,2,0,0,0,0,0.0,0.1,1,4,3,0.0,0.0,0.01,0.07
+2425,Venezia,Antonio Candela,ITA,Difensore,24-122,1,0,0,0,0,0.0,0.0,1,2,3,0.0,0.0,0.0,0.0
+2425,Venezia,Antonio Raimondo,ITA,Attaccante,20-162,2,0,0,0,0,0.3,0.0,2,0,5,0.0,0.0,0.58,0.0
+2425,Venezia,Christian Gytkjær,DEN,Attaccante,34-113,2,0,0,0,0,0.0,0.0,0,0,5,0.0,0.0,0.02,0.02
+2425,Venezia,Domen Črnigoj,SVN,Centrocampista,28-283,1,0,0,0,0,0.0,0.0,2,1,1,0.0,0.0,0.0,0.0
+2425,Venezia,Francesco Zampano,ITA,Difensore,30-332,2,0,0,0,0,0.1,0.0,5,1,5,0.0,0.0,0.03,0.0
+2425,Venezia,Gaetano Oristanio,ITA,Centrocampista,21-334,2,0,0,0,0,0.0,0.0,0,1,1,0.0,0.0,0.0,0.03
+2425,Venezia,Giorgio Altare,ITA,Difensore,26-018,2,0,0,0,0,0.2,0.0,2,4,2,0.0,0.0,0.08,0.0
+2425,Venezia,Hans Nicolussi Caviglia,ITA,Centrocampista,24-070,1,0,0,0,0,0.0,0.0,0,1,0,0.0,0.0,0.0,0.0
+2425,Venezia,Issa Doumbia,CIV,Centrocampista,20-316,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Venezia,Jay Idzes,IDN,Difensore,24-086,1,0,0,0,0,0.1,0.0,1,2,0,0.0,0.0,0.15,0.0
+2425,Venezia,Jesse Joronen,FIN,Portiere,31-159,2,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Venezia,Magnus Kofod Andersen,DEN,Centrocampista,25-109,2,1,0,1,0,0.1,0.1,1,5,2,0.59,0.0,0.04,0.03
+2425,Venezia,Marin Šverko,CRO,Difensore,26-205,2,0,0,0,0,0.0,0.0,3,7,0,0.0,0.0,0.0,0.0
+2425,Venezia,Michael Svoboda,AUT,Difensore,25-317,2,0,0,0,0,0.0,0.3,2,4,0,0.0,0.0,0.03,0.28
+2425,Venezia,Mikael Ellertsson,ISL,Centrocampista,22-169,2,0,1,0,0,0.0,0.2,3,2,4,0.0,0.58,0.02,0.13
+2425,Venezia,Nicholas Pierini,ITA,Centrocampista,26-021,2,0,0,0,0,0.0,0.1,1,2,4,0.0,0.0,0.04,0.1
+2425,Venezia,Nunzio Lella,ITA,Centrocampista,24-030,1,0,0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+2425,Venezia,Richie Sagrado,BEL,Difensore,20-210,1,0,0,0,0,0.1,0.0,0,0,0,0.0,0.0,0.09,0.0
+2425,Venezia,Ridgeciano Haps,SUR,Difensore,31-076,1,0,0,0,0,0.3,0.0,1,1,2,0.0,0.0,0.77,0.0

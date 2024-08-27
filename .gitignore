@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# React
+build/
+dist/
+.cache/
+public/
+
+# FastAPI
+__pycache__/
+.env
+.env.local
+.env.*.local
+.env.*.production
+.env.production
+.env.test
+.env.development.local
+.env.test.local
+.pytest_cache/
+migrations/

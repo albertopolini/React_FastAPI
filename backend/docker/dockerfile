@@ -1,0 +1,29 @@
+# Use the official Python base image
+FROM python:3.9-slim
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Copy the requirements.txt file to the container
+COPY requirements.txt .
+
+# Install the required libraries
+RUN pip install -r requirements.txt
+
+# Copy the rest of the application code to the container
+# COPY . .
+
+# Expose the port that the FastAPI application will run on
+EXPOSE 8000
+
+# Start the FastAPI application
+# CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+
+
+
+# docker run -it ^
+# --name backend_dev_fastapi ^
+# -v "C:\Users\polin\OneDrive - Devnut\Documenti\Progetti\4.Tutorials\3.React\React_FastAPI\backend\src":/app/src ^
+# backend_fast_api# ```
+
+# ```

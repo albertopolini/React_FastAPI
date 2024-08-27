@@ -1,0 +1,91 @@
+managers:
+  Alberto:
+    Crediti: 450
+    MassimoRilancio: 448
+    Rosa:
+      Attaccanti:
+      - Retegui:
+          Price: 10
+      - Vlahovic:
+          Price: 10
+      - Lautaro:
+          Price: 10
+      Centrocampisti:
+      - Zaniolo:
+          Price: 10
+      Difensori: []
+      Portieri:
+      - Buffon:
+          Price: 10
+  Antonio:
+    Crediti: 500
+    MassimoRilancio: 476
+    Rosa:
+      Attaccanti: []
+      Centrocampisti: []
+      Difensori: []
+      Portieri: []
+  Cris:
+    Crediti: 500
+    MassimoRilancio: 476
+    Rosa:
+      Attaccanti: []
+      Centrocampisti: []
+      Difensori: []
+      Portieri: []
+  Danilo:
+    Crediti: 500
+    MassimoRilancio: 476
+    Rosa:
+      Attaccanti: []
+      Centrocampisti: []
+      Difensori: []
+      Portieri: []
+  Lorenzo:
+    Crediti: 500
+    MassimoRilancio: 476
+    Rosa:
+      Attaccanti: []
+      Centrocampisti: []
+      Difensori: []
+      Portieri: []
+  Manu:
+    Crediti: 500
+    MassimoRilancio: 476
+    Rosa:
+      Attaccanti: []
+      Centrocampisti: []
+      Difensori: []
+      Portieri: []
+  Orazio:
+    Crediti: 500
+    MassimoRilancio: 476
+    Rosa:
+      Attaccanti: []
+      Centrocampisti: []
+      Difensori: []
+      Portieri: []
+  Robi:
+    Crediti: 500
+    MassimoRilancio: 476
+    Rosa:
+      Attaccanti: []
+      Centrocampisti: []
+      Difensori: []
+      Portieri: []
+  Simone:
+    Crediti: 500
+    MassimoRilancio: 476
+    Rosa:
+      Attaccanti: []
+      Centrocampisti: []
+      Difensori: []
+      Portieri: []
+  Vigani:
+    Crediti: 500
+    MassimoRilancio: 476
+    Rosa:
+      Attaccanti: []
+      Centrocampisti: []
+      Difensori: []
+      Portieri: []
