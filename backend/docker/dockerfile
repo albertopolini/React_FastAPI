@@ -2,10 +2,10 @@
 FROM python:3.9-slim
 
 # Set the working directory in the container
-WORKDIR /app
+WORKDIR /app/src/App
 
 # Copy the requirements.txt file to the container
-COPY requirements.txt .
+COPY docker/requirements.txt .
 
 # Install the required libraries
 RUN pip install -r requirements.txt
@@ -16,8 +16,9 @@ RUN pip install -r requirements.txt
 # Expose the port that the FastAPI application will run on
 EXPOSE 8000
 
+
 # Start the FastAPI application
-# CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]
 
 
 

@@ -2,8 +2,8 @@ fastapi
 langchain
 numpy
 pandas
-transformers
-torch
+# transformers
+# torch
 uvicorn
 lxml
 soccerdata

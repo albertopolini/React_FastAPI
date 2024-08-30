@@ -1,5 +1,6 @@
 managers:
-  Alberto:
+  1:
+    teamName: Alberto
     Crediti: 500
     Slot_Rimanenti: 25
     MassimoRilancio: 476
@@ -8,7 +9,8 @@ managers:
       Difensori: []
       Centrocampisti: []
       Attaccanti: []
-  Antonio:
+  2:
+    teamName: Antonio
     Crediti: 500
     Slot_Rimanenti: 25
     MassimoRilancio: 476
@@ -17,7 +19,8 @@ managers:
       Difensori: []
       Centrocampisti: []
       Attaccanti: []
-  Simone:
+  3:
+    teamName: Simone
     Crediti: 500
     Slot_Rimanenti: 25
     MassimoRilancio: 476
@@ -26,7 +29,8 @@ managers:
       Difensori: []
       Centrocampisti: []
       Attaccanti: []
-  Danilo:
+  4:
+    teamName: Danilo
     Crediti: 500
     Slot_Rimanenti: 25
     MassimoRilancio: 476
@@ -35,7 +39,8 @@ managers:
       Difensori: []
       Centrocampisti: []
       Attaccanti: []
-  Orazio:
+  5:
+    teamName: Orazio
     Crediti: 500
     Slot_Rimanenti: 25
     MassimoRilancio: 476
@@ -44,7 +49,8 @@ managers:
       Difensori: []
       Centrocampisti: []
       Attaccanti: []
-  Vigani:
+  6:
+    teamName: Vigani
     Crediti: 500
     Slot_Rimanenti: 25
     MassimoRilancio: 476
@@ -53,7 +59,8 @@ managers:
       Difensori: []
       Centrocampisti: []
       Attaccanti: []
-  Lorenzo:
+  7:
+    teamName: Lorenzo
     Crediti: 500
     Slot_Rimanenti: 25
     MassimoRilancio: 476
@@ -62,7 +69,8 @@ managers:
       Difensori: []
       Centrocampisti: []
       Attaccanti: []
-  Robi:
+  8:
+    teamName: Robi
     Crediti: 500
     Slot_Rimanenti: 25
     MassimoRilancio: 476
@@ -71,7 +79,8 @@ managers:
       Difensori: []
       Centrocampisti: []
       Attaccanti: []
-  Manu:
+  9:
+    teamName: Manu
     Crediti: 500
     Slot_Rimanenti: 25
     MassimoRilancio: 476
@@ -80,7 +89,8 @@ managers:
       Difensori: []
       Centrocampisti: []
       Attaccanti: []
-  Cris:
+  10:
+    teamName: Cris
     Crediti: 500
     Slot_Rimanenti: 25
     MassimoRilancio: 476

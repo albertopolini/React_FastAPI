@@ -1,0 +1,22 @@
+export interface playerStats {
+    Season: number,
+    Team: string,
+    Player: string,
+    Nationality: string,
+    Role: string,
+    Age: number,
+    Presences: number,
+    Gol: number,
+    Assist: number,
+    Penalty_Goal: number,
+    Penalty_Attempt: number,
+    Expected_Goals: number,
+    Expected_Assists: number,
+    Progressive_Carries: number,
+    Progressive_Passes: number,
+    Progressive_Receptions: number,
+    Goals_per_90_minutes:number,
+    Assists_per_90_minutes:number,
+    Expected_Goals_per_90_minutes:number,
+    Expected_Assists_per_90_minutes:number
+}

@@ -1,22 +1,23 @@
-# Usa l'immagine di Node.js come base
-FROM node:latest
+# Usa l'immagine base di Node.js
+FROM node:20-alpine
 
 # Imposta la directory di lavoro all'interno del container
-WORKDIR /app
+WORKDIR /home/src/webapp
 
+# Installa le dipendenze globali necessarie (come create-react-app se necessario)
+RUN npm install -g create-react-app
 
-# Installa le dipendenze
-# RUN npm install
-# RUN npm install react react-router vite tailwindcss
-
-# Copia il resto del codice nell'immagine
-COPY package.json .
-
-# Esegui il comando di build per il frontend
-RUN npm install
-
-# Espone la porta 3000 per il server web
+# Espone la porta su cui gira l'applicazione React
 EXPOSE 3000
 
-# Comando di avvio del server web
-# CMD ["npm", "start"]
+# RUN cd src/webapp
+
+# Comando predefinito (puoi cambiarlo o commentarlo se preferisci usare npm start)
+CMD ["npm", "run", "dev"]
+
+
+# CREATE IMAGE
+# docker build -t frontend_react_dev_fastapi .
+
+# CREATE INSTANCE
+# docker run -it --name frontend_dev_fastapi -p 3000:3000 -v "C:\Users\polin\OneDrive - Devnut\Documenti\Progetti\4.Tutorials\3.React\React_FastAPI\frontend\src":/home/src frontend_react_dev_fastapi

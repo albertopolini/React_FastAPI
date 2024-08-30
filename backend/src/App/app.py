@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
 import uvicorn
 import json
@@ -20,23 +21,26 @@ if REFRESH_DATA:
     get_player_stats(columns=player_columns)
 
 app = FastAPI()
-
-
-@app.get("/")
-def read_root():
-    return {"Hello": "World"}
+app.add_middleware(
+    CORSMiddleware,
+    allow_credentials=True,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 
 @app.get("/team_stats")
-def get_stats():
+def get_competition_stats():
     team_stats = pd.read_csv("Data/seriea/teams.csv")
     team_stats = team_stats.to_json(orient='records')
     return json.loads(team_stats)
 
 
 @app.get("/player_stats")
-def get_stats():
+def get_player_stats_stats():
     player_stats = pd.read_csv("Data/seriea/players.csv")
+    player_stats.columns = [col.replace(" ","_") for col in player_stats.columns]
     player_stats = player_stats.to_json(orient='records')
     return json.loads(player_stats)
 

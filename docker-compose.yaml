@@ -1,0 +1,30 @@
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: /docker/dockerfile
+    ports:
+      - 3000:3000
+      - 5173:5173
+    volumes:
+      - ./frontend/src:/home/src
+    depends_on:
+      - backend
+    networks:
+      - app-network
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: /docker/dockerfile
+    ports:
+      - 8000:8000
+    volumes:
+      - ./backend/src:/app/src
+    networks:
+      - app-network
+
+networks:
+      app-network:
+        driver: bridge
+

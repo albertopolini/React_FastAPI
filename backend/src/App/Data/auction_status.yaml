@@ -1,91 +1,359 @@
 managers:
-  Alberto:
-    Crediti: 450
-    MassimoRilancio: 448
-    Rosa:
-      Attaccanti:
-      - Retegui:
-          Price: 10
-      - Vlahovic:
-          Price: 10
-      - Lautaro:
-          Price: 10
-      Centrocampisti:
-      - Zaniolo:
-          Price: 10
-      Difensori: []
-      Portieri:
-      - Buffon:
-          Price: 10
-  Antonio:
-    Crediti: 500
-    MassimoRilancio: 476
-    Rosa:
-      Attaccanti: []
-      Centrocampisti: []
-      Difensori: []
-      Portieri: []
-  Cris:
-    Crediti: 500
-    MassimoRilancio: 476
-    Rosa:
-      Attaccanti: []
-      Centrocampisti: []
-      Difensori: []
-      Portieri: []
-  Danilo:
-    Crediti: 500
-    MassimoRilancio: 476
-    Rosa:
-      Attaccanti: []
-      Centrocampisti: []
-      Difensori: []
-      Portieri: []
-  Lorenzo:
-    Crediti: 500
-    MassimoRilancio: 476
-    Rosa:
-      Attaccanti: []
-      Centrocampisti: []
-      Difensori: []
-      Portieri: []
-  Manu:
-    Crediti: 500
-    MassimoRilancio: 476
-    Rosa:
-      Attaccanti: []
-      Centrocampisti: []
-      Difensori: []
-      Portieri: []
-  Orazio:
-    Crediti: 500
-    MassimoRilancio: 476
-    Rosa:
-      Attaccanti: []
-      Centrocampisti: []
-      Difensori: []
-      Portieri: []
-  Robi:
-    Crediti: 500
-    MassimoRilancio: 476
-    Rosa:
-      Attaccanti: []
-      Centrocampisti: []
-      Difensori: []
-      Portieri: []
-  Simone:
-    Crediti: 500
-    MassimoRilancio: 476
-    Rosa:
-      Attaccanti: []
-      Centrocampisti: []
-      Difensori: []
-      Portieri: []
-  Vigani:
-    Crediti: 500
-    MassimoRilancio: 476
-    Rosa:
-      Attaccanti: []
-      Centrocampisti: []
-      Difensori: []
-      Portieri: []
+    - teamName: Alberto
+      Crediti: 500
+      Slot_Rimanenti: 25
+      MassimoRilancio: 476
+      Rosa:
+        Portieri: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        
+        Difensori: 
+          - playerName: Chiellini
+            price: 20
+          - playerName: Bonucci
+            price: 20
+          - playerName: De Vrij
+            price: 20
+          - playerName: Skriniar
+            price: 20
+          - playerName: Acerbi
+            price: 20
+          - playerName: Bastoni
+            price: 20
+          - playerName: Gosens
+            price: 20
+          - playerName: Hernandez
+            price: 20
+          
+        Centrocampisti: 
+          - playerName: De Paul
+            price: 20
+          - playerName: Barella
+            price: 20
+          - playerName: Luis Alberto
+            price: 20
+          - playerName: Milinkovic-Savic
+            price: 20
+          - playerName: Pellegrini
+            price: 20
+          - playerName: Veretout
+            price: 20
+          - playerName: Calhanoglu
+            price: 20
+          - playerName: Kulusevski
+            price: 20      
+        Attaccanti: 
+          - playerName: Lukaku
+            price: 20
+          - playerName: Immobile
+            price: 20
+          - playerName: Muriel
+            price: 20
+          - playerName: Caputo
+            price: 20
+          - playerName: Belotti
+            price: 20
+          - playerName: Ilicic
+            price: 20
+    - teamName: Antonio
+      Crediti: 500
+      Slot_Rimanenti: 25
+      MassimoRilancio: 476
+      Rosa:
+        Portieri: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Difensori: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Centrocampisti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Attaccanti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+    - teamName: Simone
+      Crediti: 500
+      Slot_Rimanenti: 25
+      MassimoRilancio: 476
+      Rosa:
+        Portieri: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Difensori: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Centrocampisti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Attaccanti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+    - teamName: Danilo
+      Crediti: 500
+      Slot_Rimanenti: 25
+      MassimoRilancio: 476
+      Rosa:
+        Portieri: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Difensori: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Centrocampisti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Attaccanti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+    - teamName: Orazio
+      Crediti: 500
+      Slot_Rimanenti: 25
+      MassimoRilancio: 476
+      Rosa:
+        Portieri: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Difensori: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Centrocampisti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Attaccanti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+    - teamName: Vigani
+      Crediti: 500
+      Slot_Rimanenti: 25
+      MassimoRilancio: 476
+      Rosa:
+        Portieri: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Difensori: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Centrocampisti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Attaccanti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+    - teamName: Lorenzo
+      Crediti: 500
+      Slot_Rimanenti: 25
+      MassimoRilancio: 476
+      Rosa:
+        Portieri: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Difensori: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Centrocampisti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Attaccanti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+    - teamName: Robi
+      Crediti: 500
+      Slot_Rimanenti: 25
+      MassimoRilancio: 476
+      Rosa:
+        Portieri: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Difensori: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Centrocampisti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Attaccanti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+    - teamName: Manu
+      Crediti: 500
+      Slot_Rimanenti: 25
+      MassimoRilancio: 476
+      Rosa:
+        Portieri: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Difensori: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Centrocampisti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Attaccanti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+    - teamName: Cris
+      Crediti: 500
+      Slot_Rimanenti: 25
+      MassimoRilancio: 476
+      Rosa:
+        Portieri: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Difensori: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Centrocampisti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
+        Attaccanti: 
+          - playerName: Buffon
+            price: 20
+          - playerName: Donnarumma
+            price: 20
+          - playerName: Handanovic
+            price: 20
